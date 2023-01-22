@@ -20,6 +20,21 @@ body {
   .fullpage-overlay {
     position: fixed;
   }
+  footer {
+    text-align: center;
+    ul {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      list-style: none;
+      justify-content: center;
+      padding-inline-start: 0 !important;
+    }
+    li:not(:first-child)::before {
+      content:"·";
+      padding: 0 1em;
+    }
+  }
 }
 
 .button-dark-mode {
