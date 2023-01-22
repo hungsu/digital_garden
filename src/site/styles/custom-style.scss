@@ -37,6 +37,13 @@ body {
   }
 }
 
+@media (min-width:640px) {
+  // I don't like this very much - it ignores the --font-text-size variable
+  .content {
+    font-size: 20px;
+  }
+}
+
 .button-dark-mode {
   border: none;
   background-color: transparent !important; // To overcome button:not(.clickable-icon) from obsidian-base.scss
