@@ -5,6 +5,8 @@
 
 # Ad blocking makes the free internet worse
 
+Blocking ads makes your personal experience with the internet better. Many people collectively blocking ads makes the internet worse.
+
 By blocking ads, people have opted out of paying for free journalism. Only those without ad blockers pay the salaries of many editors, journalists and content creators. Such workers become incentivised to create content that appeals to this audience, who is older, less tech savvy, and more prone to fraud and misinformation. Over time this causes journalism to be less useful for all.[^1]
 
 For those who refuse to support advertising companies but want to support journalism, the [[Slow news movement\|Slow news movement]] is not advertiser-funded.
