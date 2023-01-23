@@ -15,11 +15,12 @@ First of all, there are some reasons not to, so let's get those out of the way.
 
 ## Why you should publish anyway
 
-Even with those risks in place, I've found the benefits of publishing to be far greater.
+Even with those risks in place, since I started publishing I've experienced these benefits which far outweigh the costs:
 
-- **It sharpens writing**. Before I put things online, I let myself write complete unintelligible crap that even I sometimes could not understand. Now, I'm forced to really edit, revise, and polish my words. This improves my communication in writing, at work, with friends and loved ones and beyond.
+- **I read more of my writing**. I read my notes quite a lot even without publishing them. Since publishing them, I find myself reading them even more, which acts like a gentle reminder system for the things which are important to me.
+- **It sharpens my writing**. Before I put things online, I let myself write complete unintelligible crap that even I sometimes could not understand. Now, I'm forced to really edit, revise, and polish my words. This improves my communication in writing, at work, with friends and loved ones and beyond.
 - **It sharpens thinking**. You may have heard of the [[Private/Feynman Learning Technique\|Feynman Learning Technique]], which states that to understand something, you should be able to express it simply. Publishing notes forces me to do this.
-- **It's fulfilling in the long term**. Activities like watching TV or playing a game often fulfil me only during the activity, leaving me very little to show for it. Writing is something I both enjoy doing and also leaves me with a useful memento of the activity.
+- **It's fulfilling in the long term**. Many activities provide only a fleeting, short term benefit. Activities like watching TV or playing a game may fulfil me only during the activity, leaving nothing to show for it. By contrast, writing is something I enjoy doing and also leaves me with a useful artifact I can reuse many times.
 - **The internet depends on it**. The following blog post expresses it better than I can:
  
 > **You are not blogging enough.** You are pouring your words into increasingly closed and often walled gardens. You are giving control - and sometimes ownership - of your content to social media companies that will SURELY fail. These companies are [profoundly overvalued](http://www.bloomberg.com/news/2012-05-11/facebook-ipo-overvalued-at-96-billion-in-global-investors-poll.html), [don't care about permalinks](https://www.hanselman.com/blog/GooglePlusOffersASophiesChoiceToEarlyAdoptersOfGoogleAppsViaAnIncompleteTakeoutMigrationTool.aspx), [don't make your content portable](https://www.hanselman.com/blog/GooglePlusOffersASophiesChoiceToEarlyAdoptersOfGoogleAppsViaAnIncompleteTakeoutMigrationTool.aspx), and have [terms of service that are so complex and obtuse that there are entire websites dedicate to explaining them](http://tos-dr.info/).<br/>
