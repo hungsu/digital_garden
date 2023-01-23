@@ -9,7 +9,7 @@ News that focuses on accuracy and relevance, at the expense of up time and respo
 
 ## Why read slow news? Isn't being up-to-date the point?
 
-"Traditional" news is rife with self-feeding problems. Since many people will not pay for news, it is funded by advertising and sponsorships which does not have the viewer's interests at heart. Being funded by advertising means news is incentivised to show as many ads as possible, meaning it prioritises *engagement*, and one of the most effective ways to engage is *outrage*. This circular dependency means news is saturated with outrageous news that degrades viewers mental health, advertising for products of often questionable quality, and news of such questionable accuracy as to be considered lies.
+"Traditional" news is rife with self-feeding problems. Since many people will not pay for news, it is funded by advertising and sponsorships which does not have the viewer's interests at heart. Being funded by advertising means news is incentivised to show as many ads as possible, meaning it prioritises *engagement*, and one of the most effective ways to engage is *outrage*[^2]. This circular dependency means news is saturated with outrageous news that degrades viewers mental health, advertising for products of often questionable quality, and news of such questionable accuracy as to be considered lies. Some call this postjournalism.
 
 To counter this, slow journalism offers the following:
 
@@ -26,6 +26,7 @@ To counter this, slow journalism offers the following:
 - [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
 - [Works in Progress](https://www.worksinprogress.co/) publishes every few months without a strict schedule. Free to read for all, but differs from the others in that it is funded by Stripe rather than by readers.
 - [The Pudding](https://pudding.cool/) publishes online once or twice a month with highly interactive stories. News is free to all, but paid supporters are given merchandise and access to a private Slack channel.
+- [Knowable Magazine](https://knowablemagazine.org/) is so good it is hard to believe it's free. Start with one of their highly researched comics, [Why do thieves keep stealing catalytic converters?](https://knowablemagazine.org/article/society/2021/why-do-thieves-keep-stealing-catalytic-converters-its-elemental). Then try one of their collections on [The Working Life](https://knowablemagazine.org/report/special-report-working-life), 
 
 ## Similar, but not slow news
 
@@ -34,9 +35,8 @@ Non profit news is funded by donations, but may post more regularly than slow ne
 - [Wikipedia News portal](https://en.wikipedia.org/wiki/Portal:Current_events) is my preferred sources for learning what's new around the world.
 - [Greater Good Magazine](https://greatergood.berkeley.edu/) has many fantastic articles on how to have better relationships and be a better person. One of my favourites is [How curiosity and consent can make old lovers new again](https://greatergood.berkeley.edu/article/item/how_curiosity_consent_can_make_old_lovers_new_again). Offers additional perks for donations of $50/year
 - [Propublica](https://www.propublica.org/) is a mostly reader funded publication which investigates US abuse of power. Has some ads, publishes a little too often, and feels too aggravating for me to read regularly. But has some excellent articles, such as [how to evaluate a non-profit](https://www.propublica.org/article/how-to-evaluate-charity-before-you-donate).
-- [[Private/Aeon\|Aeon]]'s writing is so good it is comparable to good books - the kind you go back to and reread when you need them. Their articles can run quite long and into difficult material, so you might want to start with something easier, like [The Biography of the Pixel](https://aeon.co/essays/a-biography-of-the-pixel-the-elementary-particle-of-pictures).
+- [Aeon](https://aeon.co/)'s writing is so good it is comparable to good books - the kind you go back to and reread when you need them. Their articles can run quite long and into difficult material, so you might want to start with something easier, like [The Biography of the Pixel](https://aeon.co/essays/a-biography-of-the-pixel-the-elementary-particle-of-pictures).
 - Axios, in particular for me, [Axios Seattle](https://www.axios.com/local/seattle). I like this a lot for being so relevant to me, as well as being reader funded. Additionally, accepts reader corrections and publishes them. Has a high quality daily email newsletter, with no external ads - just ad-like self promotion of itself, such as calls to donate, download its app, or look at its [job board](https://www.axios.com/jobs). Its writing is generally not worth re-reading, but is good for skimming to know what's happening in my area.
-- https://knowablemagazine.org/
 
 Government funded news, or [[Private/State media\|State media]] is funded by taxpayers, so occasionally locks access to geographic IP ranges.
 
@@ -46,3 +46,5 @@ Government funded news, or [[Private/State media\|State media]] is funded by tax
 Slow journalism is also on [Wikipedia](https://en.wikipedia.org/wiki/Slow_journalism)
 
 [^1]: https://www.theatlantic.com/membership/archive/2018/01/how-to-fact-check-the-atlantic/550355/
+
+[^2]: [[Private/Warnock's Dilemma\|Warnock's Dilemma]]
