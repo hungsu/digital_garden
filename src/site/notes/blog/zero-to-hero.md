@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zero-to-hero/"}
+{"dg-publish":true,"permalink":"/blog/zero-to-hero/","title":"Zero to hero: Part 1"}
 ---
 
 
@@ -13,20 +13,16 @@
 > I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know.
 > —[[Private/James Clear\|James Clear]] on [Twitter](https://twitter.com/JamesClear/status/1292574538912456707)
 
-It is the 16th of January, 2023 as I write this, and I work in a company with around 250 other UI software engineers. I don't understand problems or discussions the engineers have, other engineers don't seek my counsel, my code submissions come slowly, and are bombarded with suggestions for improvement. If there were a ranking of all the engineers, as determined by those engineers, I suspect I'd be somewhere near the bottom.
+It is the 16th of January, 2023 as I write this, and I work in a company with around 250 other UI software engineers. I don't understand problems or discussions the engineers have, other engineers don't seek my counsel, I make code submissions slowly, my submissions are bombarded with suggestions for improvement, and more. If there were a ranking of all the engineers, as determined by those engineers, I suspect I'd be somewhere near the bottom.
 
 You reading this are probably very smart, and enjoy the feeling of people coming to you for advice, and seeing their faces light up as you solve their problems. Or perhaps not. By contrast, feeling like a useless idiot is *crushing*. On more than one occasion I've wanted to quit and disappear into the mountains. This isn't impostor syndrome - the feeling of being an idiot when in fact one's skill is great. I genuinely have little to offer, and I don't want to stay this way.
 
-I've been thinking constantly for weeks about the idea of becoming a master in some domain. Particularly if that domain is highly subjective, barely defined, and non-measurable. Contrast this with [[Private/becoming top percentile\|becoming top percentile]], where the skill is highly measurable, usually in the form of a single scoreboard that is known to all participants.
+I've been thinking constantly for weeks about the idea of becoming a master in some domain. Particularly if that domain is highly subjective, barely defined, and non-measurable, like software engineering. Contrast this with [[Private/becoming top percentile\|becoming top percentile]], where the skill is highly measurable, usually in the form of a single scoreboard that is known to all participants.
 
+Something about feeling like a complete loser is filling me with an enormous urge to climb to the top.
 
-## Why do this?
+## Measuring the unmeasurable
 
-I cannot measure or definitively prove my (in)competence, but I frequently feel embarrassed, uneasy, or just plain useless. 
-
-In addition, I'd like to one day make a Great Work, or [[Private/Magnum opus\|Magnum opus]].
-
-## Creating measures
 
 I can feel myself being at "the bottom" in a number of ways:
 
