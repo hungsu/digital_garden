@@ -29,7 +29,7 @@ Sharing stories of how dumb you are is a risk. it isn't all that common for peop
 
 ## Measuring the unmeasurable
 
-Software engineering, like many skills, lacks commonly agreed metrics. What is valuable to one engineer might seem toxic to another. Even if engineering agrees on what is valuable, so much of engineering still cannot be measured. Are people skills important? Code conciseness?  Contrast this with [[Private/becoming top percentile\|becoming top percentile]], where the skill is highly measurable, usually in the form of a single scoreboard that is known to all participants.
+Software engineering, like many skills, lacks commonly agreed metrics. What is valuable to one engineer might seem toxic to another. Are people skills important? Code conciseness? Documentation? Tests? Even if engineering agrees on what is valuable, so much of engineering still doesn't have agreed metrics. Contrast this with [[Private/becoming top percentile\|becoming top percentile]], where the skill is highly measurable, usually in the form of a single scoreboard that is known to all participants.
 
 When the skill is so hard to measure, it's common to see vague advice, a lack of objectivity, perhaps a defense mechanism stemming from a sense of shame. I think I can do better, hence this publicly viewable post. I can feel myself being at "the bottom" in a number of ways I can define and measure:
 
@@ -47,16 +47,13 @@ My plan of attack for now is:
 
 - **Hunt and kill timewasters**. I waste a *lot* of time each day, which I crucially need to close the gap in PRs. Those timewasters include:
 	- fighting the company's tooling. I've lost entire days to this. Other engineers also lose time, but I suspect not as much, and I would like to find out how.
-	- fidgeting with background music. I am in an unwinnable situation where my home environment is distracting
-	- crawling docs and code.
+	- fidgeting with my phone. this is hard, as my work requires me to unlock and look at my phone for 2FA.
+	- crawling docs and code. My workplace's docs are so bad that most people default to asking in Slack.
 	- emails and slack - so often these yield nothing of value
-- **Block time for the key metrics**. My time keeps fizzling away, perhaps because I don't tame it. [[Private/Time blocking\|Time blocking]] will likely be my most important tool in this adventure.
+- **Block time for the key metrics**. My time keeps fizzling away, perhaps because I don't tame it. [[Private/Time blocking\|Time blocking]] will likely be my most important tool in this adventure, and not with a calendar app.
 - **Increase energy**. When my energy is low, my comprehension speed is also low. When I'm tired, I may reread the same words a dozen times without understanding, and also realise half an hour has gone by. [[Vaults/quartz/content/notes/ADHD\|ADHD]] time-blindness can really be a total bitch. To up the energy, I think I can:
 	- Look at my numbers. Somehow, seeing how far behind I am fills me with enormous desire to close the gap.
 	- Work on this plan. Like above, just making this plan (and *not* copying someone else's plan) fills me with zeal to become better.
-	- Gym
-	- Sleep
-	- Have a training montage playlist
 
 It is the 25th of January as I publish this note. I don't know if this plan will work - I've never been a master of anything. But at the very least, maybe for a moment, I can maybe be someone's hero. I look forward to becoming my future self, and writing about it in [[blog/zero-to-hero-part-2\|zero-to-hero-part-2]].
 
