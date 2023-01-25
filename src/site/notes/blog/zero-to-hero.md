@@ -23,24 +23,23 @@ Something about feeling like a complete loser is filling me with an enormous urg
 
 ## Measuring the unmeasurable
 
+A common trait of people who fail to improve are vague statements and a lack of objectivity about their current situation. I think I can do better.
 
-I can feel myself being at "the bottom" in a number of ways:
+I can feel myself being at "the bottom" in a number of ways I can define and measure:
 
-- I have low or no comprehension in text and verbal discussions. Meaning I both give and gain nothing from participating.
-- I rarely have thoughts to offer, and when I do such thoughts are not accepted. Thus I find myself avoiding offers to pair program because I fear I'll drag the other person down. 
-- I create *slowly* and at a quality that others do not approve, with a great volume of suggestions from reviewers
-
-From the above I'm able to identify my own measures and create suitable goals. Right now these could be:
-
-- Comprehension. I can measure this with accumulated Atomic Notes in the subject matter.
-- Helpfulness. I can measure this with *Questions Resolved per week*. 
-- Creation speed. I can measure this in PRs per week.
+- **Comprehension**. Low or no comprehension in text and verbal discussions. Other engineers I see discussing hard problems - I barely understand the problems, and certainly not the solutions they're debating. To improve, I'm going to try accumulating *[[Private/Evergreen note\|Evergreen note]]s about UI engineering* that I've written myself, which for now is *one*: I have one excellent note about virtual machines, but I will need many more.
+- **Helpfulness**. Other engineers get stuck every day. I rarely have thoughts to offer, and when I do, such thoughts are not accepted or do not resolve the problem. Thus I find myself avoiding offers to pair program because I fear I'll drag the other person down. The obvious metric is *Problems solved*, which for now I believe is *zero*.
+- **Creation speed**. I create *slowly* and at a quality that others do not approve, with a great volume of suggestions from reviewers. I will measure this in *PRs merged per month*. At time of writing, I am at around 1.16 PRs merged per month. By contrast, one of the most beloved engineers on the team is at 5.5 PRs merged per month. Another merged 14 PRs in the last month. I'm feeling pretty upset just typing this and seeing the gap, but it's important for me to see how big the gap is.
 
 ## Plan, then execute
 
-, plan to improve them, and do the work to practice.
+My most precious resource is *time*. With other engineers already so far ahead, I can't afford to waste time on things that don't help.
+
+plan to improve them, and do the work to practice.
 
 ## Getting feedback, and a coach
+
+<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://gfycat.com/ifr/WaryBewitchedDungenesscrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 > Professional athletes use coaches to make sure they are as good as they can be. But doctors don’t. I’d paid to have a kid just out of college look at my serve. So why did I find it inconceivable to pay someone to come into my operating room and coach me on my surgical technique?
 > —Atul, [The Coach in the Operating Room](https://www.newyorker.com/magazine/2011/10/03/personal-best)
@@ -102,7 +101,6 @@ Skyline thinks usually one of these:
 
 ### Having no goal
 
-Vague statements
 
 
 
