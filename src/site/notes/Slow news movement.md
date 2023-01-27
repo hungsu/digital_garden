@@ -22,11 +22,17 @@ To counter this, slow journalism offers the following:
 
 ## Examples of slow news
 
-- [Delayed Gratification](https://www.slow-journalism.com/) publishes once a quarter in both print and digital. Digital costs **£30** / year, print costs **£79** / year for me in the US.
-- [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
+My personal favourites:
+
 - [Works in Progress](https://www.worksinprogress.co/) publishes every few months without a strict schedule. Free to read for all, but differs from the others in that it is funded by Stripe rather than by readers.
 - [The Pudding](https://pudding.cool/) publishes online once or twice a month with highly interactive stories. News is free to all, but paid supporters are given merchandise and access to a private Slack channel.
 - [Knowable Magazine](https://knowablemagazine.org/) is so good it is hard to believe it's free. Start with one of their highly researched comics, [Why do thieves keep stealing catalytic converters?](https://knowablemagazine.org/article/society/2021/why-do-thieves-keep-stealing-catalytic-converters-its-elemental). Then try one of their collections on [The Working Life](https://knowablemagazine.org/report/special-report-working-life), 
+
+Others of note:
+
+- [Quanta Magazine](https://www.quantamagazine.org) has gorgeous art, diagrams, typography, and huge amounts of research and fact checking. Being mostly science focused, I find myself unable to understand and appreciate the material here, but perhaps you will.
+- [Delayed Gratification](https://www.slow-journalism.com/) publishes once a quarter in both print and digital. Digital costs **£30** / year, print costs **£79** / year for me in the US.
+- [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
 
 ## Similar, but not slow news
 
