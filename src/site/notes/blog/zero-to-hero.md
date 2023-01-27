@@ -35,7 +35,7 @@ When the skill is so hard to measure, it's common to see vague advice, a lack of
 
 - **Comprehension**. Low or no comprehension in text and verbal discussions. Other engineers I see discussing hard problems - I barely understand the problems, and certainly not the solutions they're debating. To improve, I'm going to try accumulating *[[Evergreen note\|Evergreen note]]s about UI engineering* that I've written myself. I would like this to be in the *hundreds*, but for now that number is *one*: I have one excellent note about virtual machines, but I will need many more.
 - **Helpfulness**. Other engineers get stuck every day. I rarely have thoughts to offer, and when I do, such thoughts are not accepted or do not resolve the problem. Thus I find myself avoiding offers to pair program because I fear I'll drag the other person down. The obvious metric is *Problems solved*, which for now I believe is *zero*.
-- **Creation speed**. I create *slowly* and at a quality that others do not approve, with a great volume of suggestions from reviewers. I will measure this in *PRs merged per month*. At time of writing, I am at around 1.16 PRs merged per month. By contrast, one of the most beloved engineers on the team is at 5.5 PRs merged per month. Another merged 14 PRs in the last month. And those people did so while helping others. I'm feeling pretty upset just typing this and seeing the gap, but it's important for me to see how big the gap is. It's tempting for me to prioritise this metric, but it depends strongly on *Comprehension*.
+- **Creation speed**. I create code *slowly* and at a quality that others do not approve. I will measure this in *PRs merged per month*. At time of writing, I am at around 1.16 PRs merged per month. By contrast, one of the most beloved engineers on the team averaged 5.5 PRs merged per month. Another merged 14 PRs in the last month. And those people did so while helping others. I'm feeling pretty upset just typing this and seeing the gap, but it's important for me to see how big the gap is. It's tempting for me to prioritise this metric, but it depends strongly on *Comprehension*.
 
 ## Plan, then execute
 
@@ -45,11 +45,12 @@ My most precious resource is *time*. With other engineers already so far ahead, 
 
 My plan of attack for now is:
 
-- **Hunt and kill timewasters**. I waste a *lot* of time each day, which I crucially need to close the gap in PRs. Those timewasters include:
+- **Pair program as often as I can bear**. This is the hardest and also the most important.
+- **Hunt and kill timewasters**. I waste a *lot* of time each day, which I crucially need to make PRs. Those timewasters include:
 	- fighting the company's tooling. I've lost entire days to this. Other engineers also lose time, but I suspect not as much, and I would like to find out how.
 	- fidgeting with my phone. this is hard, as my work requires me to unlock and look at my phone for 2FA.
-	- crawling docs and code. My workplace's docs are so bad that most people default to asking in Slack.
-	- emails and slack - so often these yield nothing of value
+	- crawling docs and code. My workplace's docs are so bad that most people default to asking in Slack. I should find ways to get answers faster, and store them in notes to avoid future lookups.
+	- emails and slack - these yield so little value I 
 - **Block time for the key metrics**. My time keeps fizzling away, perhaps because I don't tame it. [[Private/Time blocking\|Time blocking]] will likely be my most important tool in this adventure, and not with a calendar app.
 - **Increase energy**. When my energy is low, my comprehension speed is also low. When I'm tired, I may reread the same words a dozen times without understanding, and also realise half an hour has gone by. [[Vaults/quartz/content/notes/ADHD\|ADHD]] time-blindness can really be a total bitch. To up the energy, I think I can:
 	- Look at my numbers. Somehow, seeing how far behind I am fills me with enormous desire to close the gap.
