@@ -86,7 +86,6 @@ Should come with supporting as well as contrary links. Links can be notes, books
 - [[Public/USB webcams are crap\|USB webcams are crap]]
 - [[Vaults/quartz/content/notes/All failure is systems failure\|All failure is systems failure]]
 - [[Vaults/quartz/content/notes/Backlinks should include context\|Backlinks should include context]]
-- [[Vaults/quartz/content/notes/DONE lists are better than TODO lists\|DONE lists are better than TODO lists]]
 - [[Vaults/quartz/content/notes/Earned structure\|Earned structure]]
 - [[Vaults/quartz/content/notes/Every productivity system stops working eventually\|Every productivity system stops working eventually]]
 - [[Vaults/quartz/content/notes/Feelings are not up for debate\|Feelings are not up for debate]]
@@ -99,4 +98,5 @@ Should come with supporting as well as contrary links. Links can be notes, books
 - [[Private/Information is more valuable than physical cargo\|Information is more valuable than physical cargo]]
 - [[Private/Noise pollution makes us unwell\|Noise pollution makes us unwell]]
 - [[Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]]
+- [[Vaults/quartz/content/notes/DONE lists are better than TODO lists\|DONE lists are better than TODO lists]]
 
