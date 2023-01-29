@@ -4,7 +4,8 @@
     <title>{{ noteTitle }}</title>
     {%include "components/pageheader.njk"%}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager align-title-center ss-title-gradient type-scale-major-second heading-ligatures mathjax-font-default circled-ol ss-links-sc blockquote-bustle callout-border-gradient">
+
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
