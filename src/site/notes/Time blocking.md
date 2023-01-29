@@ -4,20 +4,23 @@
 
 # Time blocking
 
+> it makes you twice as productive as those suckers who rely on lists.
+> —[[Private/Cal Newport\|Cal Newport]]
+
 A time management and task management method that assigns periods of time to work on tasks. 
 
 ## The method
 
-1. Open your planner. A calendar app can work, but paper is preferable so that you are not exposed to notifications or other distractions.
+1. Open your planner. A calendar app can work, but paper is preferable so that you are not exposed to notifications or other distractions such as your email and Slack.
 2. Draw blocks for pre-existing commitments. A block has a start time, end time, and what it's for.
 3. Draw blocks for the things you want to work on
-4. Must be followed by a self-review at the end of the day, perhaps as part of a larger [[Private/End of work day ritual\|End of work day ritual]].[^1]
-
-> it makes you twice as productive as those suckers who rely on lists.
-> —[[Private/Cal Newport\|Cal Newport]]
+4. Commit to the blocks you have drawn. Consider using a Tomato Timer or [[Vaults/quartz/content/notes/Time timer\|Time timer]].
+5. If interruptions or delays occur, redraw your blocks. Another reason why paper is advantageous is that you can see these corrections. A digital calendar will not.
+6. At the end of the day, review tasks you didn't finish, and new tasks that came in.[^1] Consider doing this as part of a larger [[Private/end of work day ritual\|end of work day ritual]].
 
 ## Why?
-Scheduling can be a prison, but can also be a defensive wall against external thieves of your time
+
+Scheduling can be a prison, but can also be a defensive wall against external thieves of your time.
 
 [[Private/Protect your time or it will be taken from you\|Protect your time or it will be taken from you]]
 
