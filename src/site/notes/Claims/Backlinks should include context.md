@@ -5,7 +5,7 @@
 
 # Backlinks should include context
 
-[Backlinks](backlink.md) are becoming increasingly popular in note taking applications, such as [[Obsidian\|Obsidian]] and [[Public/Notion\|Notion]]. But sometimes these apps fail to supply context in their backlinks and thus make them worse to use.
+[Backlinks](backlink.md) are becoming increasingly popular in note taking applications, such as [[Software/Obsidian\|Obsidian]] and [[Public/Notion\|Notion]]. But sometimes these apps fail to supply context in their backlinks and thus make them worse to use.
 
 For example, below in Notion you can see that the current page *Horror Movies* has 8 backlinks. But we do not know why. Does Caitlin Floyd direct horror movies? Is Justice Fears a Horror Movie critic? Who knows!
 
