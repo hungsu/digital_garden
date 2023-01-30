@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evergreen-note/"}
+{"dg-publish":true,"permalink":"/concepts/evergreen-note/"}
 ---
 
 # Evergreen Note
@@ -7,7 +7,7 @@ A note that is strong yet always growing. Popularised by [[Vaults/quartz/content
 
 Principles of an evergreen note:
 
-- Have titles like APIs. I have [[Vaults/quartz/content/notes/Advice for writing better note titles\|Advice for writing better note titles]].
+- Have titles like APIs. I have [[Advice/Advice for writing better note titles\|Advice for writing better note titles]].
 - They are always [[Public/Atomic notes\|Atomic notes]] - they describe a single idea or have a single named purpose.
 - Concept oriented, usually.
 - Densely linked to and from other notes. 

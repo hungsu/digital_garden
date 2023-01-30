@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-plugin/"}
+{"dg-publish":true,"permalink":"/software/digital-garden-plugin/"}
 ---
 
 
