@@ -9,8 +9,14 @@
 
 Since knowledge workers self regulate their workload, they default to a simple strategy: start saying “no” when they feel stressed. The problem with this strategy, is that they don’t start pulling back until _after_ they have too much going on: leading to the 20% overload that’s so consistently observed.
 
+The overload manifests in many forms, including but not limited to:
+
+- Stress eating
+- Emotional outbursts
+- Feelings of doom and worthlessness
+
 ## Potential remedies
 
 Rather than the common 40 hour work week, knowledge workers should consider a [[Private/5-hour work day\|5-hour work day]] or [[Private/Four day work week\|Four day work week]].
 
-[How to start saying no](notes/How%20to%20start%20saying%20no).
+[[Vaults/quartz/content/notes/How to start saying no\|How to start saying no]]
