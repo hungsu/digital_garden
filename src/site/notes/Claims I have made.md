@@ -97,6 +97,6 @@ Should come with supporting as well as contrary links. Links can be notes, books
 - [[Vaults/quartz/content/notes/Your diet sets your happiness\|Your diet sets your happiness]]
 - [[Private/Information is more valuable than physical cargo\|Information is more valuable than physical cargo]]
 - [[Private/Noise pollution makes us unwell\|Noise pollution makes us unwell]]
-- [[Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]]
 - [[Vaults/quartz/content/notes/DONE lists are better than TODO lists\|DONE lists are better than TODO lists]]
+- [[Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]]
 
