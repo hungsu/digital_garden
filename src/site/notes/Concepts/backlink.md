@@ -7,7 +7,7 @@
 
 A link that allows you to go visit sources that link to the file you are currently looking at. This blog has a list of Backlinks at the bottom of every page. If you are on a computer with a mouse, you can hover over the backlinks to see the context. I strongly believe that [Backlinks should include context](Backlinks%20should%20include%20context.md).
 
-Called a *Linked Mention* by [[Obsidian\|Obsidian]], similar to how social media notifies an account when it is Mentioned.
+Called a *Linked Mention* by [[Software/Obsidian\|Obsidian]], similar to how social media notifies an account when it is Mentioned.
 
 Less Wrong calls them [Pingbacks](https://www.lesswrong.com/posts/FvTc37vCGZQZdMWoz/site-update-subscriptions-bookmarks-and-pingbacks#gzbeSrCwaXyzo9Nkq)
 
