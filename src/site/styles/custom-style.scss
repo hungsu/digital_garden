@@ -42,6 +42,7 @@ body {
   .callout {
     font-family: 'Spectral', 'Times New Roman', 'serif';
   }
+  [data-callout="quote"] .callout-content .tag {display:none;}
 }
 
 @media (min-width:640px) {
