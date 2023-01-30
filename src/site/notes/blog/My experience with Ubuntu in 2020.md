@@ -3,7 +3,7 @@
 ---
 
 
-On 2020-November-10, I installed [[Private/Ubuntu\|Ubuntu]] 18.04 on [my computer](notes/computer). As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
+On 2020-November-10, I installed [[Private/Ubuntu\|Ubuntu]] 18.04 on my [[Vaults/quartz/content/notes/computer\|computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
 
 ## Things I liked and will miss
 
