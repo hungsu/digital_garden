@@ -83,7 +83,7 @@ They have some advantages, namely that they give you some idea of how large the 
  - Javascript is cancer
  - Boomer advice you need to unlearn
 
-**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles, such as [[Niklas Luhmann\|Niklas Luhmann]], [[Sonke Ahrens\|Sonke Ahrens]], [Andy Matuschak](notes/Andy%20Matuschak)  and so on. You should keep this to a minimum as doing this tends to stifle your own thinking.
+**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles, such as [[Niklas Luhmann\|Niklas Luhmann]], [[Private/People/Sonke Ahrens\|Sonke Ahrens]], [Andy Matuschak](notes/Andy%20Matuschak)  and so on. You should keep this to a minimum as doing this tends to stifle your own thinking.
 
 ---
 
