@@ -8,6 +8,6 @@ G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/Digital g
 
 I refer back to my own [[Private/advice\|advice]] at times, and I make some potentially controversial [[Claims/1. What is a claim\|claims]].
 
-These notes are written using [[Software/Obsidian\|Obsidian]], then published using the [[Software/Digital Garden plugin\|Digital Garden plugin]] by Oleeskild, [[Private/Github\|Github]], and [[Netlify\|Netlify]]. 
+These notes are written using [[Software/Obsidian\|Obsidian]], then published using the [[Software/Digital Garden plugin\|Digital Garden plugin]] by Oleeskild, [[Private/Github\|Github]], and [[Software/Netlify\|Netlify]]. 
 
 I enjoy UI and UX design, especially [[Vaults/quartz/content/notes/typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
