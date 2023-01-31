@@ -3,7 +3,7 @@
 ---
 
 # Evergreen Note
-A note that is strong yet always growing. Popularised by [[Vaults/quartz/content/notes/Andy Matuschak\|Andy Matuschak]] and are well described on his [blog](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). Name derived from trees that are green all year, similarly Evergreen Notes are always in season. 
+A note that is strong yet always growing. Popularised by [[People/Andy Matuschak\|Andy Matuschak]] and are well described on his [blog](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). Name derived from trees that are green all year, similarly Evergreen Notes are always in season. 
 
 Principles of an evergreen note:
 
