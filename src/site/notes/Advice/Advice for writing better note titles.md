@@ -83,7 +83,7 @@ They have some advantages, namely that they give you some idea of how large the 
  - Javascript is cancer
  - Boomer advice you need to unlearn
 
-**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles, such as [[Niklas Luhmann\|Niklas Luhmann]], [[Private/People/Sonke Ahrens\|Sonke Ahrens]], [Andy Matuschak](notes/Andy%20Matuschak)  and so on. You should keep this to a minimum as doing this tends to stifle your own thinking.
+**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles, such as [[Niklas Luhmann\|Niklas Luhmann]], [[Private/People/Sonke Ahrens\|Sonke Ahrens]], [Andy Matuschak](Andy%20Matuschak.md)  and so on. You should keep this to a minimum as doing this tends to stifle your own thinking.
 
 ---
 
@@ -93,7 +93,7 @@ In putting together this note, I read many others. Here are some of the best:
 
 Bryan Jenks - [A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS](https://youtu.be/r-buPWeuTPc?t=1164)
 
-[[Vaults/quartz/content/notes/Andy Matuschak\|Andy Matuschak]]:
+[[People/Andy Matuschak\|Andy Matuschak]]:
 - [Prefer note titles with complete phrases](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)
 - [Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp)
 - [Note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)
