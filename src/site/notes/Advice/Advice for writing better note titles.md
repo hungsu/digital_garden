@@ -43,7 +43,7 @@ In writing this way you may also learn to be more assertive and sure of yourself
 **Link to the note**. By considering how another note is related to the current note, this puts you in a mindset to consider a usable title. For example, 
 
 - There was an existing document, `Run VM using Vagrant`. But, I couldn't use this document as it was written for users running x86 Macs and I had an M1 Mac. In response, I wrote a document `Run Windows VM on M1 Mac using Parallels`, then added a link to my document in the original.
-- I had a note with reasons for using apps like Obsidian, called "Reasons to use a linked note system". This was precise, but felt weak and uninspiring to use whenever I tried to link it. Changing it to an imperative, "[You should link your notes](notes/You%20should%20link%20your%20notes)" made it much more fun to put in other documents.
+- I had a note with reasons for using apps like Obsidian, called "Reasons to use a linked note system". This was precise, but felt weak and uninspiring to use whenever I tried to link it. Changing it to an imperative, "[You should link your notes](You%20should%20link%20your%20notes.md)" made it much more fun to put in other documents.
 
 **Write the document**. Titles tend to emerge from the document as it is written. You may realise on writing the body, you cannot deliver on the promise of your original title. Changing the title then becomes obvious. You may also realise on writing the title, that no single title can encapsulate all you have written. This is a good indicator that your note should be broken apart into atomic notes.
 
