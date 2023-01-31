@@ -19,4 +19,4 @@ The overload manifests in many forms, including but not limited to:
 
 Rather than the common 40 hour work week, knowledge workers should consider a [[Private/5-hour work day\|5-hour work day]] or [[Private/Four day work week\|Four day work week]].
 
-[[Vaults/quartz/content/notes/How to start saying no\|How to start saying no]]
+[[Advice/How to start saying no\|How to start saying no]]
