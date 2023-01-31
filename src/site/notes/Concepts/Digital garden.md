@@ -17,7 +17,7 @@ A digital garden is very similar to a blog.
 But digital gardens have a few differences:
 
 - **Always growing**. All notes are permanently a work in progress. Blogs prefer the philosophy of keeping a post exactly the same after it is published, and if it is changed, a very prominent addendum should be added. Digital gardens don't bother with this limitation, and relish making changes at the whim of the author. A signature of digital gardens of the 90s was [Under Construction GIFs](http://textfiles.com/underconstruction/).
-- **Link first organisation**. Blogs almost always to have a chronological timeline view, with recent posts at the top. A digital garden often has no such timeline, favouring Links from one post to another as a way to get around. Some even have [backlinks](backlink.md).
+- **Link first organisation**. Blogs almost always to have a chronological timeline view, with recent posts at the top. A digital garden often has no such timeline, favouring Links from one post to another as a way to get around. Some even have [[Concepts/backlink\|backlink]]s.
 - **No ads or upsells**. Blogs frequently have ads, or are written so the author can sell you another product. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
 
 ## Etymology of the Analogy
@@ -31,12 +31,10 @@ By contrast, a digital gardener prevents notes from rotting by treating their no
 
 The earliest occurrence of the term "garden" for online notes may be this 1998 essay, [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html).
 
-[Maggie Appleton](Maggie%20Appleton.md) wrote and illustrated a much better analogy of digital gardens here: [Growing the Evergreens](https://maggieappleton.com/evergreens)
+[[Public/People/Maggie Appleton\|Maggie Appleton]] wrote and illustrated a much better analogy of digital gardens here: [Growing the Evergreens](https://maggieappleton.com/evergreens), and another essay, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
 
 ## More reading
 
-My digital garden is made using Obsidian and [Quartz](Quartz%20by%20Jacky.md). I previously used something called Foam Research, then Jekyll. Next, I'm considering something called [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
+[[Vaults/quartz/content/notes/My favourite blogs\|My favourite blogs and digital gardens]]
 
-For more, I might suggest [my favourite blogs and digital gardens](notes/My%20favourite%20blogs).
-
-[Maggie Appleton](Maggie%20Appleton.md) wrote a phenomenal essay on the topic: [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
+My digital garden is made using Obsidian and Oleeskild's [[Software/Digital Garden plugin\|Digital Garden plugin]]. I previously used something called Foam Research, then Jekyll, then [[Software/Quartz by Jacky\|Quartz by Jacky]]. 
