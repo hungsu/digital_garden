@@ -20,7 +20,7 @@ But digital gardens have a few differences:
 - **Link first organisation**. Blogs almost always to have a chronological timeline view, with recent posts at the top. A digital garden often has no such timeline, favouring Links from one post to another as a way to get around. Some even have [[Concepts/backlink\|backlink]]s.
 - **No ads or upsells**. Blogs frequently have ads, or are written so the author can sell you another product. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
 
-## Etymology of the Analogy
+## Why the funny name?
 
 Digital gardens were greatly motivated by the observation that simple handwritten notes tend to *rot*. Some time after they are written, the author may lose them entirely, or forget what the note means.
 
