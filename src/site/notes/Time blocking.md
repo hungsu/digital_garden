@@ -14,7 +14,7 @@ A time management and task management method that assigns periods of time to wor
 1. Open your planner. A calendar app can work, but paper is preferable so that you are not exposed to notifications or other distractions such as your email and Slack.
 2. Draw blocks for pre-existing commitments. A block has a start time, end time, and what it's for.
 3. Draw blocks for the things you want to work on
-4. Commit to the blocks you have drawn. Consider using a Tomato Timer or [[Vaults/quartz/content/notes/Time timer\|Time timer]].
+4. Commit to the blocks you have drawn. Consider using a Tomato Timer or [[Gear/Time timer\|Time timer]].
 5. If interruptions or delays occur, redraw your blocks. Another reason why paper is advantageous is that you can see these corrections. A digital calendar will not.
 6. At the end of the day, review tasks you didn't finish, and new tasks that came in.[^1] Consider doing this as part of a larger [[Private/end of work day ritual\|end of work day ritual]].
 
