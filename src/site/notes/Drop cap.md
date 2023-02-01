@@ -11,7 +11,7 @@ https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-be
 
 ## Examples
 
-[[Public/People/Gwern Branwen\|Gwern Branwen]] has pretty drop caps on his [website](https://www.gwern.net/LARPing)
+[[People/Gwern Branwen\|Gwern Branwen]] has pretty drop caps on his [website](https://www.gwern.net/LARPing)
 
 [[Private/Undark\|Undark]] have a circle around their drop caps
 https://undark.org/2022/09/09/book-excerpt-rituals-and-the-search-for-order/
