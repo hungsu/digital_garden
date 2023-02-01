@@ -11,4 +11,4 @@ Learned about them from [[Private/crinacle\|crinacle]]'s [TWS list](https://crin
 
 Part of the reason I bought them was the wireless charging. My previous pair of wireless earphones charged over Micro-USB and were quite frustrating to use.
 
-Being wireless, one drawback is that the latency is sometimes noticeable while playing videogames. A gunshot is always seen before it is heard, which is incredibly distracting. Hence I still have my wired earphones, the [[Gear/7Hertz Timeless Planar earphones\|7Hertz Timeless Planar earphones]].
+Being wireless, one drawback is that the latency is sometimes noticeable while playing videogames. A gunshot is always seen before it is heard, which is incredibly distracting. Hence I still have my wired earphones, the [[Gear/7Hertz Timeless earphones\|7Hertz Timeless earphones]].
