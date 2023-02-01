@@ -31,7 +31,7 @@ By contrast, a digital gardener prevents notes from rotting by treating their no
 
 The earliest occurrence of the term "garden" for online notes may be this 1998 essay, [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html).
 
-[[Public/People/Maggie Appleton\|Maggie Appleton]] wrote and illustrated a much better analogy of digital gardens here: [Growing the Evergreens](https://maggieappleton.com/evergreens), and another essay, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
+[[People/Maggie Appleton\|Maggie Appleton]] wrote and illustrated a much better analogy of digital gardens here: [Growing the Evergreens](https://maggieappleton.com/evergreens), and another essay, [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
 
 ## More reading
 
