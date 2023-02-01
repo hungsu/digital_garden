@@ -7,7 +7,7 @@
 
 The movies I happily rewatch year after year. In approximate chronological order:
 
-- [[Private/12 Angry Men\|12 Angry Men]]
+- [[Movies/12 Angry Men\|12 Angry Men]]
 - [[Private/Robocop (1987)\|Robocop (1987)]]
 - [[Private/Kiki's Delivery Service\|Kiki's Delivery Service]], particularly when I feel like I've been stuck in a rut
 - [[Movies/Mulan (1998)\|Mulan (1998)]]
