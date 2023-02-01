@@ -11,6 +11,8 @@ A time management and task management method that assigns periods of time to wor
 
 ## The method
 
+![](https://images.ctfassets.net/dm4oa8qtogq0/4TX4sf646bho3bNtnOKLFr/afcd4912bdc83f1eb6ed2709ad2acf92/Time_blocking.png)
+
 1. Open your planner. A calendar app can work, but paper is preferable so that you are not exposed to notifications or other distractions such as your email and Slack.
 2. Draw blocks for pre-existing commitments. A block has a start time, end time, and what it's for.
 3. Draw blocks for the things you want to work on
