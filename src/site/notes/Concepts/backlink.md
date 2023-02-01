@@ -13,7 +13,7 @@ Less Wrong calls them [Pingbacks](https://www.lesswrong.com/posts/FvTc37vCGZQZdM
 
 ## Other people's opinions
 
-By far the best article I've found about backlinks is [[Public/People/Maggie Appleton\|Maggie Appleton]]'s online essay: [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals). Here's a snip:
+By far the best article I've found about backlinks is [[People/Maggie Appleton\|Maggie Appleton]]'s online essay: [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals). Here's a snip:
 > The idea of the bi-directional link goes all the way back to 1945, when [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush) dreamed up the [[Private/Memex\|Memex]] machine. Vannevar outlined this hypothetical gadget in an essay in _The Atlantic_ called [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/). He wanted a system capable of “associative indexing... whereby any item may be caused at will to select immediately and automatically another... (so that) numerous items have been thus joined together to form a trail.”
 
 Zettelkasten.de says [backlinks are bad](https://zettelkasten.de/posts/backlinks-are-bad-links/):
