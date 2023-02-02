@@ -13,7 +13,7 @@ The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I f
 
 ## Why I stopped using it
 
-**Weird formatting requirements**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway will result in broken links and backlinks.
+**Weird formatting requirements**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway will result in broken links and backlinks. This has another consequence, Obsidian is unable to automatically update links in this format if you rename or move them.
 
 Overall this made publishing more difficult, and maintenance of my vault difficult.
 
