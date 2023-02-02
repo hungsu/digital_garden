@@ -10,6 +10,6 @@ I refer back to my own [[Private/advice\|advice]] at times, and I make some pote
 
 These notes are written using [[Software/Obsidian\|Obsidian]], then published using the [[Software/Digital Garden plugin\|Digital Garden plugin]] by Oleeskild, [[Private/Github\|Github]], and [[Software/Netlify\|Netlify]]. 
 
-I enjoy UI and UX design, especially [[Vaults/quartz/content/notes/typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
+I enjoy UI and UX design, especially [[typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
 
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
