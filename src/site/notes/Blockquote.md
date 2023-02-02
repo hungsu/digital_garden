@@ -5,7 +5,7 @@
 
 # Blockquote
 
-A long phrase or quotation that is embellished or highlighted as being especially important. They can function as an opportunity to show some [typographic](notes/typography) flair.
+A long phrase or quotation that is embellished or highlighted as being especially important. They can function as an opportunity to show some [[Vaults/quartz/content/notes/typography\|typographic]] flair.
 
 ## Pretty examples
 
