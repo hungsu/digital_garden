@@ -11,7 +11,8 @@ The movies I happily rewatch year after year. In approximate chronological order
 - [[Private/Robocop (1987)\|Robocop (1987)]]
 - [[Private/Kiki's Delivery Service\|Kiki's Delivery Service]], particularly when I feel like I've been stuck in a rut
 - [[Movies/Mulan (1998)\|Mulan (1998)]]
-- [[Private/Office Space\|Office Space]]
+- [[Private/Hercules (1998)\|Hercules (1998)]]
+- [[Movies/Office Space\|Office Space]]
 - [[Lilo and Stitch (2002)\|Lilo and Stitch (2002)]]
 - [[Ratatouille (2007)\|Ratatouille (2007)]]
 - [[Private/Paddington (2014)\|Paddington (2014)]] and [[Private/Paddington 2  (2017)\|Paddington 2  (2017)]]
@@ -21,6 +22,7 @@ I haven't watched the following movies enough times, but they may find themselve
 
 - [[Private/Interview with the Vampire (1994)\|Interview with the Vampire (1994)]]
 - Snatch
+- [[Shrek 2\|Shrek 2]]
 - Miss Pettigrew lives for a day (2008)
 - [[Private/Tron Legacy\|Tron Legacy]]
 - The Best Exotic Marigold Hotel, and The Second Best Exotic Marigold Hotel
