@@ -10,7 +10,7 @@ People do not realise how important document titles are. I've said before, [[Pri
 - People who make no attempt at all to write titles, and can be found with dozens of documents all named "Untitled". This person often cannot find what they're looking for and blames their computer. 
 - People who try very hard to name their documents but do not understand what makes a good title. I found a wonderful guide explaining in depth how to add a security certificate to a Windows virtual machine if it was running on a MacOS host, and the author titled it simply "Windows VMs". The guide did not explain anything else. I only knew the guide existed at all because a coworker gave it to me directly, it would have been impossible to find otherwise. 
 
-Thus, when you have a good document within a [PKM](PKM.md) system or even a team wiki, how do we write a good and useful title for it?
+Thus, when you have a good document within a [[Concepts/PKM\|PKM]] system or even a team wiki, how do we write a good and useful title for it?
 
 Qualities we want:
 
@@ -43,7 +43,7 @@ In writing this way you may also learn to be more assertive and sure of yourself
 **Link to the note**. By considering how another note is related to the current note, this puts you in a mindset to consider a usable title. For example, 
 
 - There was an existing document, `Run VM using Vagrant`. But, I couldn't use this document as it was written for users running x86 Macs and I had an M1 Mac. In response, I wrote a document `Run Windows VM on M1 Mac using Parallels`, then added a link to my document in the original.
-- I had a note with reasons for using apps like Obsidian, called "Reasons to use a linked note system". This was precise, but felt weak and uninspiring to use whenever I tried to link it. Changing it to an imperative, "[You should link your notes](You%20should%20link%20your%20notes.md)" made it much more fun to put in other documents.
+- I had a note with reasons for using apps like Obsidian, called "Reasons to use a linked note system". This was precise, but felt weak and uninspiring to use whenever I tried to link it. Changing it to an imperative, "[[Claims/You should link your notes\|You should link your notes]]" made it much more fun to put in other documents.
 
 **Write the document**. Titles tend to emerge from the document as it is written. You may realise on writing the body, you cannot deliver on the promise of your original title. Changing the title then becomes obvious. You may also realise on writing the title, that no single title can encapsulate all you have written. This is a good indicator that your note should be broken apart into atomic notes.
 
@@ -83,7 +83,7 @@ They have some advantages, namely that they give you some idea of how large the 
  - Javascript is cancer
  - Boomer advice you need to unlearn
 
-**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles, such as [[Niklas Luhmann\|Niklas Luhmann]], [[Private/People/Sonke Ahrens\|Sonke Ahrens]], [Andy Matuschak](Andy%20Matuschak.md)  and so on. You should keep this to a minimum as doing this tends to stifle your own thinking.
+**Name drop**. It has become popular in PKM blogs and videos lately to hijack the fame of others by mentioning their names in titles. You should keep this to a minimum as doing this tends to stifle your own thinking.
 
 ---
 
