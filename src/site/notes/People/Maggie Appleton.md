@@ -3,7 +3,7 @@
 ---
 
 
-A [[Vaults/quartz/content/notes/UI design\|UI design]]er with one of [[My favourite blogs\|my favourite blogs]]: [The Garden](https://maggieappleton.com/)
+A [[Vaults/quartz/content/notes/UI design\|UI design]]er with one of [[My favourite blogs\|my favourite blogs]]: [The Garden](https://maggieappleton.com/garden)
 
 Did a [bit](https://www.instagram.com/p/B5IdkN4hjS6/) for [[Private/Pudding.cool\|Pudding.cool]] 
 
