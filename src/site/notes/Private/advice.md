@@ -11,6 +11,7 @@ Related to a "How to", but does not prescribe precise steps for success. Instead
 - [[Advice/Advice for writing better note titles\|Advice for writing better note titles]]
 - [[Advice/How to start saying no\|How to start saying no]]
 - [[Private/On measuring organisation methods\|On measuring organisation methods]]
-- [[Private/On succeeding at remote work with ADHD\|On succeeding at remote work with ADHD]]
 - [[Private/Tips to reduce overcollecting\|Tips to reduce overcollecting]]
+- [[Private/On succeeding at remote work with ADHD\|On succeeding at remote work with ADHD]]
+- [[Advice/On succeeding at remote work with ADHD\|On succeeding at remote work with ADHD]]
 
