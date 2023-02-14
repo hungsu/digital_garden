@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-blogs/","title":"My favourite blogs and digital gardens"}
+{"dg-publish":true,"permalink":"/my-favourite-blogs/"}
 ---
 
 
-My personal notes are heavily inspired by the personal notes, blogs, and [digital gardens](Digital%20garden.md) of many others.
+# My favourite blogs and digital gardens
+
+My personal notes are heavily inspired by the personal notes, blogs, and [[Concepts/Digital garden\|digital gardens]] of many others.
 
 ## The ones I love the most
 
