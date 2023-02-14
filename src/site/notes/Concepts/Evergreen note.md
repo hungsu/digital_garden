@@ -20,7 +20,7 @@ In my opinion, Evergreen Notes are one of the most important artefacts people to
 
 ## Opinions
 
-are similar to marginalia in that they are one's own thoughts
+are similar to [[Private/marginalia\|marginalia]] in that they are one's own thoughts
 but different in that it cannot connect with other thoughts
 
 similar to memorisation in that they're connected to other thoughts, but different in that recorded in a form others can read
