@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/public/home/","title":"Hung-Su's notes","tags":["gardenEntry"],"dgShowBacklinks":false}
 ---
 
+
 ![Venice beach with ebike.jpg](/img/user/Embeds/Venice%20beach%20with%20ebike.jpg)
 
 G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/Digital garden\|digital garden]] 😀 They are of varying levels of quality, but they're all 100% written by me. You might be curious about [[Why publish notes\|why I publish notes]].
