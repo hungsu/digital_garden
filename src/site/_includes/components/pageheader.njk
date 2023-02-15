@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
 {%-if meta.themeStyle%}
     <link href="/styles/obsidian-base.css" rel="stylesheet">
@@ -13,10 +12,17 @@
 {%endif%}
 
 <link href="/styles/custom-style.css" rel="stylesheet">
+{%- for style in dynamics.styles -%}
+<link href="{{style}}" rel="stylesheet">
+{%- endfor -%}
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+<style>
+body.css-settings-manager { --line-height-body: 1.4; --font-title: Playfair Display; --title-weight: 850; --heading-weight: 600; --body-weight: 300; --bold-weight: 700; --font-default: Spectral; }
+</style>
+
 {% favicon './src/site/favicon.svg' %}
 
 {% if metatags %}
@@ -24,7 +30,3 @@
         <meta name="{{ name }}" content="{{ content }}">
     {% endfor %}
 {% endif %}
-
-<style>
-body.css-settings-manager { --line-height-body: 1.4; --font-title: Playfair Display; --title-weight: 850; --heading-weight: 600; --body-weight: 300; --bold-weight: 700; --font-default: Spectral; }
-</style>
