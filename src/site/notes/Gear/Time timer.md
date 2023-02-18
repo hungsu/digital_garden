@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gear/time-timer/","title":"Time timer"}
+{"dg-publish":true,"permalink":"/gear/time-timer/"}
 ---
 
 ![](https://m.media-amazon.com/images/I/711vrQPS8eL._SL1500_.jpg)
 
-A physical timer, which operates on a single [[Private/AA battery\|AA battery]]. Twisting the center knob resizes the coloured portion, which immediately starts shrinking as time progresses. A switch on the back enables an optional buzzer when the time runs out.
+# Time timer
+
+A physical timer, which operates on a single [[Gear/AA battery\|AA battery]]. Twisting the center knob resizes the coloured portion, which immediately starts shrinking as time progresses. A switch on the back enables an optional buzzer when the time runs out.
 
 I first heard about this gadget from the Youtube channel [[Private/How to ADHD\|How to ADHD]]. It's common for those  with [[Private/ADHD\|ADHD]] to fidget, and also have trouble with [[Private/Time management\|Time management]]. Thus, a physical object with an easily understandable interface we can fiddle with is much more appealing than a clock app on our phone or computer. In addition, using an app consumes crucial screen space I'd rather reserve for my work.
 
