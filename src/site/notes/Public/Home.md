@@ -17,4 +17,5 @@ This site doesn’t use ads, cookies, or analytics and never will. I’m privacy
 
 ## Blog of sorts
 
+- 2023 February 9: I tried installing some brass [[Private/quick connect fitting\|quick connect fitting]]s to my hoses, but they leaked.
 - 2022 November 12: With Elon Musk’s acquisition of Twitter I’ve started a new [[Software/Mastodon\|Mastodon]] account
