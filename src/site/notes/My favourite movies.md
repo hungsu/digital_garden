@@ -29,5 +29,5 @@ I haven't watched the following movies enough times, but they may find themselve
 - [[Movies/Grand Budapest Hotel\|Grand Budapest Hotel]]
 - [[Jumanji Welcome to the Jungle\|Jumanji Welcome to the Jungle]]
 - [[Green book (2018)\|Green book (2018)]]
-- [[Private/Mrs Harris goes to Paris\|Mrs Harris goes to Paris]]
+- [[Movies/Mrs Harris goes to Paris\|Mrs Harris goes to Paris]]
 - [[Private/Glass Onion\|Glass Onion]]
