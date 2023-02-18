@@ -11,6 +11,12 @@ Host of static websites, and provider of tools such as [NetlifyCMS](https://www.
 
 Nothing to do with Netflix or Shopify.
 
+## Things I like
+
+Netlify bot that automatically makes a test deployment and URL when I make a [[Private/Pull request\|Pull request]] is really handy
+
+## Gotchas
+
 Has bug where all files set to lowercase[^1], thus, you may want to consider alternatives like [[Private/Cloudflare pages\|Cloudflare pages]], [[Software/Github pages\|Github pages]].
 
 
