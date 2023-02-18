@@ -9,7 +9,7 @@ News that focuses on accuracy and relevance, at the expense of up time and respo
 
 ## Why read slow news? Isn't being up-to-date the point?
 
-"Traditional" news is rife with self-feeding problems. Since many people will not pay for news, it is funded by advertising and sponsorships which does not have the viewer's interests at heart. Being funded by advertising means news is incentivised to show as many ads as possible, meaning it prioritises *engagement*, and one of the most effective ways to engage is *outrage*[^2]. This circular dependency means news is saturated with outrageous news that degrades viewers mental health, advertising for products of often questionable quality, and news of such questionable accuracy as to be considered lies. Some call this postjournalism.
+"Traditional" news is rife with self-feeding problems. Since many people will not pay for news, it is funded by advertising and sponsorships which does not have the viewer's interests at heart. Being funded by advertising means news is incentivised to show as many ads as possible, meaning it prioritises *engagement*, and one of the most effective ways to engage is *outrage*[^2]. This circular dependency means news is saturated with outrageous news that degrades viewers mental health, advertising for products of often questionable quality, and news of such questionable accuracy as to be considered lies[^3]. Some call this postjournalism.
 
 To counter this, slow journalism offers the following:
 
@@ -55,3 +55,5 @@ Slow journalism is also on [Wikipedia](https://en.wikipedia.org/wiki/Slow_journa
 [^1]: https://www.theatlantic.com/membership/archive/2018/01/how-to-fact-check-the-atlantic/550355/
 
 [^2]: [[Private/Warnock's Dilemma\|Warnock's Dilemma]]
+
+[^3]: [[Private/News is a waste of time\|News is a waste of time]] https://news.ycombinator.com/item?id=34818379
