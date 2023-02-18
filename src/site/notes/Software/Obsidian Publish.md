@@ -4,7 +4,7 @@
 
 # Obsidian Publish
 
-A service to publish [[Software/Obsidian\|Obsidian]] notes to the web as a [[Concepts/Digital garden\|Digital garden]]. Costs $10/month, less if paid per year. I personally prefer to use Oleeskild's [[Software/Digital Garden plugin\|Digital Garden plugin]] instead.
+A service to publish [[Software/Obsidian\|Obsidian]] notes to the web as a [[Concepts/digital garden\|digital garden]]. Costs $10/month, less if paid per year. I personally prefer to use Oleeskild's [[Software/Digital Garden plugin\|Digital Garden plugin]] instead.
 
 [Official site](https://obsidian.md/publish)
 
