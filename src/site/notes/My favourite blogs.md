@@ -5,7 +5,7 @@
 
 # My favourite blogs and digital gardens
 
-My personal notes are heavily inspired by the personal notes, blogs, and [[Concepts/Digital garden\|digital gardens]] of many others.
+My personal notes are heavily inspired by the personal notes, blogs, and [[Concepts/digital garden\|digital gardens]] of many others.
 
 ## The ones I love the most
 
