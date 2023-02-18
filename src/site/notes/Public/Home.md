@@ -14,3 +14,7 @@ These notes are written using [[Software/Obsidian\|Obsidian]], then published us
 I enjoy UI and UX design, especially [[typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
 
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
+
+## Blog of sorts
+
+- 2022 November 12: With Elon Musk’s acquisition of Twitter I’ve started a new [[Software/Mastodon\|Mastodon]] account
