@@ -5,7 +5,7 @@
 
 # Quartz
 
-A tool for publishing [[Software/Obsidian\|Obsidian]] to the web as a [[Concepts/Digital garden\|Digital garden]], and what I once used to publish what you are reading now.
+A tool for publishing [[Software/Obsidian\|Obsidian]] to the web as a [[Concepts/digital garden\|digital garden]], and what I once used to publish what you are reading now.
 
 It's built on top of [Hugo](Hugo.md), which I'm told is very fast, but can be hard to use. So far I've observed builds with this tool taking around 40 seconds which is a bit slower than I'd like. My previous tool used Jekyll and took around 20 seconds.
 
