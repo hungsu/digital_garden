@@ -31,7 +31,7 @@ My personal favourites:
 Others of note:
 
 - [Quanta Magazine](https://www.quantamagazine.org) has gorgeous art, diagrams, typography, and huge amounts of research and fact checking. Being mostly science focused, I find myself unable to understand and appreciate the material here, but perhaps you will.
-- [[Private/Undark\|Undark]]
+- [Undark](https://undark.org/), in their own words: "Undark is a non-profit, editorially independent digital magazine exploring the intersection of science and society. It is published with generous funding from the John S. and James L. Knight Foundation, through its Knight Science Journalism Fellowship Program at MIT."
 - [Delayed Gratification](https://www.slow-journalism.com/) publishes once a quarter in both print and digital. Digital costs **£30** / year, print costs **£79** / year for me in the US.
 - [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
 
@@ -52,7 +52,7 @@ Government funded news, or [[Private/State media\|State media]] is funded by tax
 
 Slow journalism is also on [Wikipedia](https://en.wikipedia.org/wiki/Slow_journalism)
 
-[^1]: https://www.theatlantic.com/membership/archive/2018/01/how-to-fact-check-the-atlantic/550355/
+[^1]: How to Fact Check _The Atlantic_ [2018 January 12](https://www.theatlantic.com/membership/archive/2018/01/how-to-fact-check-the-atlantic/550355/)
 
 [^2]: [[Private/Warnock's Dilemma\|Warnock's Dilemma]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/pudding-cool/"}
+{"dg-publish":true,"permalink":"/pudding-cool/"}
 ---
 
 # The Pudding
