@@ -1,3 +1,4 @@
+<script src="//unpkg.com/force-graph"></script>
 <script>
     const getCssVar = (variable) => getComputedStyle(document.body).getPropertyValue(variable);
 
@@ -81,12 +82,12 @@
                 } else {
                     return mutedColor;
                 }
-                
+
             })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
-                
+
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
                 if (hoverNode == null) {
@@ -98,9 +99,9 @@
                         ctx.fillStyle = mutedColor;
                     }
                 }
-                 
+
                 ctx.fill();
-                
+
                 if (node.current) {
                     ctx.beginPath();
                     ctx.arc(node.x, node.y, nodeR + 1, 0, 2 * Math.PI, false);
@@ -127,7 +128,7 @@
                 node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
                 }
                 hoverNode = node || null;
-                
+
             });
             if (delay != null && graphData.nodes.length > 4) {
                 setTimeout(() => {
@@ -148,7 +149,7 @@
     window.document.getElementById('graph-depth').value = window.maxGraphDepth;
     window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
     window.document.getElementById('graph-depth').addEventListener('input', (evt) => {
-        
+
     window.maxGraphDepth = evt.target.value;
     window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
         if (Graph != null) {
@@ -168,7 +169,7 @@
                 links: JSON.parse(JSON.stringify(window.graphData.links)),
                 nodes: [...Object.values(window.graphData.nodes)]
             }
-            
+
             let g = document.createElement('div');
             g.id = 'full-graph';
             g.classList.add('show');
@@ -182,7 +183,7 @@
                 document.getElementById('full-graph').remove()
             });
         }
-        
+
     }
 
     document.getElementById('graph-fs-btn').addEventListener('click', (evt) => {
@@ -197,7 +198,7 @@
         setTimeout(() => {
             Graph.zoomToFit(5, 75);
         }, 1);
-        
+
     });
 
     document.getElementById('global-graph-btn').addEventListener('click', (evt) => {
