@@ -86,14 +86,18 @@ body {
 @media (max-width:800px) {
   body {
     --file-margins: var(--size-4-4);
+    .filetree-sidebar {
+      top: 3.3rem;
+      padding: 0 0.3rem;
+    }
   }
-  .filetree-sidebar {
-    top: 3.5rem;
-  }
+
   .content {
+    font-size: var(--font-text-size);
     margin-top: 58px; // height of nav.navbar
   }
-  .navbar-inner i.fa-bars.fa-bars {
+  body .navbar-inner i.fa-bars {
+    font-size: 1.25rem !important; // overcome inline style
     padding: var(--size-4-4);
   }
 }
