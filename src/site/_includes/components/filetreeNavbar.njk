@@ -1,6 +1,8 @@
 <nav class="navbar">
     <div class="navbar-inner">
-        <i style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile" class="fa fa-bars"></i>
+        <button type="button" @click="showFilesMobile=!showFilesMobile" class="burger">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 64 64"><path d="M13.3 33.5h33a1.4 1.4 0 1 0 0-2.8h-33a1.4 1.4 0 1 0 0 2.8zm-8.2-2.8H1.8a1.4 1.4 0 0 0 0 2.8h3.3a1.4 1.4 0 1 0 0-2.8zm8.3-23h48.3a1.4 1.4 0 0 0 0-2.7H13.3a1.4 1.4 0 1 0 0 2.7zM5 5H1.8a1.4 1.4 0 0 0 0 2.7h3.3A1.4 1.4 0 1 0 5 5zm8.3 54.2h48.3a1.4 1.4 0 0 0 0-2.7H13.3a1.4 1.4 0 1 0 0 2.7zM5 56.5H1.8a1.4 1.4 0 0 0 0 2.7h3.3a1.4 1.4 0 1 0 0-2.7z" vector-effect="non-scaling-stroke"/></svg>
+        </button>
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}

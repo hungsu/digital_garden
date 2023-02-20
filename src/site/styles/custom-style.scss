@@ -30,8 +30,16 @@ body {
       padding: 0;
     }
   }
-  .navbar-inner i.fa-bars {
+  .navbar-inner .burger {
     padding: 1.5rem;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    cursor: pointer;
+    svg {
+      width: 18px; // This seems to produce minimal aliasing on my laptop's 1920x1200 display
+      height: 18px;
+    }
   }
   .search-button {
     border: none;
@@ -96,8 +104,7 @@ body {
     font-size: var(--font-text-size);
     margin-top: 58px; // height of nav.navbar
   }
-  body .navbar-inner i.fa-bars {
-    font-size: 1.25rem !important; // overcome inline style
+  body .navbar-inner .burger {
     padding: var(--size-4-4);
   }
 }
