@@ -17,4 +17,4 @@ We live in an age of Knowledge work rather than physical labour. If you are read
 
 [[Concepts/digital garden\|digital garden]]s are an extension of PKM. The knowledge in a digital garden is the personal knowledge of that digital gardener. The difference between a PKM and a digital garden is that not all a person's managed knowledge will be in the garden. Some things are always kept separate: passwords, private life, intensely personal moments, secrets. These are well managed by a PKM, but do not belong in a digital garden.
 
-Wikis and company intranets have some resemblance to PKM, but have many additional challenges. They tend to be slow and lack any character, joy, or humour.
+[[Private/Team Knowledge management\|Team Knowledge management]] in the form of wikis and company intranets have some resemblance to PKM, but have many additional challenges. They tend to be slow and lack any character, joy, or humour.
