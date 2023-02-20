@@ -87,12 +87,7 @@
 
     async function init() {
 
-        //open searchmodal when ctrl + k is pressed, cmd + k on mac
         document.addEventListener('keydown', (e) => {
-            if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-                e.preventDefault();
-                toggleSearch();
-            }
             if (e.key === 'Escape') {
                 document.getElementById('globalsearch').classList.remove('active');
             }
@@ -112,7 +107,7 @@
                     } else {
                         document.querySelector('.searchresult').classList.add('active');
                     }
-                    
+
                     let currentActive = document.querySelector('.searchresult.active');
                     if (currentActive) {
                         currentActive .scrollIntoView({
@@ -185,7 +180,7 @@
         let search = field
             .value
             .trim();
-        if (!search) 
+        if (!search)
             return;
         if(search == lastSearch) return;
         console.log(`search for ${search}`);

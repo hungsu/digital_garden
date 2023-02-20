@@ -14,6 +14,7 @@ body {
   .header-actions {
     display: flex;
     flex-direction: row;
+    align-items: center;
   }
   .filetree-sidebar {
     height: auto;
@@ -28,7 +29,19 @@ body {
     padding: 1.5rem;
   }
   .search-button {
-    margin: 10px 0 10px 25px;
+    border: none;
+    box-shadow: none;
+    margin:0;
+    padding: 0;
+    min-width: initial;
+    background-color: transparent;
+    &:hover {
+      border: none;
+    }
+  }
+  .search-icon {
+    margin-left: 0;
+    font-size: 1.5em;
   }
   .fullpage-overlay {
     position: fixed;
