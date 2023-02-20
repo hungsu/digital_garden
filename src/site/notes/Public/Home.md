@@ -17,4 +17,5 @@ This site doesn’t use ads, cookies, or analytics and never will. I’m privacy
 
 ## Blog of sorts
 
+- 2023 February 19: I'm thinking a bit about [[Private/Pagespeed Insights\|Pagespeed Insights]]. This website is getting only 69/100, held back by Obsidian's heavy CSS. In their defense, they never intended for their CSS to be used on the web.
 - 2022 November 12: With Elon Musk’s acquisition of Twitter I’ve started a new [[Software/Mastodon\|Mastodon]] account 🐘

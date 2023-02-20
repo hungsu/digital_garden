@@ -85,7 +85,7 @@ Googling every answer is slow
 
 ## Notes compound in value 
 
-[[Private/Note writing creates durable cumulative knowledge\|Note writing creates durable cumulative knowledge]]
+[[Claims/Note writing creates durable cumulative knowledge\|Note writing creates durable cumulative knowledge]]
 
 Gains from my second brain 
 https://news.ycombinator.com/item?id=30151963 

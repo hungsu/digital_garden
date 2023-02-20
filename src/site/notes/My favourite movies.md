@@ -28,6 +28,7 @@ I haven't watched the following movies enough times, but they may find themselve
 - The Best Exotic Marigold Hotel, and The Second Best Exotic Marigold Hotel
 - [[Movies/Grand Budapest Hotel\|Grand Budapest Hotel]]
 - [[Jumanji Welcome to the Jungle\|Jumanji Welcome to the Jungle]]
+- [[Movies/A Silent Voice\|A Silent Voice]]
 - [[Green book (2018)\|Green book (2018)]]
 - [[Movies/Mrs Harris goes to Paris\|Mrs Harris goes to Paris]]
 - [[Private/Glass Onion\|Glass Onion]]

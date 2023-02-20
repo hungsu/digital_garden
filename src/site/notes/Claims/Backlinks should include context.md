@@ -17,7 +17,7 @@ The equivalent Backlink in Obsidian includes some context, like this:
 
 By supplying some context around the Backlink, we know why the link was made, and it becomes far more interesting and useful. This is so important to me, that it is part of why I chose Obsidian and Logseq over Notion.
 
-Regardless, it is also helpful for the note to have a good title so that we do not have to rely entirely on the context. [[Private/Titles are a promise of good content\|Titles are a promise of good content]].
+Regardless, it is also helpful for the note to have a good title so that we do not have to rely entirely on the context. [[Claims/Titles are a promise of good content\|Titles are a promise of good content]].
 
 ## Further reading
 
