@@ -170,3 +170,12 @@ body {
     transition: transform .5s ease .15s;
   }
 }
+
+.theme-dark {
+  .navbar-inner .burger {
+    svg {
+      fill: white;
+      stroke: white;
+    }
+  }
+}
