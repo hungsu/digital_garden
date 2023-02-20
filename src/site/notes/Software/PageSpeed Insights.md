@@ -4,7 +4,7 @@
 
 # PageSpeed Insights
 
-A web performance tool and metric, expressed as a score out of 100. Can be measured using the Performance tab in [[Public/Chrome dev tools\|Chrome dev tools]], or by entering a URL into [PageSpeed Insights report](https://pagespeed.web.dev/report).
+A web performance tool and metric by Google, expressed as a score out of 100. Can be measured using the Performance tab in [[Public/Chrome dev tools\|Chrome dev tools]], or by entering a URL into [PageSpeed Insights report](https://pagespeed.web.dev/report).
 
 This page you are viewing currently has a score of `74/100`, which you can confirm [here](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhung.su%2Fsoftware%2Fpagespeed-insights%2F).
 
