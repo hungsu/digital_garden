@@ -9,7 +9,7 @@ My personal notes are heavily inspired by the personal notes, blogs, and [[Conce
 
 ## The ones I love the most
 
-- [Andy's working notes](https://notes.andymatuschak.org/About_these_notes) by [[People/Andy Matuschak\|Andy Matuschak]]  is extremely enjoyable to read. He writes short notes that are easy to digest, presenting them with the  [[Sliding panes\|Sliding panes]] UI pattern for you to keep track of where you came from. He also posts long form articles on his [blog](https://andymatuschak.org/books/).
+- [Andy's working notes](https://notes.andymatuschak.org/About_these_notes) by [[People/Andy Matuschak\|Andy Matuschak]]  is extremely enjoyable to read. He writes short notes that are easy to digest, presenting them with the  [[Concepts/scrollable tiling window manager\|sliding panes]] UI pattern for you to keep track of where you came from. He also posts long form articles on his [blog](https://andymatuschak.org/books/).
 - [Essays](https://www.gwern.net/index) by [[People/Gwern Branwen\|Gwern Branwen]] is a marvelous and unique part of the internet. Spectacularly well researched posts, that have taught me a lot about how impactful and different a well written blog post is than an atomic note, and many other things. Almost frustratingly, Gwern is almost never wrong about anything.
  - [The Garden](https://maggieappleton.com/garden) by [[People/Maggie Appleton\|Maggie Appleton]] is **beautiful** and *insightful*. Maggie herself is a UI designer and illustrator whose work you have likely seen before, and thus her site features gorgeous [[typography\|typography]] and charming illustrations throughout.
  - [Wonderful things](https://www.hanselman.com/blog/) by Scott Hanselman I have read for many years. He posts less frequently these days, but his content stays relevant for a long time. There are a small amount of ads and sponsorships throughout but they are easy to ignore.
@@ -48,6 +48,8 @@ Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/garde
 [[Private/Joel Hooks\|Joel Hooks]]' [Digital garden](https://joelhooks.com/)
 
 [[Private/Thompson Morrison\|Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
+
+Chips and Cheese, a blog about [[Private/semiconductor manufacturing\|semiconductor manufacturing]] and architecture. Their article on [RDNA](https://chipsandcheese.com/2023/02/19/amds-rdna-2-shooting-for-the-top/) looks relevant to me as an owner of a [[Gear/6700XT\|6700XT]]
 
 ## Not blogs but worth checking out
 
