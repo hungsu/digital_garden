@@ -15,7 +15,7 @@ Thus, when you have a good document within a [[Concepts/PKM\|PKM]] system or eve
 Qualities we want:
 
 - Searchability. One should be able to find a note again by searching for it's Title, rather than its contents.
-- Accuracy and Honesty. A title that doesn't reflect it's content is a form of dishonesty, and is why clickbait is so hated. [[Private/Titles are a promise of good content\|Titles are a promise of good content]].
+- Accuracy and Honesty. A title that doesn't reflect it's content is a form of dishonesty, and is why clickbait is so hated. [[Claims/Titles are a promise of good content\|Titles are a promise of good content]].
 - Clarity. We should be able to parse a title easily and quickly to determine if it is the note we want. Milliseconds matter.  [[Private/Concise writing takes longer to write, but is worth it\|Concise writing takes longer to write, but is worth it]].
 
 It's worth being aware that the goals and process for writing titles for Notes have very little resemblance to writing [[Private/Headline\|Headline]]s for Stories, Titles for Blog Posts, or Subject Lines for Emails. It in some ways resembles writing titles for [[Essay\|Essay]]s.
