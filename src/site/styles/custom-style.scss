@@ -25,6 +25,11 @@ body {
   .navbar {
     padding: 0
   }
+  .navbar-inner {
+    h1 {
+      padding: 0;
+    }
+  }
   .navbar-inner i.fa-bars {
     padding: 1.5rem;
   }
@@ -82,8 +87,14 @@ body {
   body {
     --file-margins: var(--size-4-4);
   }
+  .filetree-sidebar {
+    top: 3.5rem;
+  }
   .content {
     margin-top: 58px; // height of nav.navbar
+  }
+  .navbar-inner.navbar-inner i.fa-bars {
+    padding: var(--size-4-4);
   }
 }
 
