@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/software/hugo/","title":"Hugo"}
+{"dg-publish":true,"permalink":"/software/hugo/"}
 ---
 
+# Hugo
 
 A [[Private/Static site generator\|Static site generator]] built in [[Private/Golang\|Golang]]. Has a reputation for being incredibly fast, and feature rich.
 
