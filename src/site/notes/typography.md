@@ -3,10 +3,10 @@
 ---
 
 
-![](https://www.volusion.com/blog/content/images/wp/1typographyispower.jpg)
+# Typography
 
 > [!QUOTE] Ellen Lupton
-> Typography is what language looks like.
+> Typography is what language looks like. #quote
 
 Typography is the art of choosing typefaces and arranging type to make written language legible and beautiful. 
 
@@ -42,4 +42,4 @@ Typography is improved greatly with [[Private/Colour selection for UI\|Colour se
 
 A core skill for [[Vaults/quartz/content/notes/UI design\|UI design]], and in my opinion, a crucial but underrated skill of [UI engineering](notes/UI%20engineering).
 
-Is somewhat related to, but different from Penmanship and Calligraphy.
+Is somewhat related to, but different from Penmanship and [[Private/calligraphy\|calligraphy]].
