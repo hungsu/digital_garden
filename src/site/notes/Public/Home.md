@@ -16,6 +16,7 @@ I enjoy UI and UX design, especially [[typography\|typography]]. This website is
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
 
 ## Blog of sorts
-
-- 2023 February 19: I'm thinking a bit about [[Software/PageSpeed Insights\|PageSpeed Insights]]. This website is based on [[Software/Digital Garden plugin\|Digital Garden plugin]] which gets a Performance score of only `48/100`, on a page with no images. By comparison, my website fared better at `69/100`, and with some quick tweaks from me got `74/100`.
-- 2022 November 12: With Elon Musk’s acquisition of Twitter I’ve started a new [[Software/Mastodon\|Mastodon]] account 🐘
+| Date             | Stuff                                                                                                                                                                                                                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023 February 19 | I'm thinking a bit about [[Software/PageSpeed Insights\|PageSpeed Insights]]. This website is based on [[Software/Digital Garden plugin\|Digital Garden plugin]] which gets a Performance score of only `48/100`, on a page with no images. By comparison, my website fared better at `69/100`, and with some quick tweaks from me got `74/100`. |
+| 2022 November 12 | With Elon Musk’s acquisition of Twitter I’ve started a new [[Software/Mastodon\|Mastodon]] account 🐘                                                                                                                                                                                                  |
