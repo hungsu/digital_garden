@@ -33,6 +33,7 @@ Others of note:
 - [Quanta Magazine](https://www.quantamagazine.org) has gorgeous art, diagrams, typography, and huge amounts of research and fact checking. Being mostly science focused, I find myself unable to understand and appreciate the material here, but perhaps you will.
 - [Undark](https://undark.org/), in their own words: "Undark is a non-profit, editorially independent digital magazine exploring the intersection of science and society. It is published with generous funding from the John S. and James L. Knight Foundation, through its Knight Science Journalism Fellowship Program at MIT."
 - [Delayed Gratification](https://www.slow-journalism.com/) publishes once a quarter in both print and digital. Digital costs **£30** / year, print costs **£79** / year for me in the US.
+- [Atmos](https://atmos.earth/) publishes twice a year and is available for free
 - [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
 
 ## Similar, but not slow news
