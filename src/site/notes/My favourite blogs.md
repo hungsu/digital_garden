@@ -21,7 +21,7 @@ My personal notes are heavily inspired by the personal notes, blogs, and [[Conce
 
 [[People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]'s [Mental Nodes](https://www.mentalnodes.com/about)  has an especially nice note about how [creating makes you live longer](https://www.mentalnodes.com/living-beyond-your-expiration-date).
 
-[LYT kit](https://notes.linkingyourthinking.com/%2B+Start+Here) by [[Private/People/USA/Nick Milodragovich\|Nick Milodragovich]] is a directed set of notes to teach a person how to make a [[Concepts/PKM\|PKM]] system that scales well into the future. It is especially thoughtful to people with [[Private/ADHD\|ADHD]] and overactive organisation habits.
+[LYT kit](https://notes.linkingyourthinking.com/%2B+Start+Here) by [[Private/People/USA/Nick Milodragovich\|Nick Milodragovich]] is a directed set of notes to teach a person how to make a [[Concepts/PKM\|PKM]] system that scales well into the future. It is especially thoughtful to people with [[ADHD\|ADHD]] and overactive organisation habits.
 
 [Public musings](https://zettelkasten.sorenbjornstad.com/) by Soren Bjornstad has an interesting note about why  [freedom requires rules](https://zettelkasten.sorenbjornstad.com/#NoRulesNoFreedom).
 
