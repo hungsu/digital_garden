@@ -31,13 +31,19 @@ As for wireless earphones and headphones, I am using [[Gear/Samsung Buds 2\|Sams
 
 #### Write your thoughts in an outliner
 
-Write in an [[outlining app\|outlining app]]. The act of writing in the app can act as a kind of *stimming*, and the resulting writing can be used later.
+[[outlining app\|Outliners]] are distinct from note taking apps by treating all writing as Bullet Points that can be infinitely nested. This suits ADHDers in a number of ways:
+
+The act of typing into the app can act as a kind of *stimming*, particularly on a [[Private/Mechanical keyboard\|Mechanical keyboard]]. The resulting writing can be used for reflection, documentation, task management and many other things.
+
+I recommend [[Private/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior.
 
 ### Therapy and coaching
 
 With ADHD being a neurodivergence, the vast majority of gains in treating it will likely be in the form of behavioural change. These take more time, focus, and possibly money, so you may want to consider these once you've exhausted your options in Environmental changes.
 
-Try a [[Private/Dopamine fast\|digital detox]]
+#### Reset your dopamine with a digital detox
+
+With access to many sources of easy dopamine, such as social media and infinite scrolling feeds, one's baseline dopamine may rise, thus meaning you need more dopamine to reach the same baseline. You might experience this as enjoyable things no longer being enjoyable. A [digital detox](https://psyche.co/ideas/the-pleasure-the-pain-and-the-politics-of-a-digital-detox?utm_source=rss-feed) can lower this baseline, so that those activities become enjoyable again. One should expect such a detox to require at least *two weeks*.
 
 [^1]: [Washington Post 2022-11-14](https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/) For some with ADHD, the low rumble of brown noise quiets the brain
 [^2]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/17683456/) Listen to the noise: noise is beneficial for cognitive performance in ADHD 
