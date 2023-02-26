@@ -52,7 +52,7 @@ My plan of attack for now is:
 	- crawling docs and code. My workplace's docs are so bad that most people default to asking in Slack. I should find ways to get answers faster, and store them in notes to avoid future lookups.
 	- emails and slack - these yield so little value I 
 - **Block time for the key metrics**. My time keeps fizzling away, perhaps because I don't tame it. [[Time blocking\|Time blocking]] will likely be my most important tool in this adventure, and not with a calendar app.
-- **Increase energy**. When my energy is low, my comprehension speed is also low. When I'm tired, I may reread the same words a dozen times without understanding, and also realise half an hour has gone by. [[Private/ADHD\|ADHD]] time-blindness can really be a total bitch. To up the energy, I think I can:
+- **Increase energy**. When my energy is low, my comprehension speed is also low. When I'm tired, I may reread the same words a dozen times without understanding, and also realise half an hour has gone by. [[ADHD\|ADHD]] time-blindness can really be a total bitch. To up the energy, I think I can:
 	- Look at my numbers. Somehow, seeing how far behind I am fills me with enormous desire to close the gap.
 	- Work on this plan. Like above, just making this plan (and *not* copying someone else's plan) fills me with zeal to become better.
 
