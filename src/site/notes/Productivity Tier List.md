@@ -22,7 +22,7 @@ Things that opened up amazing possibilities and continue delivering rich results
 - No notifications.
 	- Internet off, and [[Private/Local-first\|Local-first]] apps.
 	- Working early morning or late at night
-	- [[Private/Dopamine fast\|Dopamine fast]]
+	- [[Concepts/Dopamine fast\|Dopamine fast]]
 - Self teaching and deliberate practice
 	- the vast majority of your teaching will be self, not from others. The ability to see that you are off target AND calibrate is the key to being best
 - Marrying the right one
