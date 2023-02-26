@@ -30,7 +30,7 @@ These are just a few examples from thousands of times I've thought to interact w
 
 ## It blocks distractions,  allowing active listening
 
-If I attend a meeting, I will tend to zone out, even more than many people as I likely have Inattentive [[Private/ADHD\|ADHD]]. Zoning out means I'm unable to effectively contribute to the meeting, or derive useful information from the meeting. 
+If I attend a meeting, I will tend to zone out, even more than many people as I likely have Inattentive [[ADHD\|ADHD]]. Zoning out means I'm unable to effectively contribute to the meeting, or derive useful information from the meeting. 
 
 Taking notes is my impervious armour against the daydream demon. It forces me to focus, directing my extrasensory attention to one place, or what ADHD people know as hyperfocus. This often results in too many words - I'll note even minor non-words, a facial expression, a glance someone might have wanted forgotten. But it is much easier to have too many words and cut back than it is to have too little and add what's missing.
 
