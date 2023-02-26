@@ -7,7 +7,7 @@
 
 A tool for publishing [[Software/Obsidian\|Obsidian]] to the web as a [[Concepts/digital garden\|digital garden]], and what I once used to publish what you are reading now.
 
-It's built on top of [Hugo](Hugo.md), which I'm told is very fast, but can be hard to use. So far I've observed builds with this tool taking around 40 seconds which is a bit slower than I'd like. My previous tool used Jekyll and took around 20 seconds.
+It's built on top of [[Software/Hugo\|Hugo]] which I'm told is very fast, but can be hard to use. So far I've observed builds with this tool taking around 40 seconds which is a bit slower than I'd like. My previous tool used Jekyll and took around 20 seconds.
 
 The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I followed to make this.
 
@@ -34,7 +34,7 @@ All the words above may seem like I dislike Quartz. I enjoyed my time with Quart
 - **Separate note titles, filenames, and link text**. One of the solutions I tried previously, Foam Research, required that note titles, filenames, and link text all be the same, and in a particular format. For instance, a Quartz link can look like `any text that I want even emoji`, but a Foam link always looks like:  `hyphens-and-lower-case`, including the dashes. This was maddening!
 - **Interactive graph**. Quartz has a much more friendly graph than others I've tried so far, with nice hover effects, bouncy physics, and even links between neighbours!
 - **Dark mode**. I often read my own notes at night, and appreciate being able to set the theme to dark mode.
-- **Backlinks with context**. If you look at the bottom of this page you will see some backlinks that appear to have no context. But if you hover over the backlink, you'll see the sentence that refers to this page. This is amazing! [[Claims/Backlinks should include context\|Backlinks should include context]]!
+- **Backlinks with context**. A list of backlinks would appear at the bottom of a page. If you hovered over the backlink, you would see the sentence that refers to the current page. This is amazing! [[Claims/Backlinks should include context\|Backlinks should include context]]!
 
 ## Alternatives I didn't like, but you might
 
