@@ -9,7 +9,7 @@ Short for *attention-deficit hyperactivity disorder*. At a glance, a person with
 
 ## What is it like to have  ADHD?
 
-ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up in more accurate detail on a more reliable source such as the [CDC page](https://www.cdc.gov/ncbddd/adhd/facts.html). ADHD is a serious condition and you shouldn't rely wholy on social media sources for this.
+ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up in more accurate detail on a more reliable source such as the [CDC page](https://www.cdc.gov/ncbddd/adhd/facts.html). ADHD is a serious condition and you shouldn't rely wholly on social media sources for this.
 
 That said, I realised I both had ADHD and that ADHD was causing me trouble when I learned about *ADHD procrastination*.
 
