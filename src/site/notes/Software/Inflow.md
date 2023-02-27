@@ -6,7 +6,7 @@
 
 Official [Inflow website](https://www.getinflow.io/) 
 
-A smartphone app and service to provide affordable [[Private/Cognitive behavioural therapy\|Cognitive behavioural therapy]] for those with [[ADHD\|ADHD]].
+A smartphone app and service to provide affordable [[Cognitive-behavioural therapy\|Cognitive-behavioural therapy]] for those with [[ADHD\|ADHD]].
 
 After installing, the app has you fill out a form about your ADHD. You should ideally know in advance if your ADHD type is Inattentive, Hyperactive-impulsive, or Combined.
 
