@@ -15,7 +15,7 @@ That said, I realised I both had ADHD and that ADHD was causing me trouble when 
 
 ### ADHD and procrastination
 
-[[Public/Procrastination\|Procrastination]] is common for all people. Where people with ADHD differ is they suffer from [[Concepts/ADHD procrastination\|ADHD procrastination]]. Lazy procrastination spends no attention on the task, while ADHD procrastination expends massive amounts of attention on the task while failing.
+[[Concepts/procrastination\|procrastination]] is common for all people. Where people with ADHD differ is they suffer from [[Concepts/ADHD procrastination\|ADHD procrastination]]. Lazy procrastination spends no attention on the task, while ADHD procrastination expends massive amounts of attention on the task while failing.
 
 For example, common procrastination might be a student playing videogames instead of doing homework. They are not devoting even a single thought to the homework as they procrastinate.
 
