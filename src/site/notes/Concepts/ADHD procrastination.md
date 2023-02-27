@@ -19,8 +19,10 @@ Additionally, when others ask me about my progress, Iâ€™d have to admit I didnâ€
 
 ## How to solve ADHD procrastination
 
-The most important starting point is to realise I am in ADHD procrastination and not common procrastination, thus it is generally a problem of executive function and not of fear.
+The most important starting point is to realise I am in ADHD procrastination and not common procrastination. Thus it is a problem of executive dysfunction rather than fear.
 
-Next, the most consistently reliable method involves some kind of social accountability to get my executive function working well.  [[Private/coworking\|coworking]] or [[Private/pair programming\|pair programming]] seem to be the way. I have generally found [[Private/scrum\|scrum]] or stand-up meetings to be very ineffective.
+Next, the most consistently reliable method of creating executive function involves some kind of social accountability. [[Private/coworking\|coworking]] or [[Private/pair programming\|pair programming]] seem to be the way. I have generally found [[Private/scrum\|scrum]] or stand-up meetings to be very ineffective.
+
+If no one is available, such as on weekends, I use an [[outlining app\|outlining app]] to dump as many thoughts about the task as possible. This often means some repetitive thoughts that I will write more than once. These are likely the more important tasks that I can choose to do now - my *next action*. 
 
 [^1]: [Reddit](https://www.reddit.com/r/ADHD/comments/b5gure/the_difference_between_lazy_procrastination_and/) - The difference between lazy procrastination and ADHD procrastination
