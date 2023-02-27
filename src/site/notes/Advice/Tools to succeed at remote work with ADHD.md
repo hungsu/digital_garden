@@ -37,3 +37,6 @@ Outlines are highly rearrangeable. Unlike conventional Documents in word process
 Outlines are focusable. On writing a chaotic chain of thought, an outliner allows the user to choose any bullet point to focus on, hiding all others.
 
 I recommend [[Private/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior. [[Private/Tana Inc\|Tana Inc]] is another outliner that is highly acclaimed, but not privacy focused.
+
+[^1]: [Washington Post 2022-11-14](https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/) For some with ADHD, the low rumble of brown noise quiets the brain
+[^2]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/17683456/) Listen to the noise: noise is beneficial for cognitive performance in ADHD 
