@@ -30,6 +30,3 @@ ADHD is permanent, and while treatment for its negative aspects can be effective
 - ADHD medications
 
 
-
-[^1]: [Washington Post 2022-11-14](https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/) For some with ADHD, the low rumble of brown noise quiets the brain
-[^2]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/17683456/) Listen to the noise: noise is beneficial for cognitive performance in ADHD 
