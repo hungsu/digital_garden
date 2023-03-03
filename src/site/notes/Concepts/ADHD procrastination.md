@@ -4,7 +4,7 @@
 
 # ADHD procrastination
 
-> [!warning]
+> [!info]
 > The following is my own experience and is not professional psychiatric advice.
 
 ADHD procrastination is a cycle of anxious, frustrating, hugely effortful attempts and failures to begin and finish work that is important to me.[^1] By contrast, common [[Concepts/procrastination\|procrastination]] means seeing the task, and choosing to do something else, typically enjoying whatever that alternative is. 
