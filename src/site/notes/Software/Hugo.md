@@ -9,6 +9,7 @@ A [[Private/Static site generator\|Static site generator]] built in [[Private/Go
 It also has a reputation for having terrible documentation. So terrible that it drives users to alternatives, such as NextJS or [Zola](https://www.getzola.org/).
 - [Hugo is great, it's documentation is not](https://sagar.se/blog/hugo-documentation/)
  - this article is also a great write up of [[Private/Technical writing\|Technical writing]] and [[Public/Atomic notes\|Atomic notes]]
+ - There is a user made quick start guide here: [Minimum Viable Hugo](https://github.com/hiAndrewQuinn/minimum-viable-hugo)
 
 Fireship did a video about [Hugo in 100 seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 
