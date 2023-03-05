@@ -8,7 +8,7 @@ A service to publish [[Software/Obsidian\|Obsidian]] notes to the web as a [[Con
 
 [Official site](https://obsidian.md/publish)
 
-Keep most Obsidian features, but some things will break:
+Keeps most Obsidian features, but some things will break. For example the Style Settings Obsidian plugin does not work .
 
 ## Examples
 
