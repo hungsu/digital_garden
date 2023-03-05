@@ -20,7 +20,7 @@ Made up of some smaller skills including:
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1675651968/notes/Pentiment_GIFs_Scene-004a_10fps.gif)
 
-[[Videogames/Pentiment\|Pentiment]] is a videogame featuring phenomenal typography as a way of communicating character social standing. The game created original Typefaces just for the game, by studying historical texts, which you can read about in great length [here](https://lettermatic.com/custom/pentiment).
+[[Videogames/Pentiment\|Pentiment]] is a videogame featuring phenomenal typography as a way of communicating character social standing. The game created original Typefaces just for the game, by studying historical texts, which you can read about in great length in the [Lettermatic case study](https://lettermatic.com/custom/pentiment).
 
 ![](/img/user/Vaults/quartz/content/notes/images/phillip_fivel_typography.png)
 [[Private/Typewolf\|Typewolf]] features many interesting typography examples on his website.
