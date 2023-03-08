@@ -43,6 +43,8 @@ Julia Evan's [blog](https://jvns.ca/) about is phenomenal, particularly for comp
 
 ## Other digital gardens I'll check out later
 
+[The Good Trade](https://www.thegoodtrade.com/) is extremely pretty and has some notable articles, like [How To Respond To Someone Who Is Grieving](https://www.thegoodtrade.com/features/how-to-respond-to-someone-who-is-grieving/) 
+
 Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/gardens/) in his digital garden
 
 [[Private/Joel Hooks\|Joel Hooks]]' [Digital garden](https://joelhooks.com/)
