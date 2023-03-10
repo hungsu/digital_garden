@@ -5,15 +5,17 @@
 
 # Therapy and coaching for ADHD
 
-With [[ADHD\|ADHD]] being a neurodivergence, the vast majority of gains in treating it will likely be in the form of behavioural change. These take more time, focus, and possibly money, so you may want to consider these once you've exhausted your options in Environmental changes.
+With [[ADHD\|ADHD]] being a neurodivergence, the vast majority of gains in treating it will likely be in the form of behavioural change. Compared to [[Advice/Tools to succeed at remote work with ADHD\|Tools to succeed at remote work with ADHD]], these take more time, focus, and possibly money. Therefore you may want to consider these once you've exhausted those options.
 
-## Reset your dopamine with a digital detox
+## Reset your dopamine with a dopamine detox
 
-With access to many sources of easy dopamine, such as social media and infinite scrolling feeds, one's baseline dopamine may rise, thus meaning you need more dopamine to reach the same baseline. You might experience this as enjoyable things no longer being enjoyable. A [digital detox](https://psyche.co/ideas/the-pleasure-the-pain-and-the-politics-of-a-digital-detox?utm_source=rss-feed) can lower this baseline, so that those activities become enjoyable again. One should expect such a detox to require at least *two weeks*.
+With access to many sources of easy dopamine, such as social media and infinite scrolling feeds, one's baseline dopamine may rise, thus meaning you need more dopamine to reach the same baseline. You might experience this as enjoyable things no longer being enjoyable. A [digital detox](https://psyche.co/ideas/the-pleasure-the-pain-and-the-politics-of-a-digital-detox) can lower this baseline, so that those activities become enjoyable again. One should expect such a detox to require at least *two weeks*.
 
-## Try Cognitive Behavioural Therapy
+## Try Cognitive-Behavioural Therapy
 
-[[Software/Inflow\|Inflow]] is a more affordable way to get [[Cognitive-behavioural therapy\|Cognitive-behavioural therapy]], at $48/month. They also offer an access program to give some people therapy for free. Check the page footer for details.
+CBT is specialised evidence-supported treatment for ADHD. It frequently prescribes specialised homework.
+
+[[Software/Inflow\|Inflow]] is a more affordable way to get [[Cognitive-behavioural therapy\|Cognitive-behavioural therapy]], at $48/month. They also offer an access program to give some people therapy for free. Check the Inflow page footer for details.
 
 ## Join an ADHD program
 
