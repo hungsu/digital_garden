@@ -5,7 +5,7 @@
 
 # Slow news movement
 
-News that focuses on accuracy and relevance, at the expense of up time and response time. May publish as often as once a week, or as slowly as once a quarter. 
+News that focuses on accuracy and relevance, at the expense of up time and response time. May publish as often as once a week, or as slowly as once a year. 
 
 ## Why read slow news? Isn't being up-to-date the point?
 
@@ -38,10 +38,12 @@ Others of note:
 - [The Point Mag](https://thepointmag.com/) publishes an issue every four months, and offers 3 articles for free before requiring you to purchase a subscription for $3/month.
 - [Noema](https://www.noemamag.com/) publishes around twice a year, and offers issues in both print and digital for $20 each.
 - [Asterisk Mag](https://asteriskmag.com) is contributed to by *Dynomight*, one of [[My favourite blogs\|My favourite blogs]]. They publish once a quarter, and in their words "is fiscally sponsored by the Effective Ventures Foundation, a registered charity in England and Wales".
+- [n+1](https://www.nplusonemag.com/) has been around since 2004, and publishes 3 times a year. They are funded by the N+1 Foundation, and reader subscriptions which start at $4.50USD/month. I'm reading [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/)
+- [Public Books Magazine](https://www.publicbooks.org/about/) has been around since 2012 and is funded by Columbia University and donations from its readers. They have a notable article on why US news is the way it is, [Misinformation Society](https://www.publicbooks.org/the-big-picture-misinformation-society/).
 
 ## Similar, but not slow news
 
-Non profit news is funded by donations, but may post more regularly than slow news and also supplement funding with advertising.
+Non-profit news is funded by donations, but may post more regularly than slow news and also supplement funding with advertising. 
 
 - [Wikipedia News portal](https://en.wikipedia.org/wiki/Portal:Current_events) is my preferred sources for learning what's new around the world.
 - [Greater Good Magazine](https://greatergood.berkeley.edu/) has many fantastic articles on how to have better relationships and be a better person. One of my favourites is [How curiosity and consent can make old lovers new again](https://greatergood.berkeley.edu/article/item/how_curiosity_consent_can_make_old_lovers_new_again). Offers additional perks for donations of $50/year
@@ -51,6 +53,7 @@ Non profit news is funded by donations, but may post more regularly than slow ne
 
 Government funded news, or [[Private/State media\|State media]] is funded by taxpayers, so occasionally locks access to geographic IP ranges.
 
+- [Symmetry Magazine](https://www.symmetrymagazine.org/) focuses on particle physics and is funded by the US Department of Energy.
 
 ## Other's opinions
 
