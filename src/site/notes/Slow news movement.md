@@ -51,10 +51,10 @@ Government funded news, or [[Private/State media\|State media]] is funded by tax
 
 ## Other's opinions
 
-Slow journalism is also on [Wikipedia](https://en.wikipedia.org/wiki/Slow_journalism)
+Slow journalism is also on [Wikipedia](https://en.wikipedia.org/wiki/Slow_journalism).
 
 [^1]: How to Fact Check _The Atlantic_ [2018 January 12](https://www.theatlantic.com/membership/archive/2018/01/how-to-fact-check-the-atlantic/550355/)
 
-[^2]: [[Private/Warnock's Dilemma\|Warnock's Dilemma]]
+[^2]: [[Concepts/Warnock's Dilemma\|Warnock's Dilemma]]
 
-[^3]: [[Private/News is a waste of time\|News is a waste of time]] https://news.ycombinator.com/item?id=34818379
+[^3]: [Fortune 2023-02-15](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/) - Trust in media is so low that half of Americans now believe that news organizations deliberately mislead them
