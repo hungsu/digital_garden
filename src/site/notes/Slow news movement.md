@@ -35,6 +35,9 @@ Others of note:
 - [Delayed Gratification](https://www.slow-journalism.com/) publishes once a quarter in both print and digital. Digital costs **£30** / year, print costs **£79** / year for me in the US.
 - [Atmos](https://atmos.earth/) publishes twice a year and is available for free
 - [[Private/The Guardian\|The Guardian]] has a  [Weekly](https://support.theguardian.com/us/subscribe/weekly) print edition for $27.50USD/month
+- [The Point Mag](https://thepointmag.com/) publishes an issue every four months, and offers 3 articles for free before requiring you to purchase a subscription for $3/month.
+- [Noema](https://www.noemamag.com/) publishes around twice a year, and offers issues in both print and digital for $20 each.
+- [Asterisk Mag](https://asteriskmag.com) is contributed to by *Dynomight*, one of [[My favourite blogs\|My favourite blogs]]. They publish once a quarter, and in their words "is fiscally sponsored by the Effective Ventures Foundation, a registered charity in England and Wales".
 
 ## Similar, but not slow news
 
