@@ -13,7 +13,7 @@ Typography is the art of choosing typefaces and arranging type to make written l
 Made up of some smaller skills including:
 
 - [[Font selection\|Font selection]], particularly how to choose readable fonts for body and titles.
-- [[Private/Typesetting\|Typesetting]], including font size, leading, and line length.
+- [[Private/Typesetting\|Typesetting]], including font size, leading, justification, and line length.
 - [[punctuation\|punctuation]], particularly how to avoid ugly approximations.
 
 ## My favourite examples
