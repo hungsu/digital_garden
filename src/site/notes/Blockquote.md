@@ -30,7 +30,7 @@ The Verge floats to the side, with lines reminiscent of a ruled school notebook.
 I find the Verge's old blockquote design with all caps, pink italics to be garish.
 
 
-![Bustle blockquote.jpg](/img/user/Vaults/quartz/content/notes/images/Bustle%20blockquote.jpg)
+![bustle_blockquote.jpg](/img/user/Embeds/bustle_blockquote.jpg)
 
 [Bustle](https://www.bustle.com/wellness/overcoming-burnout-self-care?ref=refind) has very pretty blockquotes. Note the reduced letter-spacing (Kerning):
 
@@ -38,15 +38,15 @@ I find the Verge's old blockquote design with all caps, pink italics to be garis
 
 [Polygon](https://www.polygon.com/23025632/metaverse-mmo-ending) has a curious sidenote-like blockquote, with all caps, italics, and a vertical gradient:
 
-![Maggie Appleton blockquote.png](/img/user/Vaults/quartz/content/notes/images/Maggie%20Appleton%20blockquote.png)
+![maggie_appleton_blockquote.png](/img/user/Embeds/maggie_appleton_blockquote.png)
 
 [[People/Maggie Appleton\|Maggie Appleton]] has some beautiful blockquotes on her notes. Centre aligned, with small decorative bars above and below:
 
-![Wired magazine blockquote.png](/img/user/Vaults/quartz/content/notes/images/Wired%20magazine%20blockquote.png)
+![Wired_magazine_blockquote.png](/img/user/Embeds/Wired_magazine_blockquote.png)
 
 [[Private/Wired magazine\|Wired magazine]] has quotes with a thick left bar, and generous white space all around.
 
-![McKinsey blockquote.jpg](/img/user/Vaults/quartz/content/notes/images/McKinsey%20blockquote.jpg)
+![mckinsey_blockquote.jpg](/img/user/Vaults/quartz/content/notes/images/mckinsey_blockquote.jpg)
 
 McKinsey has quotes that break outside of the document width:
 
