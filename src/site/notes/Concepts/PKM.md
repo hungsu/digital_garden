@@ -10,7 +10,7 @@ Personal Knowledge Management (PKM) is the skill of managing one's life knowledg
 We live in an age of Knowledge work rather than physical labour. If you are reading this, you are likely paid to type things on a keyboard, make gestures with a mouse, and speak into a webcam. In this age, managing large amounts of specialised information to deliver tailored information is the key to success. In such a system, I believe the keys to long term success are:
 
 - **Quick capture**. Thoughts, words, ideas, come by and disappear so quickly. The ability to capture the important ones is crucial. This means easy to use tools that are reliable and readily available.
-- **Resurfacing**. "I wrote that down somewhere but I can't find it" is the hallmark of a PKM that has failed. Notes must be organised in a way that facilitates rediscovery, without being a burden to maintain. You may be interested in how [[Vaults/quartz/content/notes/My note organisation system\|My note organisation system]] achieves this.
+- **Resurfacing**. "I wrote that down somewhere but I can't find it" is the hallmark of a PKM that has failed. Notes must be organised in a way that facilitates rediscovery, without being a burden to maintain. You may be interested in how [[Private/My note organisation system\|My note organisation system]] achieves this.
 - **Robustness**. Good notes should survive the rigour of real life. A power outage, a destroyed computer, a company bankrupting. This means making [[backup\|backup]]s that work.
 
 ## Similar things
