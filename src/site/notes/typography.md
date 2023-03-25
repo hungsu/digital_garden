@@ -40,6 +40,6 @@ Made up of some smaller skills including:
 
 Typography is improved greatly with [[Private/Colour selection for UI\|Colour selection for UI]].
 
-A core skill for [[Vaults/quartz/content/notes/UI design\|UI design]], and in my opinion, a crucial but underrated skill of [UI engineering](notes/UI%20engineering).
+A core skill for [[Vaults/quartz/content/notes/UI design\|UI design]], and in my opinion, a crucial but underrated skill of [UI engineering](UI%20engineering.md).
 
 Is somewhat related to, but different from Penmanship and [[Private/calligraphy\|calligraphy]].
