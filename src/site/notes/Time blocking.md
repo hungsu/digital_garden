@@ -7,7 +7,7 @@
 > it makes you twice as productive as those suckers who rely on lists.
 > —[[Private/Cal Newport\|Cal Newport]]
 
-A time management and task management method that assigns periods of time to work on tasks. 
+A time management and [[Private/productivity routine\|task management method]] that assigns periods of time to work on tasks. 
 
 ## The method
 
