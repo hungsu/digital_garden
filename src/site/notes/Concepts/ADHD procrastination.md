@@ -25,4 +25,4 @@ Next, the most consistently reliable method of creating executive function invol
 
 If no one is available, such as on weekends, I use an [[outlining app\|outlining app]] to dump as many thoughts about the task as possible. This often means some repetitive thoughts that I will write more than once. These are likely the more important tasks that I can choose to do now - my *next action*. 
 
-[^1]: [Reddit](https://www.reddit.com/r/ADHD/comments/b5gure/the_difference_between_lazy_procrastination_and/) - The difference between lazy procrastination and ADHD procrastination
+[^1]: [The difference between lazy procrastination and ADHD procrastination](https://www.reddit.com/r/ADHD/comments/b5gure/the_difference_between_lazy_procrastination_and/)<br /> Unknown ‧ 2019 March 25 ‧ Reddit
