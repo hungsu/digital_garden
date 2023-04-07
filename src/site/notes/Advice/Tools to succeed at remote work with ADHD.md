@@ -10,13 +10,15 @@ It has been said that [[Claims/All failure is systems failure\|All failure is sy
 
 #### Control the noise with brown noise and wireless earphones
 
-I have found that I become distracted by noise around me - typically nearby conversations when I'm in the office, or barking dogs and nearby phone calls when at home.
+I have found that I am easily distracted by noise around me. Nearby conversations and construction when I'm in the office, or barking dogs and nearby phone calls when at home.
 
 Attempting to fix this by listening to music results in me being significantly less productive, as I find myself distracted by Liking music tracks, fussing with playlists, skipping to next track when the current track becomes slightly too uninteresting.
 
 Attempting again to fix this by using [[Noise cancellation\|noise cancelling]] headphones causes me to be distracted by the sounds of my own body - I'm suddenly able to hear my own heartbeat, very small movements, even [[Private/headphone cable noise\|headphone cable noise]] if I'm using wired headphones. 
 
-Many with ADHD have [reported](https://twitter.com/hiangelali/status/1574328682751356928) being able to be more productive in the dull roar of air travel[^1], and I've also found this to be true. A researcher, [[Private/Goran Suderland\|Göran Söderlund]], has done 15 studies of white noise on people with ADHD and has found people with ADHD perform better on memory and language tasks. Söderlund theorizes that in people with ADHD, listening to broadband noise somehow causes the brain to mimic the effects of dopamine.[^2] It is too expensive to book a plane ticket every time you need to be productive, but using a [[Private/white noise\|brown noise]]  app is free. [Mynoise.net](https://mynoise.net/) is a free web app to generate noise, with a section specifically for ADHD. I've found the [B-17 flying fortress](https://mynoise.net/NoiseMachines/propellerNoiseGenerator.php) preset to suit me well.
+Many with ADHD have [reported](https://twitter.com/hiangelali/status/1574328682751356928) being able to be more productive in the dull roar of air travel[^1], and I've also found this to be true. A researcher, [[Private/Goran Suderland\|Göran Söderlund]], has done 15 studies of white noise on people with ADHD and has found people with ADHD perform better on memory and language tasks. Söderlund theorizes that in people with ADHD, listening to broadband noise somehow causes the brain to mimic the effects of dopamine.[^2] It is too expensive to book a plane ticket every time you need to be productive, but using a [[Private/white noise\|brown noise]]  app is free. [Mynoise.net](https://mynoise.net/) is a free web app to generate noise, with a section specifically for ADHD. I've found the [B-17 flying fortress](https://mynoise.net/NoiseMachines/propellerNoiseGenerator.php?l=46504750000046000037&title=Flying%20Fortress) preset to suit me well, with the radio voices turned off.
+
+![noise-flying-fortress-settings.jpg](/img/user/Embeds/noise-flying-fortress-settings.jpg)
 
 As for wireless earphones and headphones, I am using [[Gear/Samsung Buds 2\|Samsung Buds 2]] and [[Gear/Sony WH-1000XM3\|Sony WH-1000XM3]].
 
