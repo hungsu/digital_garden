@@ -50,19 +50,28 @@ These magazines I have chosen not to subscribe to, but I visit on occasion or re
 
 ## Similar, but not slow news
 
-A consequence of my above strict definition of slow media is that many other sources don't fit. 
+A consequence of my above strict definition of slow media is that many other sources don't fit. But you may still be interested in them.
 
-Non-profit news is funded by donations, but may post more regularly than slow news and also supplement funding with advertising networks. 
+### Non-profit news
+
+Is funded by donations, but may post more regularly than slow news and also supplement funding with advertising networks. 
 
 - [Wikipedia News portal](https://en.wikipedia.org/wiki/Portal:Current_events) updates extremely quickly and never has ads. It's my preferred sources for learning what's new around the world.
 - [Propublica](https://www.propublica.org/) is a mostly reader funded publication which investigates US abuse of power. Has some ads, publishes a little too often, and feels too aggravating for me to read regularly. But has some excellent articles, such as [how to evaluate a non-profit](https://www.propublica.org/article/how-to-evaluate-charity-before-you-donate).
 - Axios, in particular for me, [Axios Seattle](https://www.axios.com/local/seattle). I like this a lot for being so relevant to me, as well as being reader funded. Additionally, accepts reader corrections and publishes them. Has a high quality daily email newsletter, with no external ads - just ad-like self promotion of itself, such as calls to donate, download its app, or look at its [job board](https://www.axios.com/jobs). Its writing is generally not worth re-reading, but is good for skimming to know what's happening in my area.
 
-Government funded news, or [[Private/State media\|State media]] is funded by taxpayers, so occasionally locks access to geographic IP ranges.
+### Government funded news
+
+[[Private/State media\|State media]] is funded by taxpayers. Can have some downsides:
+
+- may lock access to geographic IP ranges.
+- may be propaganda machines, such as Russian news or Chinese News
+
+That said, some excellent government funded news outlets exist:
 
 - [Symmetry Magazine](https://www.symmetrymagazine.org/) focuses on particle physics and is funded by the US Department of Energy.
 
-## Other's opinions
+## Other's opinions of slow media
 
 The [Slow Media Manifesto](http://en.slow-media.net/manifesto) is a deeper look into the philosophy of slow media and how to make it. 
 
