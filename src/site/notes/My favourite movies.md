@@ -15,6 +15,7 @@ The movies I happily rewatch year after year. In approximate chronological order
 - [[Movies/Office Space\|Office Space]]
 - [[Lilo and Stitch (2002)\|Lilo and Stitch (2002)]]
 - [[Ratatouille (2007)\|Ratatouille (2007)]]
+- [[Movies/Moneyball\|Moneyball]]
 - [[Private/Paddington (2014)\|Paddington (2014)]] and [[Private/Paddington 2  (2017)\|Paddington 2  (2017)]]
 - [[Movies/Detective Pikachu\|Detective Pikachu]]
 
