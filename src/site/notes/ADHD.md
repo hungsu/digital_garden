@@ -19,6 +19,6 @@ ADHD is permanent, and while treatment for its negative aspects can be effective
 
 - [[Advice/Tools to succeed at remote work with ADHD\|Tools to succeed at remote work with ADHD]]
 - [[Advice/Programs, coaching, and therapy for ADHD\|Programs, coaching, and therapy for ADHD]]
-- ADHD medications
+- [[ADHD medication\|ADHD medication]]
 
 
