@@ -4,10 +4,25 @@
 
 # Credit card churning is a bad idea
 
-Signing up for a credit card for its signups/reward programs, then quitting once reward is claimed. 
+Credit card churning is the act of signing up for a credit card for its rewards, then cancelling the card once the reward is claimed, ideally before the card's charges fees. Common in the USA, and mostly absent in Europe and Australia where credit card fees are lower. 
 
-As someone who likely has [[ADHD\|ADHD]], I believe that anyone with ADHD should *never* do this. Those with ADHD have trouble making phone calls, and are highly stressed by upsells and social savvy. What will typically happen is the credit card goes un-cancelled, incurring yearly fees that outweigh the benefits.
+I believe that anyone with [[ADHD\|ADHD]] should *never* do this. Credit cards typically require a phone call to be cancelled. Those with ADHD have trouble making phone calls, and are highly stressed by upsells and social savvy. What will typically happen is the credit card goes un-cancelled, incurring yearly fees that outweigh the benefits.
 
-Neurotypical people will frequently phrase this that if you are simply disciplined and organised you can get around this. Or worse, phrase it as "no work involved". For neurodivergents, the task of "make a phone call on this day and be determined to say no to all prompts" has such a high failure rate that to call it "no work involved" is tantamount to a total lie.
+What's more, credit card companies will often add other hoops to cancelling. For example, the American Express website does not list a phone number to call, instead telling you to call the number on your card. If you have lost the card, you are therefore unable to make the call!
 
-If you are neurotypical and still wish to try credit card churning, you may try [r/churning](https://old.reddit.com/r/churning) and [The Points Guy](https://thepointsguy.com/).
+![[amex-cancel.webp]]
+
+## Neurotypicals don't understand neurodivergence
+
+Neurotypical people who churn credit cards will  say things like:
+
+- "If you are simply disciplined and organised you can get around this"
+- "Credit card churning is free money with no work involved" 
+
+For neurodivergents, the task of "make a phone call on this day and be determined to say no to all prompts" has such a high failure rate, that to call it "no work involved" is *a total lie*.
+
+## What to do instead
+
+As a neurodivergent, it is better to sign up for **ONE** excellent long term credit card with an excellent points program and simply collect miles over time, so that your normal behaviour collects rewards. For that you may want to look at [The Points Guy](https://thepointsguy.com/).
+
+My personal choice is the [Capital One Venture X](https://capital.one/41nCiBj). 
