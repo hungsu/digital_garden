@@ -8,9 +8,9 @@ Credit card churning is the act of signing up for a credit card for its rewards,
 
 I believe that anyone with [[ADHD\|ADHD]] should *never* do this. Credit cards typically require a phone call to be cancelled. Those with ADHD have trouble making phone calls, and are highly stressed by upsells and social savvy. What will typically happen is the credit card goes un-cancelled, incurring yearly fees that outweigh the benefits.
 
-What's more, credit card companies will often add other hoops to cancelling. For example, the American Express website does not list a phone number to call, instead telling you to call the number on your card. If you have lost the card, you are therefore unable to make the call!
+What's more, credit card companies will often make cancelling difficult. For example, the American Express website does not list a phone number to call, instead telling you to call the number on your card. If you have lost the card, you are therefore unable to make the call!
 
-![[amex-cancel.webp]]
+![amex_cancellation_page.jpg](/img/user/Embeds/amex_cancellation_page.jpg)
 
 ## Neurotypicals don't understand neurodivergence
 
