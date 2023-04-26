@@ -16,6 +16,7 @@ An Obsidian plugin that creates a website (or [[Concepts/digital garden\|digital
 
 It has some disadvantages:
 
+- [[Private/WebP\|WebP]] images do not work.
 - Note titles are always from the filename. I often want to set my titles in the note, because filenames have character restrictions such as no question marks.
 - Tags are a bit weird. Clicking a tag takes you to the search window with the tag prepopulated. I'd prefer a tag page! Thankfully, this is very easy to do myself.  
 - No RSS - this is something I might make myself
