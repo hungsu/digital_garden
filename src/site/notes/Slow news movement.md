@@ -46,7 +46,7 @@ These magazines I have chosen not to subscribe to, but I visit on occasion or re
 - [The Point Mag](https://thepointmag.com/) publishes an issue every four months, and offers 3 articles for free before requiring you to purchase a subscription for $3/month. I like their website's design style and love for typography, but after reading 3 articles and not really enjoying any, I'm unlikely to return.
 - [Asterisk Mag](https://asteriskmag.com) is contributed to by *Dynomight*, one of [[My favourite blogs\|My favourite blogs]]. They publish once a quarter, and in their words "is fiscally sponsored by the Effective Ventures Foundation, a registered charity in England and Wales".
 - [n+1](https://www.nplusonemag.com/) has been around since 2004, and publishes 3 times a year. They are funded by the N+1 Foundation, and reader subscriptions which start at $4.50USD/month. I'm reading [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/)
-- [Public Books Magazine](https://www.publicbooks.org/about/) has been around since 2012 and is funded by Columbia University and donations from its readers. They have a notable article on why US news is the way it is, [Misinformation Society](https://www.publicbooks.org/the-big-picture-misinformation-society/).
+- [Public Books Magazine](https://www.publicbooks.org/about/) has been around since 2012 and is funded by Columbia University and donations from its readers. Has wonderful Typography. They have a notable article on why US news is the way it is, [Misinformation Society](https://www.publicbooks.org/the-big-picture-misinformation-society/).
 
 ## Similar, but not slow news
 
