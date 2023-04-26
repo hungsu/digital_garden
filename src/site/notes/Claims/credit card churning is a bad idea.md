@@ -25,4 +25,4 @@ For neurodivergents, the task of "make a phone call on this day and be determine
 
 As a neurodivergent, it is better to sign up for **ONE** excellent long term credit card with an excellent points program and simply collect miles over time, so that your normal behaviour collects rewards. For that you may want to look at [The Points Guy](https://thepointsguy.com/).
 
-My personal choice is the [Capital One Venture X](https://capital.one/41nCiBj).  If you choose to sign up with this link, I get 25000 points, at no extra cost to you.
+My personal choice is the [Capital One Venture X](https://capital.one/41nCiBj). I have had mine for a year, and in that time the points I've earned using it have more than paid its yearly fee. If you would are interested in the card and would like to do me a favour: sign up for the card with this link. I then get 25000 points, at no extra cost to you.
