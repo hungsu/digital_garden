@@ -57,6 +57,7 @@ A consequence of my above strict definition of slow media is that many other sou
 Is funded by donations, but may post more regularly than slow news and also supplement funding with advertising networks. 
 
 - [Wikipedia News portal](https://en.wikipedia.org/wiki/Portal:Current_events) updates extremely quickly and never has ads. It's my preferred sources for learning what's new around the world.
+- [News Minimalist](https://www.newsminimalist.com/) uses [[Private/GPT-4\|GPT-4]] to rank news around the world every day and show only the most significant. Made by one person, with no ads as of 2023-05-01
 - [Propublica](https://www.propublica.org/) is a mostly reader funded publication which investigates US abuse of power. Has some ads, publishes a little too often, and feels too aggravating for me to read regularly. But has some excellent articles, such as [how to evaluate a non-profit](https://www.propublica.org/article/how-to-evaluate-charity-before-you-donate).
 - Axios, in particular for me, [Axios Seattle](https://www.axios.com/local/seattle). I like this a lot for being so relevant to me, as well as being reader funded. Additionally, accepts reader corrections and publishes them. Has a high quality daily email newsletter, with no external ads - just ad-like self promotion of itself, such as calls to donate, download its app, or look at its [job board](https://www.axios.com/jobs). Its writing is generally not worth re-reading, but is good for skimming to know what's happening in my area.
 
