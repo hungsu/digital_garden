@@ -36,7 +36,7 @@ Outlines are highly rearrangeable. Unlike conventional Documents in word process
 
 Outlines are focusable. On writing a chaotic chain of thought, an outliner allows the user to choose any bullet point to focus on, hiding all others.
 
-I recommend [[Private/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior. [[Private/Tana Inc\|Tana Inc]] is another outliner that is highly acclaimed, but not privacy focused.
+I recommend [[Software/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior. [[Private/Tana Inc\|Tana Inc]] is another outliner that is highly acclaimed, but not privacy focused.
 
 #### Visualise your time
 
