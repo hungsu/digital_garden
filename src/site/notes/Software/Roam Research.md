@@ -8,7 +8,7 @@ An [[outlining app\|outlining app]] that has gone through a great deal of contro
 
 On a technical level, being web-only and with no mobile app makes it hard to use on the go. Some have complained it becomes slow over time.
 
-Use [[Private/Tana Inc\|Tana Inc]] or [[Private/Logseq\|Logseq]] instead.
+Use [[Private/Tana Inc\|Tana Inc]] or [[Software/Logseq\|Logseq]] instead.
 
 ## Other's opinions
 
