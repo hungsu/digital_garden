@@ -25,6 +25,8 @@ Well and Good have a lot of padding around their drop caps
 
 ![TheAtlantic_dropcap.jpg](/img/user/Embeds/TheAtlantic_dropcap.jpg)
 
+https://www.eviemagazine.com/post/elon-musk-permanently-bans-twitter-account-pedophilia-pride-flag-youth-attracted 
+
 ## Working with drop caps
 
 Drop caps for web are generally implemented with the CSS pseudoclass, `::first-letter` . Any browser dev tools should work for analysing drop caps on the web. Firefox's dev tools has them under the pseudo elements section.
