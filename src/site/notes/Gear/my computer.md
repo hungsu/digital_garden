@@ -18,4 +18,4 @@ My gaming computer is a small form factor PC I built myself inside a [[Private/L
 
 After ending [[blog/My experience with Ubuntu in 2020\|My experience with Ubuntu in 2020]], I've set up both my current computers with [[Private/Windows 10\|Windows 10]]. 
 
-My dream computer might be built with an upcoming 5nm Ryzen 7000 CPU, and the fastest NVME SSD I can find.
+My next dream computer will most likely be a [[Private/handheld PC\|handheld PC]], possibly with an [[Private/Oculink\|Oculink]] [[Private/EGPU\|EGPU]].
