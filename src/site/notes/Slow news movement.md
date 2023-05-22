@@ -5,7 +5,7 @@
 
 # Slow Media
 
-Media that focuses on longtermism, accuracy and relevance, at the expense of response time. May publish as often as once a week, or as slowly as once a year. Some may consider slow media to be the bridge between articles and books.
+Media that focuses on longtermism, accuracy and relevance, at the expense of response time. May publish as often as once a week, or as slowly as once a year. Some may consider slow media to be the bridge between articles and [[Private/book\|books]].
 
 ## Why read slow media? Isn't being up-to-date the point?
 
