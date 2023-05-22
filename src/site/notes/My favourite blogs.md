@@ -43,8 +43,6 @@ Julia Evan's [blog](https://jvns.ca/) about is phenomenal, particularly for comp
 
 ## Other digital gardens I'll check out later
 
-[The Good Trade](https://www.thegoodtrade.com/) is extremely pretty and has some notable articles, like [How To Respond To Someone Who Is Grieving](https://www.thegoodtrade.com/features/how-to-respond-to-someone-who-is-grieving/) 
-
 Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/gardens/) in his digital garden
 
 [[Private/Joel Hooks\|Joel Hooks]]' [Digital garden](https://joelhooks.com/)
@@ -55,5 +53,7 @@ Chips and Cheese, a blog about [[Private/semiconductor manufacturing\|semiconduc
 
 ## Not blogs but worth checking out
 
-If you like reading long form and extremely well researched content, [[Slow news movement\|Slow journalism]] may be your jam.
+If you hate ads and like reading long form and extremely well researched content, [[Slow news movement\|Slow journalism]] may be your jam.
+
+If you're okay with ads, you should check out [[Private/my favourite magazines\|my favourite magazines]].
 
