@@ -13,6 +13,12 @@ ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up
 
 That said, I realised I both had ADHD and that ADHD was causing me trouble when I learned I was experiencing [[Concepts/ADHD procrastination\|ADHD procrastination]].
 
+## Diagnosing ADHD
+
+
+
+tiktok adhd diagnosis wave https://youtu.be/2InkNZxf7D4
+
 ## Treating ADHD
 
 ADHD is permanent, and while treatment for its negative aspects can be effective, there is 100% regression rate on symptoms - they are part of your character. That said, the negative side effects of ADHD can be handled in a variety of ways.
