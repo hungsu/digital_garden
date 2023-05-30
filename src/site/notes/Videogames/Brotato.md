@@ -13,4 +13,12 @@ Something I picked up when I noticed my friends racking up 100s of hours in it.
 
 If you have an Android phone, you can download an [APK](https://brotato.wiki.spellsandguns.com/Modding#Mobile_Mods ) of the game, and copy your save file from your computer to your phone to play there, but note that any Achievements you get on your phone won't appear in Steam.
 
-There's a guide to the game on [Google Docs](https://docs.google.com/document/d/1-c33h4oZwmWj3ZOz4xp0HN4vIyMXxOwGK8Rm8e4mfKE/edit) which has been useful for me to realise my [[stupid mistake\|stupid mistake]]s, such as buying bad items like *Gecko* and *Riposte*.
+## Stupid mistakes I made
+
+Like most games, in Brotato it's possible to make [[Concepts/easy mistake\|easy mistake]]s. There's a guide to the game on [Google Docs](https://docs.google.com/document/d/1-c33h4oZwmWj3ZOz4xp0HN4vIyMXxOwGK8Rm8e4mfKE/edit) which has been useful for me to realise mine, which include
+
+- Buying many bad items, such as Statue, White Flag, Gecko and Riposte. And many others...
+- Ignoring game feedback. I observed money fly into a "bag" icon during game but never bothered to inquire what that meant. (It means you'll get that money at the beginning of next round)
+- Not knowing how stats work, specifically [Harvesting](https://brotato.wiki.spellsandguns.com/Harvesting). This leads to the next stupid mistake:
+- Not buying the best items, like Caffeine, Bag, and Fertilizer.
+
