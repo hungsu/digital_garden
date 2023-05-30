@@ -24,7 +24,11 @@ Some examples:
 - In videogames with item economies, buying game-losing items. An alternative is finding Item Tier Lists, or reading character build guides.
 - In videogames like Overwatch, standing next to the game winning objective instead of on it
 
-## Stupid mistakes are embarrassing
+## Easy mistakes are embarrassing
+
+Particularly in team video games, if you are spotted repeatedly performing a  mistake, you'll likely be called stupid, told to "stop being stupid" or some variant. This counterintuitively often results in you continuing to repeat the mistake, perhaps because of performance pressure from so many team members now looking at you, or to spite the person who called you stupid.
+
+It's important in rectifying stupid mistakes that they are not personal failings, but the result of chains of events and reactions leading to an outcome. For that outcome to not occur, the chain of events and reactions must change
 
 Some people refuse to do drills that could improve remedy their stupid mistakes because they believe the drills will make them look foolish. One coach solves this by making students foolish on purpose, citing that looking foolish in front of the team is better than looking foolish at a competition https://danluu.com/p95-skill/#fn:D
 
