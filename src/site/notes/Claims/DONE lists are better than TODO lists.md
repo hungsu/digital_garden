@@ -26,4 +26,6 @@ Todo lists are still necessary - particularly for workers who are prone to distr
 
 [[Private/The Ivy Lee Method\|The Ivy Lee Method]], a prioritised to-do list with a maximum of 6 items
 
+[[Concepts/Interstitial journaling\|Interstitial journaling]], very similar to a DONE list in that you simply write what you've been doing every chance you get
+
 [^1]: [Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)<br /> Clive Thompson ‧ 2021 July 27 ‧ WIRED Magazine
