@@ -30,7 +30,7 @@ Particularly in team video games, if you are spotted repeatedly performing a  mi
 
 It's important in rectifying stupid mistakes that they are not personal failings, but the result of chains of events and reactions leading to an outcome. For that outcome to not occur, the chain of events and reactions must change
 
-Some people refuse to do drills that could improve remedy their stupid mistakes because they believe the drills will make them look foolish. One coach solves this by making students foolish on purpose, citing that looking foolish in front of the team is better than looking foolish at a competition https://danluu.com/p95-skill/#fn:D
+Some people refuse to do drills that could improve their easy mistakes because they believe the drills will make them look foolish. One coach solves this by making students foolish on purpose, citing that looking foolish in front of the team is better than looking foolish at a competition[^1]
 
 ## Fixing easy mistakes improves skill dramatically
 
@@ -38,7 +38,7 @@ Easy mistakes are frequent amongst all skill practitioners, usually even up to 9
 
 - In [[Public/Chess\|chess]], using a blunder trainer can typically improve ELO by a few hundred in a few months
 - In [[Videogames/Brotato\|Brotato]], identifying my game-losing item choices took me from frustratedly losing Danger 5 to winning easily.
-- In DotA 2, switching from moving as an independent player to one only in formation with other players took me from 50% win rate to close to 100% win rate for a few months.
+- In DotA 2, switching from moving as an independent player to one only in formation with other players took me from 50% win rate to winning next twenty games in a row, easily.
 
 ## Further reading of stupid mistakes
 
@@ -46,3 +46,4 @@ Easy mistakes are frequent amongst all skill practitioners, usually even up to 9
 
 [[Private/Psyche.co\|Psyche.co]] considered the base reason for stupid mistakes: [Why some of the smartest people can be so very stupid](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid)
 
+[^1]: [95%-ile isn't that good]( https://danluu.com/p95-skill/#fn:D)<br /> Dan Luu ‧ 2020 February ‧ danluu.com
