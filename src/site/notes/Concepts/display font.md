@@ -12,11 +12,12 @@ Display faces tend to have higher stroke contrast, tighter spacing and more intr
 
 ## Using Display type in your body text is a mistake
 
-![Mercury_Display_as_body_text.jpg](/img/user/Embeds/Mercury_Display_as_body_text.jpg)
+![Display_font_as_body.png](/img/user/Embeds/Display_font_as_body.png)
 
 Using display type in body text causes a variety of issues:
 - The letters are spaced too close together at this size
-- strokes are too thin, making text very hard to read. Lowercase `e` becomes `c`.
+- Details like serifs are too small and are lost
+- Strokes can seem to disappear, making text very hard to read. Lowercase `e` becomes `c`.
 
-![Body_font.jpg](/img/user/Embeds/Body_font.jpg)
+![Body_font_as_body.png](/img/user/Embeds/Body_font_as_body.png)
 
