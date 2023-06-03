@@ -12,12 +12,13 @@ Display faces tend to have higher stroke contrast, tighter spacing and more intr
 
 ## Using Display type in your body text is a mistake
 
-![Display_font_as_body.png](/img/user/Embeds/Display_font_as_body.png)
+This line you are reading is in a Body or Text typeface, designed to be used in this way.
+
+<p style="font-family: 'Playfair Display', serif;">This paragraph, is using a display typeface instead. You may notice it feels odd to read, especially as you read each line. Rather than adjusting to it, reading words likes this feels increasingly uncomfortable.</p>
 
 Using display type in body text causes a variety of issues:
-- The letters are spaced too close together at this size
-- Details like serifs are too small and are lost
+- The letter spacing or tracking, which is ideal at large sizes, is too tight for body text.
+- Some details like serifs are too small and are lost
+- Languages, weights, styles are usually fewer
 - Strokes can seem to disappear, making text very hard to read. Lowercase `e` becomes `c`.
-
-![Body_font_as_body.png](/img/user/Embeds/Body_font_as_body.png)
 
