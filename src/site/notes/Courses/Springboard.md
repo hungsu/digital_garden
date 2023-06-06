@@ -4,7 +4,7 @@
 
 # Springboard
 
-Springboard is a boot camp for [[Vaults/quartz/content/notes/UI design\|UI design]] and [[Private/UX design\|UX design]], that is **complete shit**. If you want to become a designer, study on your own - it's the same material, for free.
+Springboard is a boot camp for [[Concepts/UI design\|UI design]] and [[Private/UX design\|UX design]], that is **complete shit**. If you want to become a designer, study on your own - it's the same material, for free.
 
 We wasted tens of thousands of dollars on this and all the material is just online blog posts you can freely access anyway, and those blog posts aren't even good.
 
