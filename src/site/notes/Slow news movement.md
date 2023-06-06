@@ -33,6 +33,10 @@ These magazines I either subscribe to in my [[Private/RSS reader\|RSS reader]] o
 - [Noema](https://www.noemamag.com/) publishes around twice a year, and offers issues in both print and digital for $20 each. They feature wonderful static and animated artwork for every article, and you might want to see their [Top Art of 2022](https://www.noemamag.com/noemas-top-artwork-of-2022/). They cover a wide variety of societal issues, though there is a clear American influence. I'm working through their articles on [Banks for the people](https://www.noemamag.com/banks-for-the-people/) and another article about funding carbon sequestering with a Carbon Coin: [Paying Ourselves to Decarbonize](https://www.noemamag.com/paying-ourselves-to-decarbonize/).
 - [Psyche.co](https://psyche.co/) is an offshoot of Aeon mentioned below, focusing on the human mind. Often it's articles are highly actionable and extremely valuable reading, and I appreciate that they frequently supply a *Key Points* section that summarises each article. My favourite article is [How to stop procrastinating](https://psyche.co/guides/how-to-stop-procrastinating-by-confronting-your-avoidance).
 
+![](https://res.cloudinary.com/didjqvf50/image/upload/v1686031313/the_new_atlantic_re5z93.jpg)
+
+[The New Atlantis](https://www.thenewatlantis.com/) is an academic journal with gorgeous photography, typography and publishes 4 times a year. I'm currently enjoying [How to make friends](https://www.thenewatlantis.com/publications/how-to-make-friends)
+
 ### Others of note
 
 These magazines I have chosen not to subscribe to, but I visit on occasion or recommend to people who may be more interested in their subject matter.
