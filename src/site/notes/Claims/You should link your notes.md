@@ -6,7 +6,7 @@
 # You should link your notes
 
 > [!quote] [[Private/Howard Bloom\|Howard Bloom]] via [[Farnam Street\|Farnam Street]]
-> It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness.
+> It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness. #quote
 
 You probably write a lot of notes already, and already have [[Private/Reasons to write notes\|Reasons to write notes]]. What might not be so obvious is why you should link your notes together. Maybe you've seen a lot of hype about Roam Research, Zettelkasten, Obsidian and don't get why. Here are the reasons I link my notes, regardless of app.
 
