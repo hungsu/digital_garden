@@ -5,15 +5,17 @@
 
 # All failure is systems failure
 
-It is common to blame or praise a person's mistakes on their *character*. It is more useful for all involved to point out and redesign the systems that enabled that state.[^1]
+It is common to blame mistakes on *character*, particularly when such mistakes are highly visible.
 
-These techniques and behaviours tend to exacerbate problems:
-- Accusations
-- Shaming
+- Saying that someone's work is stupid, or worse, finding its creator and calling them stupid.
+
+Rather than helping, blaming and shaming tend to create additional problems. It is more useful for all involved to instead comment on the systems around the mistake neutrally, and redesign the systems to reduce or eliminate future mistakes.
 
 Instead, these approaches have better long term results
 
 - Design thinking
+
+This philosophy has a strong resemblance to [[Private/Stoicism\|Stoicism]]'s belief that things simply "are".
 
 ## Counterpoints
 
@@ -21,7 +23,9 @@ Some may argue that by not blaming the individual they are "getting away" with b
 
 Some also point out that Atomic Habits attributes a person's habits to a person's beliefs. Thus the initial point that a mistake being part of a person's character seems to hold true.
 
-This philosophy has a strong resemblance to [[Private/Stoicism\|Stoicism]].
+
+
+
 
 ---
 
