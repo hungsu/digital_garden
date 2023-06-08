@@ -37,8 +37,6 @@ Julia Evan's [blog](https://jvns.ca/) about is phenomenal, particularly for comp
 
 [Notes](https://publish.obsidian.md/eleanorkonik/) by Eleanor Konik is a wealth of information on World Building and PKM. It's made using [[Software/Obsidian Publish\|Obsidian Publish]].
 
-[LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) is unique for being powered entirely by solar power. You can see the current battery level in the website's background. This blog has some excellent posts about energy and sustainable future. My favourite article is this one, [Heating people not places](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)
-
 [Alexis Rondeau's digital garden](https://publish.obsidian.md/alexisrondeau/) is made with Obsidian Publish and is rich in notes. He has an interesting note exploring whether [increased light improves mood](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+Happier+Through+Bright+Light+(Experiment)).
 
 ## Other digital gardens I'll check out later
