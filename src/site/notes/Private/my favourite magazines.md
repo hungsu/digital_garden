@@ -15,13 +15,12 @@ For blogs with only one writer, [[My favourite blogs\|my favourite blogs and dig
 
 [The Good Trade](https://www.thegoodtrade.com/) is extremely pretty and has some notable articles, like [How To Respond To Someone Who Is Grieving](https://www.thegoodtrade.com/features/how-to-respond-to-someone-who-is-grieving/)
 
-[Serve The Home](https://www.servethehome.com/) is a magazine for [[self hosting\|self hosting]]. I go here for networking hardware news.
+[Serve The Home](https://www.servethehome.com/) is a magazine for [[self hosting\|self hosting]]. I go here for networking hardware news. There are so many ads here that I sometimes consider installing an ad-blocker, even though [[Claims/Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]].
 
 [National Geographic](https://www.nationalgeographic.com/) is one of the most gorgeous magazines of all time. Photographers who work there shape the entire photography industry
 
 ## The contentious
 
-[[Private/Wired magazine\|Wired magazine]] was once one of my most beloved tech magazines, particularly in the 90s when they were a print magazine. I bought a digital subscription from them in 2022 but found myself skimming, disagreeing, and otherwise getting no value from them.
+[[Private/Wired magazine\|Wired magazine]] was once one of my most beloved tech magazines, particularly in the 90s when they were a print magazine. [Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) is an article from them that I still reference often. I bought a digital subscription from them in 2022 but found myself skimming, disagreeing, and otherwise getting no value from most of their articles, so I've since cancelled my sub.
 
-[[Private/The Wirecutter\|The Wirecutter]] is a consumer product reviews magazine acquired by The New York Times. Is slightly infamous, to the point where people who read Wirecutter are judged for their laziness. As an alternative, there are [RTINGS.com](https://www.rtings.com/) and [Consumer Reports](https://www.consumerreports.org/)
-
+[[Private/The Wirecutter\|The Wirecutter]] is a consumer product reviews magazine acquired by The New York Times. Is slightly infamous, to the point where people who read Wirecutter are judged for their laziness. For alternatives, there are [RTINGS.com](https://www.rtings.com/) and [Consumer Reports](https://www.consumerreports.org/)
