@@ -19,7 +19,7 @@ Neurotypical people who churn credit cards will  say things like:
 - "If you are simply disciplined and organised you can get around this"
 - "Credit card churning is free money with no work involved" 
 
-For neurodivergents, the task of "make a phone call on this day and be determined to say no to all prompts" has such a high failure rate, that to call it "no work involved" is *a total lie*.
+For neurodivergents, the task of "make a phone call on this day and say no to all attempts to keep you subscribed" has a high failure rate. To call that "no work involved" is *a total lie*.
 
 ## What to do instead
 
