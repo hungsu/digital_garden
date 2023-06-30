@@ -8,13 +8,13 @@
 People do not realise how important document titles are. I've said before, [[Private/You should give your notes titles\|You should give your notes titles]]. There are many examples:
 
 - People who make no attempt at all to write titles, and can be found with dozens of documents all named "Untitled". This person often cannot find what they're looking for and blames their computer. 
-- People who try very hard to name their documents but do not understand what makes a good title. I found a wonderful guide explaining in depth how to add a security certificate to a Windows virtual machine if it was running on a MacOS host, and the author titled it simply "Windows VMs". The guide did not explain anything else. I only knew the guide existed at all because a coworker gave it to me directly, it would have been impossible to find otherwise. 
+- People who try very hard to name their documents but do not understand what makes a good title. For example, I found a wonderful guide explaining in depth how to add a security certificate to a Windows virtual machine if it was running on a MacOS host. It should have been named something like "How to add a security certificate to a Windows VM", but the author titled it simply "Windows VMs".
 
 Thus, when you have a good document within a [[Concepts/PKM\|PKM]] system or even a team wiki, how do we write a good and useful title for it?
 
 Qualities we want:
 
-- Searchability. One should be able to find a note again by searching for it's Title, rather than its contents.
+- Searchability. A person who wants your document will employ certain search words and phrases, and those should overlap with your note's Title, rather than its contents.
 - Accuracy and Honesty. A title that doesn't reflect it's content is a form of dishonesty, and is why clickbait is so hated. [[Claims/Titles are a promise of good content\|Titles are a promise of good content]].
 - Clarity. We should be able to parse a title easily and quickly to determine if it is the note we want. Milliseconds matter.  [[Private/Concise writing takes longer to write, but is worth it\|Concise writing takes longer to write, but is worth it]].
 
@@ -40,14 +40,14 @@ In writing this way you may also learn to be more assertive and sure of yourself
 
 **Use consistent and correct spelling**. I have been tempted many times to ignore spelling errors, but this will bite you in future when you attempt to use the search feature in your notes. Take the time to use a spellchecker and fix errors. For the same reason, you should use only a single region's spelling. Don't mix American and Australian English.
 
-**Link to the note**. By considering how another note is related to the current note, this puts you in a mindset to consider a usable title. For example, 
+**Link to the note**. If you are writing in a linked note app such as Obsidian or Tana, you should try finding other notes that relate to this one, and link to them. By considering how another note is related to the current note, this puts you in a mindset to consider a usable title. For example, 
 
 - There was an existing document, `Run VM using Vagrant`. But, I couldn't use this document as it was written for users running x86 Macs and I had an M1 Mac. In response, I wrote a document `Run Windows VM on M1 Mac using Parallels`, then added a link to my document in the original.
 - I had a note with reasons for using apps like Obsidian, called "Reasons to use a linked note system". This was precise, but felt weak and uninspiring to use whenever I tried to link it. Changing it to an imperative, "[[Claims/You should link your notes\|You should link your notes]]" made it much more fun to put in other documents.
 
 **Write the document**. Titles tend to emerge from the document as it is written. You may realise on writing the body, you cannot deliver on the promise of your original title. Changing the title then becomes obvious. You may also realise on writing the title, that no single title can encapsulate all you have written. This is a good indicator that your note should be broken apart into atomic notes.
 
-**Consider characters you can't type**. I am unable to easily type  *“Gonçalo”*. So my note for such a person has an alias *“Goncalo”*.
+**Consider characters you can't type**. I am unable to easily type  *“Gonçalo”* with my keyboard. So my note for such a person has an alias *“Goncalo”*.
 
 **Look at similar notes**. One way to find them is in a [[Private/Taxonomy of note types\|Taxonomy of note types]]. You may notice interesting and useful conventions, such as *How To* guides beginning with the words *“How to–”*.
 
@@ -57,7 +57,7 @@ In writing this way you may also learn to be more assertive and sure of yourself
 - Focus on the process, not on goals
 But I later rewrote it to be this:
 - Travelling hopefully is better than arriving.
-In addition, use a tool that does not punish you for changing your titles. One such tool is Confluence, which changes your URL if you update the title.
+In addition, use a tool that does not punish you for changing your titles. One such tool is [[Private/Confluence\|Confluence]], which changes your URL if you update the title.
 
 ## Anti guidelines
 
@@ -79,7 +79,7 @@ These are guidelines I've seen recommended by others, which I believe you should
 
 They have some advantages, namely that they give you some idea of how large the note is. On the downside, they reek of lower class writing, and they are also not very Searchable. Who can remember to search for the number "73"? And every time we change the body we have to update the number!
 
- **Exaggerate and appeal to emotion**. There are many words that are charged excessively with emotion, to the point of being upsetting or aggravating.
+**Exaggerate and appeal to emotion**. There are many words that are charged excessively with emotion, to the point of being upsetting or aggravating. Avoid these. For example:
  - Javascript is cancer
  - Boomer advice you need to unlearn
 
