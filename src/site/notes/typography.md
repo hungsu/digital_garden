@@ -35,6 +35,7 @@ Made up of some smaller skills including:
 - [[People/Gwern Branwen\|Gwern Branwen]] has a very [long article](https://www.gwern.net/Design) talking about the design of his website.
 - Envato Tuts has a free [39m video](https://youtu.be/yAuUDyUC-GM)
 - [The Elements of Typographic Style](https://readings.design/PDF/the_elements_of_typographic_style.pdf). A well-known classic in the industry. If a book seems too old fashioned, someone reinterpreted it in [The Elements of Typographic Style applied to the web](http://webtypography.net/toc/)
+- [Legible Typography](https://legible-typography.com/en/) is a free ebook containing research on typography
 
 ## Related and helpful skills
 
