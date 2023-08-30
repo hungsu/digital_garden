@@ -60,6 +60,8 @@ https://news.ycombinator.com/item?id=34482836
 ## More reading
 https://martinfowler.com/architecture/
 
+[This](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html) says that [this](https://www.tedinski.com/archive/) is good
+
 https://www.workingsoftware.dev/architecture-principles/?ref=refind
 
 https://blog.pragmaticengineer.com/software-architecture-is-overrated/
