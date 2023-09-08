@@ -8,7 +8,7 @@
 
 One of the Big Three of  [[Private/Seinen\|Seinen]] [[Private/Manga\|Manga]], by Kentaro Miura.
 
-I first encountered the series in the early 2000s as a young teen, in its anime adaptation. I dismissed it at the time, thinking it was nothing special, watching Rurouni Kenshin and other shonen series instead. 
+I first encountered the series in the early 2000s as a young teen, in its 1997 anime adaptation. I dismissed it at the time, thinking it was nothing special, watching Rurouni Kenshin and other shonen series instead. 
 
 As an adult in my 30s, I bought the first three Deluxe Editions, and have read the first two, each in around a day. There's so much happening in every cell, with every character, every interaction, and I seem to find more with every look. Like a lot of other "dark" media, Berserk chooses to mock predictable tropes such as the [[Concepts/Hero's Journey\|Hero's Journey]] by distorting and disfiguring them. 
 
