@@ -11,7 +11,7 @@ Should be written by project lead, for projects that take 1 engineer month or mo
 
 Note that designing a very complex system entirely upfront and expecting it to work generally guarantees failure. Instead, very complex systems that work will emerge over time from simpler systems that work.
 
-## Examples of great documents
+## Examples of great design documents
 
 Beware, all these examples were written *after* the software was made, and architecture documents are generally written before a project starts. Real architecture documents made for planning are generally kept secret.
 
@@ -44,9 +44,9 @@ If you have intentionally excluded something from the design, that thing should 
 
 ![C4 diagram for internet banking system](/img/user/Vaults/quartz/content/notes/images/c4_diagram.jpg)
 
-These might be based on the C4 model: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
+These might be based on the [[Private/C4 model\|C4 model]]: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
 
-<!-- Eventually the section below should be removed -->
+https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations
 
 ## Guides to writing architecture documents
 
