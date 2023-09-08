@@ -64,7 +64,7 @@ https://www.wired.com/story/block-scheduling-calendar-workflow-productivity/
 
 ## Other's thoughts
 
-[[David Sparks\|David Sparks]] describes time blocking in multiple [blog posts](https://www.macsparky.com/blog/tag/hyper-scheduling/). [[Private/Sam Julien\|Sam Julien]] says he uses this 
+[[Private/David Sparks\|David Sparks]] describes time blocking in multiple [blog posts](https://www.macsparky.com/blog/tag/hyper-scheduling/). [[Private/Sam Julien\|Sam Julien]] says he uses this 
 
 [[Private/Cal Newport\|Cal Newport]] made an unlisted [10m video](https://youtu.be/eff9h1WYxSo)
 
