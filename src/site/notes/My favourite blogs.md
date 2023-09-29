@@ -45,8 +45,6 @@ Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/garde
 
 [[Private/Joel Hooks\|Joel Hooks]]' [Digital garden](https://joelhooks.com/)
 
-[[Private/Thompson Morrison\|Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
-
 Chips and Cheese, a blog about [[Private/semiconductor manufacturing\|semiconductor manufacturing]] and architecture. Their article on [RDNA](https://chipsandcheese.com/2023/02/19/amds-rdna-2-shooting-for-the-top/) looks relevant to me as an owner of a [[Gear/6700XT\|6700XT]]
 
 ## Not blogs but worth checking out
