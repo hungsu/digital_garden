@@ -15,7 +15,7 @@ For blogs with only one writer, [[My favourite blogs\|my favourite blogs and dig
 
 [The Good Trade](https://www.thegoodtrade.com/) is extremely pretty and has some notable articles, like [How To Respond To Someone Who Is Grieving](https://www.thegoodtrade.com/features/how-to-respond-to-someone-who-is-grieving/)
 
-[Serve The Home](https://www.servethehome.com/) is a magazine for [[self hosting\|self hosting]]. I go here for networking hardware news. There are so many ads here that I sometimes consider installing an ad-blocker, even though [[Claims/Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]].
+[Serve The Home](https://www.servethehome.com/) is a magazine for [[Private/self hosting\|self hosting]]. I go here for networking hardware news. There are so many ads here that I sometimes consider installing an ad-blocker, even though [[Claims/Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]].
 
 [National Geographic](https://www.nationalgeographic.com/) is one of the most gorgeous magazines of all time. Photographers who work there shape the entire photography industry
 
