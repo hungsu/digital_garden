@@ -20,7 +20,7 @@ Things that opened up amazing possibilities and continue delivering rich results
 - [[Private/Zettelkasten\|Zettelkasten]] and [[Private/Linked note system\|Linked note system]] with Quick search
 	- Durable, cumulative, retrievable knowledge
 - No notifications.
-	- Internet off, and [[Private/Local-first\|Local-first]] apps.
+	- Internet off, and [[Private/local-first\|local-first]] apps.
 	- Working early morning or late at night
 	- [[Concepts/Dopamine fast\|Dopamine fast]]
 - Self teaching and deliberate practice
