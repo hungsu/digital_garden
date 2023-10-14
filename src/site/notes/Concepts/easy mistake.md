@@ -5,7 +5,7 @@
 # Easy mistake
 
 > [!warning]
-> The term "stupid mistake" tends to be embarassing and results in people getting defensive, covering up their mistakes. Thus the term Easy Mistake is used instead.
+> The term "stupid mistake" tends to be embarrassing and results in people getting defensive, covering up their mistakes. Thus the term Easy Mistake is used instead.
 
 Unlike the many other kinds of mistake, a *easy mistake* is one that is:
 
