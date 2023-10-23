@@ -7,7 +7,7 @@
 
 Videogames are a special kind of experience. They can be artistic, social. They can be aggravating and toxic.
 
-Between videogames, [[TV show\|TV show]]s, [[movie\|movie]]s, [[music\|music]], and [[Private/book\|book]]s, videogames are easily the most impactful pop culture medium in my life, for combining many of the best elements of all the others.
+Between videogames, [[TV show\|TV show]]s, [[movie\|movie]]s, [[Private/music\|music]], and [[Private/book\|book]]s, videogames are easily the most impactful pop culture medium in my life, for combining many of the best elements of all the others.
 
 The first videogame I ever played was likely a Pac-Man rip-off when I was around 4 years old, on the family [[Gear/my computer\|computer]].
 
