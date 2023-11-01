@@ -9,7 +9,7 @@ G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital g
 
 I refer back to my own [[Advice/1. What is advice\|advice]] at times, and I make some potentially controversial [[Claims/1. What is a claim\|claims]].
 
-My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Voidigo\|Voidigo]] and [[Videogames/Final Fantasy 7 remake\|Final Fantasy 7 remake]]. My life playing games is directly responsible for my present day career in [[Private/Software engineering\|software engineering]].
+My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Final Fantasy 7 remake\|Final Fantasy 7 remake]], [[Videogames/Mother 3\|Mother 3]], and [[Videogames/Baldur's Gate 3\|Baldur's Gate 3]]. My life playing games is directly responsible for my present day career in [[Private/Software engineering\|software engineering]].
 
 I thoroughly enjoy note taking and [[Private/Personal Knowledge Management\|Personal Knowledge Management]], using [[Software/Obsidian\|Obsidian]] and Logseq. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! This website you're reading was made with the [[Software/Digital Garden plugin\|Digital Garden plugin]] by Ole Eskild, [[Private/Github\|Github]], and [[Software/Netlify\|Netlify]]. 
 
