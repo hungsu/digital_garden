@@ -9,13 +9,27 @@ Short for *attention-deficit hyperactivity disorder*. At a glance, a person with
 
 ## What is it like to have  ADHD?
 
-ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up in more accurate detail on a more reliable source such as the [CDC page](https://www.cdc.gov/ncbddd/adhd/facts.html). ADHD is a serious condition and you shouldn't rely wholly on social media sources for this.
+### Having ADHD has known downsides
 
-That said, I realised I both had ADHD and that ADHD was causing me trouble when I learned I was experiencing [[Concepts/ADHD procrastination\|ADHD procrastination]].
+These downsides affect the person with ADHD as well as those around them.
+
+- [[Private/emotional dysregulation\|Deficient emotional self-regulation]] - the inability to vent or process emotions, resulting in emotional outbursts which then have to be managed.
+- [[Private/Rejection Sensitive Dysphoria\|Rejection Sensitive Dysphoria]]
+- [[Private/time blindness\|Time blindness]]
+- [[Private/Executive function\|Executive dysfunction]], which can result in [[Concepts/ADHD procrastination\|ADHD procrastination]]
+
+
+### ADHD has some upsides
+
+
 
 ## Diagnosing ADHD
 
+ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up in more accurate detail on a more reliable source such as the [CDC page](https://www.cdc.gov/ncbddd/adhd/facts.html). ADHD is a serious condition and you shouldn't rely wholly on social media sources for this.
 
+Diagnosis should be done by a professional. But I'm not sure what kind.
+
+That said, I realised I both had ADHD and that ADHD was causing me trouble when I learned I was experiencing .
 
 tiktok adhd diagnosis wave https://youtu.be/2InkNZxf7D4
 
