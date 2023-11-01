@@ -15,11 +15,15 @@ Smashing Magazine has an enormous embellished quotation mark, and a cute rounded
 
 ![Quanta_blockquote.png](/img/user/Embeds/Quanta_blockquote.png)
 
-Quanta Magazine has blockquotes framed with ornamental quotation marks.
+[[Private/Quanta Magazine\|Quanta Magazine]] has blockquotes framed with ornamental quotation marks.
+
+---
 
 ![](/img/user/Vaults/quartz/content/notes/images/undark_blockquote.jpg)
 
 [[Private/Undark\|Undark]] has blockquotes with a thick and solid left bar, a bigger font size, italics, and a different colour.
+
+---
 
 ![The_Verge_blockquote.png](/img/user/Embeds/The_Verge_blockquote.png)
 
@@ -57,6 +61,8 @@ McKinsey has quotes that break outside of the document width:
 ![](/img/user/Vaults/quartz/content/notes/images/thecut_blockquote.jpg)
 
 [The Cut](https://www.thecut.com/article/meghan-markle-profile-interview.html) has some very loud blockquotes, off to one side, in caps, with wider letter spacing, plenty of white space all around, and with a thick bar on top for good measure.
+
+---
 
 ![](/img/user/Vaults/quartz/content/notes/images/farnamstreet_blockquote.jpg)
 
