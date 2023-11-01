@@ -6,7 +6,7 @@
 
 Having [[ADHD\|ADHD]] exacerbates all the challenges and rewards of [[Private/Remote work\|Remote work]]. There is no threat of office mates coming to your desk to politely break your flow, but also no social accountability.
 
-It has been said that [[Claims/All failure is systems failure\|All failure is systems failure]]. It is helpful to adopt this mindset in treating ADHD, as those with it tend to blame themselves for all their troubles, leading to a negative feedback loop. Additionally, changing one's environment is non-invasive and highly affordable compared to other treatments. Here are some environmental changes that have helped me.
+It has been said that [[Claims/All failure is systems failure\|All failure is systems failure]]. It is helpful to adopt this mindset in treating ADHD, as those with it tend to blame themselves for all their troubles, leading to a negative feedback loop. Additionally, changing one's environment is non-invasive and highly affordable compared to medication and therapy. Here are some environmental changes that have helped me.
 
 #### Control the noise with brown noise and wireless earphones
 
