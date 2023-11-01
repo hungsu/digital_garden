@@ -14,7 +14,7 @@ Made up of some smaller skills including:
 
 - [[Font selection\|Font selection]], particularly how to choose readable fonts for body and titles.
 - [[Private/Typesetting\|Typesetting]], including font size, leading, justification, and line length.
-- [[punctuation\|punctuation]], particularly how to avoid ugly approximations.
+- [[punctuation\|Punctuation]], particularly how to avoid ugly approximations.
 
 ## My favourite examples
 
