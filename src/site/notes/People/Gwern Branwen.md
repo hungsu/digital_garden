@@ -14,6 +14,8 @@ I find his colour sense and typographical taste a little ghastly, but also fasci
 
 My favourite post is the one about [[Private/Death Note\|Death Note]]: [L, Anonymity & Eluding Entropy](https://gwern.net/death-note-anonymity). But I also enjoy his blog post about [[Books/Dune by Frank Herbert\|Dune]]: [Dune notes](https://www.gwern.net/dune)
 
+He experimented with an [[Gear/under desk treadmill\|under desk treadmill]] for a few months and [wrote a lot](https://gwern.net/treadmill).
+
 He has extensive thoughts about [[Concepts/PKM\|PKM]] in his listicle, [Information Organizing](https://gwern.net/about#information-organizing)
 
 ## Other things
