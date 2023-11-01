@@ -13,7 +13,7 @@ module.exports = async () => {
   if (themeStyle) {
     themeStyle = themeStyle.split("site")[1];
   }
-  let bodyClasses = ['css-settings-manager align-title-center ss-title-gradient type-scale-major-second heading-ligatures mathjax-font-default circled-ol ss-links-sc blockquote-bustle callout-border-gradient callout-quote-style'];
+  let bodyClasses = ['css-settings-manager align-title-center ss-title-gradient type-scale-major-second heading-ligatures mathjax-font-default circled-ol blockquote-bustle callout-border-gradient callout-quote-style ss-links-sans'];
   let noteIconsSettings = {
     filetree: false,
     links: false,

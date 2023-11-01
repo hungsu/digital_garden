@@ -181,3 +181,12 @@ body {
     }
   }
 }
+
+body:not(.align-title-left) .content h1 {
+  text-align: center;
+}
+
+a.is-unresolved.is-unresolved:hover {
+  text-decoration: none;
+  filter: none;
+}
