@@ -4,7 +4,7 @@
 
 # My computer
 
-![](https://c.neevacdn.net/image/fetch/s--nvk7biAj--/https%3A//c2.staticflickr.com/8/7173/6780793965_e80c8ee1ae_b.jpg?savepath=6780793965_e80c8ee1ae_b.jpg)
+![](https://res.cloudinary.com/didjqvf50/image/upload/v1698894279/486dx33_wgflst.jpg)
 
 The first computer I ever used would have been on my family's 486DX-33 beige computer, sometime around 1991. I don't have any photos of it, but it looked a lot like the photo above. It ran a mighty 33Mhz on a single thread and 8 megabytes of RAM. It was connected to a beige 14" CRT monitor capable of 320×240 pixel resolution, which is about as detailed as a typical emoji today 🖥. It ran MS-DOS as its operating system.
 
