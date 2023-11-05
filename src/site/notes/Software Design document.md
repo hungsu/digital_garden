@@ -46,6 +46,8 @@ If you have intentionally excluded something from the design, that thing should 
 
 These might be based on the [[Private/C4 model\|C4 model]]: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
 
+[[Private/diagram\|diagram]]
+
 https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations
 
 ## Guides to writing architecture documents
