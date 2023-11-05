@@ -22,6 +22,20 @@ Many with ADHD have [reported](https://twitter.com/hiangelali/status/15743286827
 
 As for wireless earphones and headphones, I am using [[Gear/Samsung Buds 2\|Samsung Buds 2]] and [[Gear/Sony WH-1000XM3\|Sony WH-1000XM3]].
 
+#### Slow your impulses, prioritise in writing
+
+ADHD makes you highly impulsive. Combined with working remotely and having only instant messages for feedback, it is easy to impulsively reply to messages all day or flip through notifications and inboxes instead of your important work.
+
+Some people appear to be able to prioritise without writing. Ignore that thought. For you seeing your tasks in writing is key.
+
+Write your tasks down. *Slooowly* split them into smaller parts. Recombine them. Fidget with your tasks. The tasks are the fidget. You can break the task down a bit more. Why is that word there? This task should definitely be lower on the list.
+
+And so in fidgeting with your task list you should end up with a sorted list of priorities for the day. 
+
+For tools, use a task app that allows drag and drop rearranging, and reserve a part of the screen where you can always see it. I personally keep my notes and tasks always open on my laptop screen, with everything else on external monitors.
+
+If you prefer tactility or lack a monitor you can dedicate to tasks, you could even use small post it notes. I would suggest very cheap post it notes that you can dispose of and not feel bad, so that it is mentally easier for you to throw them away if you make a mistake. Just keep a bin nearby to clean them up when they accumulate. You will occasionally forget to clean up, and that's okay.
+
 #### Interrupt-proof your thoughts by writing in a journal
 
 ADHDers have many thoughts that can feel like they have nowhere to go. Additionally, they are fragile, and a slight interruption can cause your thoughts to shatter. By writing them down, they are given a chance to endure and become something more useful.
