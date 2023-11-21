@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","tags":["🌱,claim"]}
+{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","tags":["🌱","claim"]}
 ---
 
 
