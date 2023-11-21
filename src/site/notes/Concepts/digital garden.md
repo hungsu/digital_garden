@@ -9,7 +9,7 @@ A digital garden is a website, with content on multiple pages which link to each
 
 ## Differentiators from blogs
 
-A digital garden is very similar to a blog.
+A digital garden is very similar to a [[Private/blog\|blog]].
 
 - Both are available on the public internet for anyone to see
 - Both are written by a single person (most of the time)
