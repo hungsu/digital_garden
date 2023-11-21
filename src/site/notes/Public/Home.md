@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/home/","title":"Hung-Su's notes","tags":["gardenEntry"],"dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/public/home/","title":"Hung-Su's notes","tags":["gardenEntry"]}
 ---
 
 
