@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/done-lists-are-better-than-todo-lists/","tags":["claim, 🌱"]}
+{"dg-publish":true,"permalink":"/claims/done-lists-are-better-than-todo-lists/","tags":["claim","🌱"]}
 ---
 
 
