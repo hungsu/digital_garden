@@ -31,8 +31,6 @@ My personal notes are heavily inspired by the personal notes, blogs, and [[Conce
 
 [Everything I know](https://wiki.nikitavoloboev.xyz/) by Nikita is **enormous** while remaining quite charming. Lots of emojis and links and pages. I recommend that you simply go there and explore, but if I had to pick one note it would be his note about [relationships](https://wiki.nikiv.dev/relationships/).
 
-[Tritarget](https://tritarget.org/) by Sukima has an enormous number of notes on UI engineering, particularly around [EmberJS](notes/EmberJS)
-
 Julia Evan's [blog](https://jvns.ca/) about is phenomenal, particularly for computer science. You might want to look at [Celebrate tiny milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/) to start, and [Things that used to be hard that are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/).
 
 [Notes](https://publish.obsidian.md/eleanorkonik/) by Eleanor Konik is a wealth of information on World Building and PKM. It's made using [[Software/Obsidian Publish\|Obsidian Publish]].
