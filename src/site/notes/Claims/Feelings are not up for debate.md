@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/feelings-are-not-up-for-debate/","title":"Feelings are not up for debate","tags":["claim, 🌱"]}
+{"dg-publish":true,"permalink":"/claims/feelings-are-not-up-for-debate/","title":"Feelings are not up for debate","tags":["claim","🌱"]}
 ---
 
 
