@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/advice-for-writing-better-note-titles/","title":"Advice for writing better note titles","tags":["🌲,advice"]}
+{"dg-publish":true,"permalink":"/advice/advice-for-writing-better-note-titles/","title":"Advice for writing better note titles","tags":["🌲","advice"]}
 ---
 
 
@@ -99,3 +99,5 @@ Bryan Jenks - [A structured approach to processing diverse inputs - Bryan Jenks 
 - [Note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)
 
 University of Minnesota - [Writing an Effective Title](http://writing.umn.edu/sws/assets/pdf/quicktips/titles.pdf)
+
+[How to title your art](https://www.artbusiness.com/artists-how-to-title-your-art-pointers-guidelines.html?mc_cid=b532da8169&mc_eid=cbf4b547a1&utm_source=substack&utm_medium=email)
