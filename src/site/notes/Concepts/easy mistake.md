@@ -5,7 +5,7 @@
 # Easy mistake
 
 > [!warning]
-> The term "stupid mistake" tends to be embarrassing and results in people getting defensive, covering up their mistakes. Thus the term Easy Mistake is used instead.
+> Calling people out for "stupid mistakes" or "rookie mistakes" tends to result in people getting defensive, covering up their mistakes. Thus it is advisable to use the term *Easy Mistake*.
 
 Unlike the many other kinds of mistake, a *easy mistake* is one that is:
 
