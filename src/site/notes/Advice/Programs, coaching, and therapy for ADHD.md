@@ -21,3 +21,8 @@ CBT is specialised evidence-supported treatment for ADHD. It frequently prescrib
 
 [[Private/HealthyGamerGG\|HealthyGamerGG]] have an ADHD module for $20 
 https://www.healthygamer.gg//about/guide
+
+Shimmer have coaches for $80/month
+https://www.shimmer.care/
+Is [[Private/Flexible Spending Account\|FSA]] eligible! 
+
