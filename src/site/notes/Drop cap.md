@@ -31,7 +31,7 @@ https://www.eviemagazine.com/post/elon-musk-permanently-bans-twitter-account-ped
 
 Drop caps for web are generally implemented with the CSS pseudoclass, `::first-letter` . Any browser dev tools should work for analysing drop caps on the web. Firefox's dev tools has them under the pseudo elements section.
 
-It should also be noted that using `:first-letter` is best for accessibility. Other methods using an element wrapping the first letter cause problems with [[Private/Screen reader\|Screen reader]]s.[^1]
+It should also be noted that using `:first-letter` is best for accessibility. Other methods using an element wrapping the first letter cause problems with [[Private/screen reader\|screen reader]]s.[^1]
 
 ![Drop cap](https://blog.stephaniestimac.com/img/2023/initial-letter/initial-letter.png)
 
