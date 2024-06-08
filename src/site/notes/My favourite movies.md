@@ -16,7 +16,7 @@ The movies I happily rewatch year after year. In approximate chronological order
 - [[Lilo and Stitch (2002)\|Lilo and Stitch (2002)]]
 - [[Ratatouille (2007)\|Ratatouille (2007)]]
 - [[Movies/Moneyball\|Moneyball]]
-- [[Private/Paddington (2014)\|Paddington (2014)]] and [[Private/Paddington 2  (2017)\|Paddington 2  (2017)]]
+- [[Movies/Paddington (2014)\|Paddington (2014)]] and [[Private/Paddington 2  (2017)\|Paddington 2  (2017)]]
 - [[Movies/Detective Pikachu\|Detective Pikachu]]
 
 I haven't watched the following movies enough times, but they may find themselves in the list above:
@@ -32,4 +32,4 @@ I haven't watched the following movies enough times, but they may find themselve
 - [[Movies/A Silent Voice\|A Silent Voice]]
 - [[Green book (2018)\|Green book (2018)]]
 - [[Movies/Mrs Harris goes to Paris\|Mrs Harris goes to Paris]]
-- [[Private/Glass Onion\|Glass Onion]]
+- [[Movies/Glass Onion\|Glass Onion]]
