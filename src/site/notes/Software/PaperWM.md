@@ -8,7 +8,7 @@
 
 [GitHub](https://github.com/paperwm/PaperWM)
 
-A [[Concepts/scrollable tiling window manager\|scrollable tiling window manager]] layer on top of [[Private/GNOME Shell\|GNOME Shell]]. My number one favourite reason to use [[Private/Linux\|Linux]]. When I moved back to Windows I made [[Software/Winfinity\|Winfinity]].
+A [[Concepts/scrollable tiling window manager\|scrollable tiling window manager]] layer on top of [[Private/GNOME\|GNOME]]. My number one favourite reason to use [[Private/Linux\|Linux]]. When I moved back to Windows I made [[Software/Winfinity\|Winfinity]].
 
 It's written using [[Private/JavaScript\|JavaScript]]
 

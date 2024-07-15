@@ -18,7 +18,7 @@ By contrast, a "done" list is a growing pile of accomplishment. It becomes a use
 
 ## Some people still need to-do lists
 
-Todo lists are still necessary - particularly for workers who are prone to distraction, such as remote workers, and those with ADHD.
+Todo lists are still necessary - particularly for workers who are prone to distraction, such as remote workers, and those with [[ADHD\|ADHD]].
 
 
 

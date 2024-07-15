@@ -26,6 +26,9 @@ Beware, all these examples were written *after* the software was made, and archi
 
 More at [The Architecture of Open Source Applications](http://aosabook.org/en/index.html).
 
+https://johnjago.com/great-docs/
+https://news.ycombinator.com/item?id=39819409
+
 ## Components of a design document
 
 ### A convenient location and format
