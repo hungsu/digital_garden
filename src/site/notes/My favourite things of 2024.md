@@ -44,4 +44,4 @@ The media, apps and websites I started using in 2024 and really like
 
 For last years favourites, here are [[Private/my top purchases  of 2023\|my top purchases  of 2023]] 
 
-For my all time favourites, there are [[My favourite blogs\|My favourite blogs]], [[My favourite movies\|My favourite movies]], [[Private/my favourite magazines\|my favourite magazines]]
+For my all time favourites, there are [[My favourite blogs\|My favourite blogs]], [[My favourite movies\|My favourite movies]], [[my favourite magazines\|my favourite magazines]]

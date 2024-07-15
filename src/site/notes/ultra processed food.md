@@ -24,4 +24,7 @@ https://www.wired.com/story/ultra-processed-foods/
 
 https://12ft.io/proxy?q=https%3A%2F%2Fwww.wired.com%2Fstory%2Fultra-processed-foods%2F
 
+linked to a bunch of problems
+https://www.theglobeandmail.com/life/health-and-fitness/article-ultra-processed-foods-health-effects/
+
 [^1]: [The American Journal of Clinical Nutrition](https://academic.oup.com/ajcn/article/112/5/1188/5890315?login=true) A randomized crossover trial on the effect of plant-based compared with animal-based meat on trimethylamine-N-oxide and cardiovascular disease risk factors in generally healthy adults: Study With Appetizing Plantfood—Meat Eating Alternative Trial (SWAP-MEAT). Was funded by Beyond Meat but they did not conduct the study, according to [Stanford Medicine News Center](https://med.stanford.edu/news/all-news/2020/08/plant-based-meat-versus-animal-meat.html)

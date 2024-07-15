@@ -6,7 +6,7 @@
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1698894279/486dx33_wgflst.jpg)
 
-The first computer I ever used would have been on my family's 486DX-33 beige computer, sometime around 1991. I don't have any photos of it, but it looked a lot like the photo above. It ran a mighty 33Mhz on a single thread and 8 megabytes of RAM. It was connected to a beige 14" CRT monitor capable of 320×240 pixel resolution, which is about as detailed as a typical emoji today 🖥. It ran MS-DOS as its operating system.
+The first computer I ever used would have been on my family's 486DX-33 beige computer, sometime around 1991. I don't have any photos of it, but it looked a lot like the photo above. It ran a mighty 33Mhz on a single thread and 8 megabytes of RAM. It was connected to a beige 14" CRT monitor capable of 320×240 pixel resolution, which is about as detailed as a typical emoji today 🖥. It ran [[Private/MS-DOS\|MS-DOS]] as its operating system.
 
 ![](/img/user/Vaults/quartz/content/notes/images/rog_flow_resize-removebg-preview.png)
 

@@ -49,5 +49,5 @@ Chips and Cheese, a blog about [[Private/semiconductor manufacturing\|semiconduc
 
 If you hate ads and like reading long form and extremely well researched content, [[Slow news movement\|Slow journalism]] may be your jam.
 
-If you're okay with ads, you should check out [[Private/my favourite magazines\|my favourite magazines]].
+If you're okay with ads, you should check out [[my favourite magazines\|my favourite magazines]].
 
