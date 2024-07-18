@@ -26,7 +26,7 @@ Some examples:
 
 ## Easy mistakes are embarrassing
 
-Particularly in team video games, if you are spotted repeatedly performing a  mistake, you'll likely be called stupid, told to "stop being stupid" or some variant. This counterintuitively often results in you continuing to repeat the mistake, perhaps because of performance pressure from so many team members now looking at you, or to spite the person who called you stupid.
+Particularly in team video games, if you are spotted repeatedly performing a mistake, you'll likely be called stupid, told to "stop being stupid" or some variant. This counterintuitively often results in you continuing to repeat the mistake, perhaps because of performance pressure from so many team members now looking at you, or to spite the person who called you stupid.
 
 It's important in rectifying stupid mistakes that they are not personal failings, but the result of chains of events and reactions leading to an outcome. For that outcome to not occur, the chain of events and reactions must change
 
@@ -36,9 +36,13 @@ Some people refuse to do drills that could improve their easy mistakes because t
 
 Easy mistakes are frequent amongst all skill practitioners, usually even up to 90th percentile. Thus, identifying and fixing stupid mistakes is among the simplest and most important methods for [[Private/becoming top percentile\|becoming top percentile]]. Some examples of rapid skill ascent from fixing easy mistakes:
 
-- In [[Public/Chess\|chess]], using a blunder trainer can typically improve ELO by a few hundred in a few months
+- In [[Public/Chess\|chess]], using a blunder trainer can typically improve [[Private/skill ranking\|ELO]] by a few hundred in a few months
 - In [[Videogames/Brotato\|Brotato]], identifying my game-losing item choices took me from frustratedly losing Danger 5 to winning easily.
 - In DotA 2, switching from moving as an independent player to one only in formation with other players took me from 50% win rate to winning next twenty games in a row, easily.
+
+## Identifying easy mistakes
+
+[[Private/pull request retro\|pull request retro]]
 
 ## Further reading of stupid mistakes
 

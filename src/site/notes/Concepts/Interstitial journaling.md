@@ -23,4 +23,8 @@ Seems to have been invented by Tony Stubblebine, in [2017](https://betterhumans.
 
 [[People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]] wrote about it. No date but probably around [2020-Apr-15](https://nesslabs.com/interstitial-journaling)
 
+## Similar alternatives
 
+Bullet journaling involves using symbols and short entries to organize tasks, events, and thoughts.
+
+micro journaling
