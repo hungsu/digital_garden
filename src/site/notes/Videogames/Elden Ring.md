@@ -3,7 +3,7 @@
 ---
 
 
-![](https://c.neevacdn.net/image/fetch/s--dOUFa4O7--/https%3A//www.thathashtagshow.com/wp-content/uploads/2021/03/Elden-Ring-Cover-1024x512.jpg?savepath=Elden-Ring-Cover-1024x512.jpg)
+# ![Elden Ring](https://c.neevacdn.net/image/fetch/s--dOUFa4O7--/https%3A//www.thathashtagshow.com/wp-content/uploads/2021/03/Elden-Ring-Cover-1024x512.jpg?savepath=Elden-Ring-Cover-1024x512.jpg)
 
 Possibly my favourite [videogame](videogame.md) of 2022. Also the first [[Private/Souls-like\|Souls-like]] game I ever played.
 
@@ -47,7 +47,7 @@ The game balance is terrible. Enemy damage is too high, rune rewards often don't
 
 Enemy attack animations and range can be so fast and unfair it forces one style of play: defensive counterattacks. Quik Reviews made a [16 minute video](https://youtu.be/YPh0u7WaW64) - and goes on to say [Sekiro](https://www.sekirothegame.com/) has better designed bosses. This person made a [12 minute video](https://youtu.be/R9Vbsr3Ko7M) showing how unfair Malenia is.
 
-I'm playing it on PC, and am aware it runs better on Playstation 5 and looks better on a big TV. PC gamers should note the game is capped at 60FPS.
+I'm playing it on PC, and am aware it runs better on Playstation 5 and looks far better on a big TV. PC gamers should note the game is capped at 60FPS.
 
 ## Fun things outside the game
 
@@ -61,7 +61,7 @@ Blaidd voice actor Scott Arthur reads thirst tweets in a [4 minute video](https:
 
 #### Co-op
 
-Elden Ring has a built in coop mode that I do not enjoy. It requires the host to and joining player to both assemble ingredients to cast a spell to join each other. This is fine, but the game also allows Enemy players to join your multiplayer session and kill you. This cannot be turned off. I wanted to enjoy Elden Ring together with a friend at the start of the game, and we were quickly slaughtered by a level 70 player. In addition, I'm told that co-op terminates when the area's boss has been defeated, requiring both players to cast the spell again.
+Elden Ring has a built in coop mode that I do not enjoy. It requires the host and joining player to both assemble ingredients to cast a spell to join each other. This is fine, but the game also allows Enemy players to join your multiplayer session and kill you. This cannot be turned off. I wanted to enjoy Elden Ring together with a friend at the start of the game, and we were quickly slaughtered by a level 70 player. In addition, I'm told that co-op terminates when the area's boss has been defeated, requiring both players to cast the spell again.
 
 For a much more fun experience,  those playing on PC can have a more traditional co-op multiplayer mode with the [Seamless coop mod](https://www.nexusmods.com/eldenring/mods/510). Note that it requires starting a new game. Here's a video of it working!
 

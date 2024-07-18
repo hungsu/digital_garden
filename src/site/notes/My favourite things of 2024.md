@@ -11,11 +11,11 @@ Inspired by [What's in my now?](https://whatsinmynow.substack.com/), here are my
 These are physical items I bought or were given in 2024 that I've really enjoyed using. 
 
 
-|                                                                |                                                                                                                                           |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![beryl-travel-router.png](/img/user/beryl-travel-router.png) [[Gear/Beryl AX WiFi 6 Travel Router\|Beryl AX WiFi 6 Travel Router]] | ![viture.png](/img/user/viture.png) [[Gear/Viture One\|Viture One wearable display]]                                                                               |
-| [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                         | [[Private/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                     |
-| ![leverpresso.png](/img/user/leverpresso.png)<br> [[Private/Hugh Leverpresso\|Hugh Leverpresso]]                  | ![](https://psrefstuff.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_Flex_7_14IRU8/Lenovo_Flex_7_14IRU8_CT1_01.png) [[Gear/Lenovo Flex 7 laptop\|Lenovo Flex 7 laptop]] |
+|                                                                                                                                                      |                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ![beryl-travel-router.png](/img/user/beryl-travel-router.png) [[Gear/Beryl AX WiFi 6 Travel Router\|Beryl AX WiFi 6 Travel Router]]                                                                                       | ![viture.png](/img/user/viture.png) [[Gear/Viture One\|Viture One wearable display]]                                                                               |
+| [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                                                                                                               | [[Private/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                     |
+| ![Hugh Leverpresso, held in one hand](https://res.cloudinary.com/didjqvf50/image/upload/v1721271111/leverpresso_jgma4g.png)<br> [[Gear/Hugh Leverpresso\|Hugh Leverpresso]] | ![](https://psrefstuff.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_Flex_7_14IRU8/Lenovo_Flex_7_14IRU8_CT1_01.png) [[Gear/Lenovo Flex 7 laptop\|Lenovo Flex 7 laptop]] |
 
 
 
