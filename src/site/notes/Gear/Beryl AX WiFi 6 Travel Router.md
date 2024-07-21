@@ -17,6 +17,8 @@ The Beryl is very low power, so I was able to power it from a plain USB port and
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721058742/20240215_093602_drhukb.jpg)
 
 Once the Beryl had internet, everyone in our party instantly had internet since they had connected to its Wi-Fi before! And so for our long flight we all had unlimited internet, fast enough to stream TV shows! 😊
+
+This device is strictly for wi-fi while travelling - at home I use a [[Gear/NanoPi R5S router\|NanoPi R5S router]] and [[Gear/Unifi U7 Pro Wall\|Unifi U7 Pro Wall]].
 ## Links
 
 - [Amazon](https://www.amazon.com/gp/product/B0BPSGJN7T/) I personally paid $86.95USD including tax.

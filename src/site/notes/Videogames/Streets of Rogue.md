@@ -7,4 +7,4 @@
 
 A 2D [[Private/immersive sim\|immersive sim]]. I initially discovered on [itch.io](https://madguy.itch.io/streets-of-rogue) and played the free version, then bought later on [Humble Bundle](https://www.humblebundle.com/store/streets-of-rogue) for $4.99USD.
 
-Has co-op multiplayer which I'm keen to try some day!
+Has co-op multiplayer which I've enjoyed a lot
