@@ -59,7 +59,7 @@ But I later rewrote it to be this:
 - Travelling hopefully is better than arriving.
 In addition, use a tool that does not punish you for changing your titles. One such tool is [[Private/Confluence\|Confluence]], which changes your URL if you update the title.
 
-## Anti guidelines
+## Anti guidelines make your titles worse
 
 These are guidelines I've seen recommended by others, which I believe you should approach with great caution.
 
@@ -100,4 +100,7 @@ Bryan Jenks - [A structured approach to processing diverse inputs - Bryan Jenks 
 
 University of Minnesota - [Writing an Effective Title](http://writing.umn.edu/sws/assets/pdf/quicktips/titles.pdf)
 
-[How to title your art](https://www.artbusiness.com/artists-how-to-title-your-art-pointers-guidelines.html?mc_cid=b532da8169&mc_eid=cbf4b547a1&utm_source=substack&utm_medium=email)
+[[Harry Dry\|Harry Dry]]'s top [18 rules for copywriting](https://x.com/david_perell/status/1813575526100926564/?rw_tt_thread=True), but I particularly like this example:
+> Good copy is differentiated. Here's an example: Elon Musk shouldn't write "The Cybertruck is the world's best truck." Ford or Dodge can write that sentence. But only Elon can write: "The Cybertruck is tougher than an F-150 and faster than a Porsche."
+
+[How to title your art](https://www.artbusiness.com/artists-how-to-title-your-art-pointers-guidelines.html?mc_cid=b532da8169&mc_eid=cbf4b547a1)
