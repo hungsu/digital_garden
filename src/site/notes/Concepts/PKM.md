@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/pkm/","title":"Personal Knowledge Management"}
+{"dg-publish":true,"permalink":"/concepts/pkm/","title":"Personal Knowledge Management","updated":"2023-02-20T22:10:51.434-08:00"}
 ---
 
 
