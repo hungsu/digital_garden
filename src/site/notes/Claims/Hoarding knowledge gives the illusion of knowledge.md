@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/hoarding-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"],"updated":"2024-08-05T01:49:00.359-07:00"}
+{"dg-publish":true,"permalink":"/claims/hoarding-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"],"updated":"2024-08-05T01:54:55.671-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 > [!quote] [[Private/Bhante Kassapa\|Bhante Kassapa]]
 > One good line put to use, is better than a thousand captured lines.
 
-People are frequently inclined to acquire more books, videos, articles and more than they can ever consume. The possession of these things gives the user the illusion of having already learned, without learning anything. This illusion can be so convincing it can fool others as well as yourself.
+People are frequently inclined to acquire more books, videos, articles and more than they can ever consume. The possession of these things gives the user the illusion of having already learned, without learning anything. This illusion can be so convincing it can fool others as well as yourself. This illusion is known also as *The Collector's Fallacy*.
 
 ## Knowledge hoarding can take many forms
 
@@ -75,7 +75,12 @@ A task backlog similarly creates a "trauma-brag" amongst workers who talk about 
 
 [[Concepts/Information overload\|Information overload]] differs from information hoarding, in that overload can be caused by others as well as yourself. Information hoarding is purely self-inflicted.
 
+## Further reading, including people who disagree
 
+[Why Unread Books are more valuable](https://www.themarginalian.org/2015/03/24/umberto-eco-antilibrary/) by Maria Popova
+
+[The Collector's Fallacy](https://zettelkasten.de/posts/collectors-fallacy/) by Christian Tzietze
+[Too Much to Know by Ann Blair](https://yalebooks.yale.edu/book/9780300165395/too-much-know)
 
 
 
