@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/zeigarnik-effect/","updated":"2023-12-02T11:34:56.133-08:00"}
+{"dg-publish":true,"permalink":"/concepts/zeigarnik-effect/","updated":"2024-08-05T09:33:27.373-07:00"}
 ---
 
 
@@ -15,15 +15,16 @@ Psychologists Oliver Weigelt and Christine Syrek [discovered](https://www.ncbi.n
 
 All together, the Zeigarnik effect combined with long and difficult tasks forms a negative [[Private/feedback loop\|feedback loop]], while combined with shorter tasks forms a positive feedback loop.
 
+Psychologist Bluma Zeigarnik [reported](https://link.springer.com/article/10.3758/s13421-020-01033-5) this effect in 1927.
+
 ## How to make the most of the Zeigarnik effect
 
 Tasks should not be assigned or delegated until they: 
 - have a defined "finished" state
 - that state can be achieved comfortably achieved within 3 days.
-	- 
 
-https://nesslabs.com/unfinished-tasks
 
-Psychologist Bluma Zeigarnik [reported](https://link.springer.com/article/10.3758/s13421-020-01033-5) in 1927.
+
+
 
 [^1]: [On finished and unfinished tasks.](https://psycnet.apa.org/record/2007-10344-025?doi=1)<br /> Bluma Zeigarnik ‧ 1927
