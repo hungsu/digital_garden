@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020"}
+{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020","updated":"2024-10-18T12:06:32.000-07:00"}
 ---
 
 
@@ -37,7 +37,7 @@ On 2020-November-10, I installed [[Private/Ubuntu\|Ubuntu]] 18.04 on my [[Gear/m
      - EA Games, such as Star Wars Fallen Order
      - Epic Games exclusives, such as Fortnite and the Pathless
      - [Vermintide 2](https://www.protondb.com/app/552500)
-     - The Witcher 3, which I can still play with Geforce NOW, with lag. See my experience with [[game-streaming\|game-streaming]]
+     - The Witcher 3, which I can still play with Geforce NOW, with lag. See my experience with [[Public/Game streaming\|Game streaming]]
    - Popular benchmarking software, including
      - Cinebench
      - Crystaldiskmark

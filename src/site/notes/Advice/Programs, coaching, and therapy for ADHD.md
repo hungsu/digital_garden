@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/programs-coaching-and-therapy-for-adhd/","tags":["advice"]}
+{"dg-publish":true,"permalink":"/advice/programs-coaching-and-therapy-for-adhd/","tags":["advice"],"updated":"2023-12-04T00:53:07.461-08:00"}
 ---
 
 
@@ -15,7 +15,7 @@ With access to many sources of easy dopamine, such as social media and infinite 
 
 CBT is specialised evidence-supported treatment for ADHD. It frequently prescribes specialised homework.
 
-[[Software/Inflow\|Inflow]] is a more affordable way to get [[Cognitive-behavioural therapy\|Cognitive-behavioural therapy]], at $48/month. They also offer an access program to give some people therapy for free. Check the Inflow page footer for details.
+[[Digital/Inflow\|Inflow]] is a more affordable way to get [[Cognitive-behavioural therapy\|Cognitive-behavioural therapy]], at $48/month. They also offer an access program to give some people therapy for free. Check the Inflow page footer for details.
 
 ## Join an ADHD program
 

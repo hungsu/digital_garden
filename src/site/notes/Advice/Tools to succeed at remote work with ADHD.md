@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advice/tools-to-succeed-at-remote-work-with-adhd/","tags":["advice"]}
+{"dg-publish":true,"permalink":"/advice/tools-to-succeed-at-remote-work-with-adhd/","tags":["advice"],"updated":"2023-11-02T00:31:23.192-07:00"}
 ---
 
 # Tools to succeed at remote work with ADHD  
@@ -50,7 +50,7 @@ Outlines are highly rearrangeable. Unlike conventional Documents in word process
 
 Outlines are focusable. On writing a chaotic chain of thought, an outliner allows the user to choose any bullet point to focus on, hiding all others.
 
-I recommend [[Software/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior. [[Private/Tana Inc\|Tana Inc]] is another outliner that is highly acclaimed, but not privacy focused.
+I recommend [[Digital/Logseq\|Logseq]] as a privacy focused and free outliner. In the past I have used [[Private/Workflowy\|Workflowy]] and [[Private/Dynalist\|Dynalist]], but I feel Logseq is easily superior. [[Private/Tana Inc\|Tana Inc]] is another outliner that is highly acclaimed, but not privacy focused.
 
 #### Visualise your time
 

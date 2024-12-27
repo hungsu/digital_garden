@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback"}
+{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback","updated":"2023-01-30T12:01:41.769-08:00"}
 ---
 
 

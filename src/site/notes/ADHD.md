@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adhd/"}
+{"dg-publish":true,"permalink":"/adhd/","updated":"2024-06-03T21:07:57.299-07:00"}
 ---
 
 

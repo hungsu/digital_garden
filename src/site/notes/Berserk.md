@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/berserk/","title":"Berserk"}
+{"dg-publish":true,"permalink":"/berserk/","title":"Berserk","updated":"2023-09-02T03:06:17.203-07:00"}
 ---
 
 ![notes/images/berserk-banner.jpg](/img/user/Vaults/quartz/content/notes/images/berserk-banner.jpg)
