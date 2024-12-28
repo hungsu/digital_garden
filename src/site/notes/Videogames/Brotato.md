@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videogames/brotato/"}
+{"dg-publish":true,"permalink":"/videogames/brotato/","updated":"2024-12-27T23:21:47.076-08:00"}
 ---
 
 ![](https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/header.jpg?t=1677509097)
@@ -13,7 +13,7 @@ Something I picked up when I noticed my friends racking up 100s of hours in it.
 
 If you have an Android phone, you can download an [APK](https://brotato.wiki.spellsandguns.com/Modding#Mobile_Mods ) of the game, and copy your save file from your computer to your phone to play there, but note that any Achievements you get on your phone won't appear in Steam.
 
-Made with the [[Private/Godot engine\|Godot engine]]
+Made with the [[Private/Godot engine\|Godot engine]], and has a [[Digital/Portmaster\|Portmaster]] port but does not work on my [[Gear/TrimUI Smart Pro\|TrimUI Smart Pro]].
 
 ## Stupid mistakes I made
 
