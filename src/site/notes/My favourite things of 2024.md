@@ -11,13 +11,12 @@ Inspired by [What's in my now?](https://whatsinmynow.substack.com/), here are my
 These are physical items I bought or were given in 2024 that I've really enjoyed using. 
 
 
-|                                                                                                                                                      |                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![beryl-travel-router.png](/img/user/beryl-travel-router.png) [[Gear/Beryl AX WiFi 6 Travel Router\|Beryl AX WiFi 6 Travel Router]]                                                                                       | ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721716961/viture-one_oj8vvl.jpg) [[Gear/Viture One\|Viture One wearable display]]                                                                               |
-| [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                                                                                                               | [[Private/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                     |
-| ![Hugh Leverpresso, held in one hand](https://res.cloudinary.com/didjqvf50/image/upload/v1721271111/leverpresso_jgma4g.png)<br> [[Gear/Hugh Leverpresso\|Hugh Leverpresso]] | ![](https://psrefstuff.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_Flex_7_14IRU8/Lenovo_Flex_7_14IRU8_CT1_01.png) [[Gear/Lenovo Flex 7 laptop\|Lenovo Flex 7 laptop]] |
-
-
+|                                                                                                                                                      |                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| ![beryl-travel-router.png](/img/user/Embeds/beryl-travel-router.png) [[Gear/Beryl AX WiFi 6 Travel Router\|Beryl AX WiFi 6 Travel Router]]                                                                                       | ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721716961/viture-one_oj8vvl.jpg) [[Gear/Viture One\|Viture One wearable display]] |
+| [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                                                                                                               | [[Gear/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                |
+| ![Hugh Leverpresso, held in one hand](https://res.cloudinary.com/didjqvf50/image/upload/v1721271111/leverpresso_jgma4g.png)<br> [[Gear/Hugh Leverpresso\|Hugh Leverpresso]] | [[Gear/MINISFORUM BD790i SE Mini-ITX motherboard\|MINISFORUM BD790i SE Mini-ITX motherboard]]                                                                                        |
+| [[Bellroy totepack\|Bellroy totepack]]                                                                                                                                 | [[Gear/TrimUI Smart Pro\|TrimUI Smart Pro]]                                                                                                                 |
 
 
 ## Art and media
@@ -40,7 +39,7 @@ The media, apps and websites I started using in 2024 and really like
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://images.ctfassets.net/5owu3y35gz1g/28gMtYpCnTPfHNgGlDI1Ab/bd2d077b524763f8ae9d3d961464fe93/H2_Wallpaper_Melinoe_4k_01.png?w=1920&q=80) [[Private/Hades 2\|Hades 2]] | ![](https://gaming-cdn.com/images/products/14242/616x353/dave-the-diver-pc-mac-game-steam-cover.jpg?v=1712064366) [[Private/Dave the Diver\|Dave the Diver]] |
 | ![](https://sm.pcmag.com/t/pcmag_uk/review/r/rocket-mon/rocket-money_xvge.1920.jpg) [[Private/Rocket Money\|Rocket Money]]                                                          | ![](https://ridewithgps.com/images/revised_layout/logo.png) [[Private/Ride with GPS\|Ride with GPS]]                                                        |
-
+[[Videogames/Baldur's Gate 3\|Baldur's Gate 3]]
 
 For last years favourites, here are [[Private/my top purchases  of 2023\|my top purchases  of 2023]] 
 
