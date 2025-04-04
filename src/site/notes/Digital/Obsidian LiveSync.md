@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/digital/obsidian-live-sync/"}
 ---
 
+# Obsidian LiveSync
 
 > [!info] Caveat
 > I am a software engineer by profession, and to use LiveSync you will likely need to be in a similar trade or at least be very computer savvy. I have never used Obsidian’s official paid Sync.
@@ -26,3 +27,4 @@ It was somewhat tricky to set up. I considered following the more manual instruc
 My vault is around 12000 files, and LiveSync’s initial setup took a long time. I foolishly did this on a laptop that kept going to sleep during the process, and in retrospect I should have started this on my desktop PC, or started with a fresh empty vault and gradually moved files into it instead.  
   
 If any of you have been frustrated trying to synchronise Obsidian between multiple devices, this may be an option for you
+
