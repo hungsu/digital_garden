@@ -15,9 +15,11 @@ For blogs with only one writer, [[My favourite blogs\|my favourite blogs and dig
 
 [The Good Trade](https://www.thegoodtrade.com/) is extremely pretty and has some notable articles, like [How To Respond To Someone Who Is Grieving](https://www.thegoodtrade.com/features/how-to-respond-to-someone-who-is-grieving/)
 
-[Serve The Home](https://www.servethehome.com/) is a magazine for [[Private/self hosting\|self hosting]]. I go here for networking hardware news. There are so many ads here that I sometimes consider installing an ad-blocker, even though [[Claims/Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]].
+[Serve The Home](https://www.servethehome.com/) is a magazine for [[Private/self hosting\|self hosting]]. I go here for networking hardware news and reviews. There are so many ads here that I sometimes consider installing an ad-blocker, even though [[Claims/Ad blocking makes the free internet worse\|Ad blocking makes the free internet worse]].
 
-[National Geographic](https://www.nationalgeographic.com/) is one of the most gorgeous magazines of all time. Photographers who work there shape the entire photography industry
+![National Geographic website.jpg](/img/user/Embeds/National%20Geographic%20website.jpg)
+
+[National Geographic](https://www.nationalgeographic.com/) is one of the most gorgeous magazines of all time. Photographers who work there shape the entire photography industry. In addition it is highly respectful of your advertising privacy, allowing you to opt out of specific advertising networks. As I start to enter my 40s, I find it is a much better source of travel inspiration than Instagram and other social networks.
 
 ## The contentious
 

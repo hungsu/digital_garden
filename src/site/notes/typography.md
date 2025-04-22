@@ -6,7 +6,7 @@
 # Typography
 
 > [!QUOTE] Ellen Lupton
-> Typography is what language looks like. #quote
+> Typography is what language looks like.
 
 Typography is the art of choosing typefaces and arranging type to make written language legible and beautiful. 
 
@@ -22,7 +22,7 @@ Made up of some smaller skills including:
 
 [[Videogames/Pentiment\|Pentiment]] is a videogame featuring phenomenal typography as a way of communicating character social standing. The game created original Typefaces just for the game, by studying historical texts, which you can read about in great length in the [Lettermatic case study](https://lettermatic.com/custom/pentiment).
 
-![](/img/user/Vaults/quartz/content/notes/images/phillip_fivel_typography.png)
+![](/img/user/Embeds/phillip_fivel_typography.png)
 [[Private/Typewolf\|Typewolf]] features many interesting typography examples on his [website](https://www.typewolf.com/).
 
 
