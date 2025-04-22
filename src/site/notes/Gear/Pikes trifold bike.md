@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2024-07-22T09:13:20.753-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"]}
 ---
 
 
 # Paikesi
 
-My first [[Private/trifold bike\|trifold bike]], bought from TryOn in [[Makati\|Makati]]
+My first [[Private/Andrew Ritchie fold\|Andrew Ritchie fold]] [[Private/Bicycle\|bike]], bought from TryOn in [[Makati\|Makati]]
 
 Is probably the Pikes Gen 4, but didn't come with a manual and the box mentions nothing
 
 ## Parts and specs
 
 Came with a [[Private/Brompton block\|Brompton block]] already.
+
+
 
 ### Drivetrain
 
@@ -32,9 +34,16 @@ This [video](https://youtu.be/-Q9wd8Ewlec?si=knmxQ1P7XdnLpPU1) might be useful i
 
 ### Wheels
 
-Tube from [[Private/Brompton\|Brompton]] doesn't fit, I will have to find tubes online or vulcanise in the event of puncture
+[[Seeds/bike tube\|bike tube]] I use is a Schwalbe AV4 Tube Schrader (450 x 35A) - 16 × 1 1/8-1.35 Inches. It has a [[Private/schrader valve\|schrader valve]]. Tubes designed for [[Private/Brompton\|Brompton]] don't fit. I bought on Amazon. I think these ones from Schwalbe [website](https://www.schwalbetires.com/SCHWALBE-TUBE-ITEM-4-16-18-10410310) are the same, and cost less per unit, but they want $15 shipping. For this to be more cost effective I would have to buy 6 tubes, at which point I'd save only $2
+
+Brompton website recommends pressure between 65 and 100 PSI
+https://global.brompton.com/support/knowledge/what-is-the-recommended-tyre-pressure-for-my-brompton
+
+Some people in this thread recommend varying tyre pressures. One person mentioned getting a flat on a hot day at 100 PSI, so switched to 87PSI (6 bar)
+https://www.reddit.com/r/Brompton/comments/vmzch6/what_tire_pressure_do_you_run_your_brompton_at/
+
+ I will have to find tubes online or vulcanise in the event of puncture
 maybe this is it
-Probably has a [[Private/schrader valve\|schrader valve]]
 https://youtu.be/ouEA3xTE1HU?si=PjwN6C6G9MqVOInS
 https://www.ebay.ph/itm/255004895783?hash=item3b5f79ea27:g:jEwAAOSw7ltguakm&var=554930895165 
 
@@ -48,7 +57,7 @@ https://www.instagram.com/elementbikeid?igsh=MXJ1azh5ZnY3cGx5
 This person heavily modified their Pikes Gen 4, with many titanium and Aceoffix parts https://youtu.be/oGDUWOPtujs?si=01MYim8yXMlTAHSZ
 same person did initial impression 2022 june, but it appears to already have some modifications https://youtu.be/cNItTkfxBqo?si=OlSY4zpLLiz1VQAO 
 
-this 2019 thread seems to have lots of infi
+this 2019 thread seems to have lots of info
 https://www.bikeforums.net/folding-bikes/1186639-brompton-style-indonesia-united-trifold-element-pikes.html 
 
 https://www.reddit.com/r/Brompton/comments/r6agcs/i_need_some_perspective_on_the_clones/
@@ -70,23 +79,30 @@ Can be made into a [[Private/DIY ebike\|DIY ebike]], but this costs more than an
 	- [$500](https://www.aliexpress.us/item/2255800345294753.html?browser_id=1fd12bb13ffd42c4b1d80fe75192166f&aff_platform=msite&m_page_id=iwghuvxcauffgtzo18e021204eecd90b7d516face3&gclid=&pdp_npi=4%40dis%21USD%21175.00%21175.00%21%21%21175.00%21175.00%21%402101e58317094317191286806ef82b%2112000028592654243%21sea%21US%21863516427%21&algo_pvid=82fc51f6-f6b4-4237-8d4e-d79c471acc29 ) including bottle battery
 	- $600 https://www.aliexpress.us/item/3256803576759462.html?browser_id=1fd12bb13ffd42c4b1d80fe75192166f&aff_platform=msite&m_page_id=iwghuvxcauffgtzo18e021204eecd90b7d516face3&gclid=&pdp_npi=4%40dis%21USD%21455.00%21432.25%21%21%21455.00%21432.25%21%402101e58317094317191286806ef82b%2112000027082331127%21sea%21US%21863516427%21&algo_pvid=82fc51f6-f6b4-4237-8d4e-d79c471acc29
 - Lvbu [KN20S](https://www.lvbu.tech/en/product/detail/kn?-lvbuYouTubeLMxyd_bQJWk) $588.60 with battery
-	- 9kg 
+	- whole kit is 9kg, but not sure how much this adds compared to current wheel 
 	- 5.8Ah 36V
-	- https://youtu.be/LMxyd_bQJWk?si=coHk88E_hpSOT4AM
+	- 30 Nm torque
+	- Uses 18650 batteries
+	- +86 country code is China
+	- [1m video](https://youtu.be/LMxyd_bQJWk?si=coHk88E_hpSOT4AM) demonstrating installation with a Brompton clone
 - [Boost](https://boostbike.uk/projectlondon) 
 	- is rear wheel
 	- adds 2.5kg
 	- 126Wh (3.5Ah at 36v)
 	- 799GBP around $1000USD, absurd
 	- fits in rear triangle, my favourite form factor not done by any other kit
-- [Swytch](https://www.swytchbike.com/folding-ebike-conversion-kit/) is front wheel, 
+- [Swytch](https://www.swytchbike.com/folding-ebike-conversion-kit/) 
+	- $900
+	- is front wheel, 
 	- [Official video](https://youtu.be/NRdCT2odJ_I?si=e9jC_phWiQMwrXUh)
 	- [Reddit thread](https://www.reddit.com/r/Brompton/comments/1330grr/the_brompton_swytch_kit_my_impressions_so_far/) complaining throttle is slow
 - [Kirb](https://kirbebike.com/products/kirbebike-ez-rider-kit?variant=43316993392793) $843 3.8kg
 	- 7Ah 36V
 - [Geeko](https://www.100g.tech/product/geeko-brompton/) 4kg $830
 	- 5.2Ah
-- Switch 2 out of stock https://eswitchybikes.com/products/switch-two-electric-bike-kit?variant=42771902431408 
+- Switchy
+	- 2 out of stock https://eswitchybikes.com/products/switch-two-electric-bike-kit?variant=42771902431408
+	- 3 mounts battery on seat post under seat
 - Topbikekit https://www.reddit.com/r/Brompton/comments/114zhi2/comment/j94x45r/ 
 - [Grin](https://ebikes.ca/brompton-direct-drive-motor-ca3-kit.html) 3.2kg  $721USD with no battery
 	- battery costs minimum additional $375 from Grin

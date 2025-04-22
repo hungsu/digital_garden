@@ -5,7 +5,7 @@
 
 # NIU KQI3 Scooter
 
-![NIU KQI3 scooter standing upright](/img/user/Vaults/quartz/content/notes/images/NIU_KQi3.jpg)
+![NIU KQI3 scooter standing upright](/img/user/Embeds/NIU_KQi3.jpg)
 
 Possibly the best value electric [[Private/Scooter\|Scooter]] around.
 

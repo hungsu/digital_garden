@@ -3,7 +3,7 @@
 ---
 
 
-![beryl-travel-router.png](/img/user/beryl-travel-router.png)
+![beryl-travel-router.png](/img/user/Embeds/beryl-travel-router.png)
 
 This tiny device adds some neat possibilities to travel, and here's one example.
 
@@ -23,6 +23,7 @@ This device is strictly for wi-fi while travelling - at home I use a [[Gear/Nano
 
 - [Amazon](https://www.amazon.com/gp/product/B0BPSGJN7T/) I personally paid $86.95USD including tax.
 - [Official product page](https://www.gl-inet.com/products/gl-mt3000/)
+- AliExpress possibly cheaper https://youtu.be/uqyoHU0d5Ds?si=1p8wzVlray51hPm9
 - Manual: [Amazon PDF](https://m.media-amazon.com/images/I/91SEPY4bQYL.pdf), [Official online guide](https://docs.gl-inet.com/router/en/4/user_guide/gl-mt3000/first_time_setup/)
 - Crosstalk solutions [23 minute deep dive video](https://youtu.be/szqme3j7h10?si=3yUWg0sP6iuuqm59)
 - Crosstalk solutions [GL.iNet Beryl AX: Complete Setup Guide](https://www.crosstalksolutions.com/the-best-travel-router-gl-inet-beryl-ax-complete-setup-guide/)

@@ -12,7 +12,7 @@ An ethernet-only [[Private/Network router\|Network router]] from Ubiquiti.
 
 With a 880 MHz CPU it is so slow, it can be beaten by a [[Private/Raspberry Pi 4\|Raspberry Pi 4]].[^1] I personally could only get around 500Mb/s download speed with this.
 
-At $59USD + shipping, this was a total waste of money for me. I've since replaced it with a [[Private/NanoPi R5S\|NanoPi R5S]] and am able to saturate my [[Private/fiber internet\|fiber internet]] with that.
+At $59USD + shipping, this was a total waste of money for me. I've since replaced it with a [[Gear/NanoPi R5S router\|NanoPi R5S router]] and am able to saturate my [[Private/fiber internet\|fiber internet]] with that.
 
 Official page: [EdgeRouter X](https://store.ui.com/collections/operator-edgemax-routers/products/edgerouter-x)
 

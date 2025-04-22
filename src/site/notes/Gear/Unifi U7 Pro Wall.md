@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/unifi-u7-pro-wall/","updated":"2024-07-18T10:12:54.492-07:00"}
+{"dg-publish":true,"permalink":"/gear/unifi-u7-pro-wall/"}
 ---
 
 # U7 Pro Wall
@@ -8,7 +8,7 @@ My first [[Private/WiFi 7\|WiFi 7]] [[Private/WiFi Access Point\|access point]],
 
 ![](https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F7dacb4f6-b703-4154-9264-784f2eb0dbda%2Fcc3f4b0a-bb39-4b6b-a5fb-8bda04d868d3.png&q=75&w=1920%201x,%20https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F7dacb4f6-b703-4154-9264-784f2eb0dbda%2Fcc3f4b0a-bb39-4b6b-a5fb-8bda04d868d3.png&q=75&w=3840%202x)
 
-I installed mine with CAT 6 cable for 2.5GBe, a PoE+ injector, and free standing behind my TV. There is an official stand, but it costs $30 which I feel is robbery. The device has a flat bottom and happily stands up by itself, if you have a flat surface.
+I installed mine with CAT 6 cable for 2.5GBe, a PoE+ injector, and free standing behind my TV. There is an official stand, but it costs $30 which I feel is robbery. The device has a flat bottom and happily stands up by itself, if you have a flat surface. A 3D printable stand is available on [printables](https://www.printables.com/model/960363-u7-pro-wall-desk-stand).
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721322138/20240707_093555_1_hzqqgm.jpg)
 

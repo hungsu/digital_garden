@@ -18,6 +18,8 @@ The movies I happily rewatch year after year. In approximate chronological order
 - [[Movies/Moneyball\|Moneyball]]
 - [[Movies/Paddington (2014)\|Paddington (2014)]] and [[Private/Paddington 2  (2017)\|Paddington 2  (2017)]]
 - [[Movies/Detective Pikachu\|Detective Pikachu]]
+- [[Movies/Mrs Harris goes to Paris (2022)\|Mrs Harris goes to Paris (2022)]]
+- [[Movies/Glass Onion\|Glass Onion]]
 
 I haven't watched the following movies enough times, but they may find themselves in the list above:
 
@@ -31,5 +33,3 @@ I haven't watched the following movies enough times, but they may find themselve
 - [[Jumanji Welcome to the Jungle\|Jumanji Welcome to the Jungle]]
 - [[Movies/A Silent Voice\|A Silent Voice]]
 - [[Green book (2018)\|Green book (2018)]]
-- [[Movies/Mrs Harris goes to Paris (2022)\|Mrs Harris goes to Paris (2022)]]
-- [[Movies/Glass Onion\|Glass Onion]]
