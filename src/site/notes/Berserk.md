@@ -8,6 +8,8 @@
 
 One of the Big Three of  [[Private/Seinen\|Seinen]] [[Private/Manga\|Manga]], by Kentaro Miura.
 
+I don't recommend this series for most people since it features multiple counts of rape, and its fictional world is so dark and overrun with evil and abuse of power that it is much less appealing in 2025 than in the more hopeful times of the 90s. If that doesn't scare you off, there is a lot to recommend about the series.
+
 I first encountered the series in the early 2000s as a young teen, in its 1997 anime adaptation. I dismissed it at the time, thinking it was nothing special, watching Rurouni Kenshin and other shonen series instead. 
 
 As an adult in my 30s, I bought the first three Deluxe Editions, and have read the first two, each in around a day. There's so much happening in every cell, with every character, every interaction, and I seem to find more with every look. Like a lot of other "dark" media, Berserk chooses to mock predictable tropes such as the [[Concepts/Hero's Journey\|Hero's Journey]] by distorting and disfiguring them. 
