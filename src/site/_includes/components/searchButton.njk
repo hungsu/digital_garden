@@ -1,17 +1,11 @@
-<div class="header-actions">
-
-<button class="search-button" onclick="toggleSearch()">
-    <i class="search-icon fa fa-search"></i>
-</button>
-
-<button class="button-dark-mode" onclick="toggleDarkMode()" aria-label="Toggle dark mode">
-    <div class="icon"></div>
-</button>
-</div>
-<script>
-window.toggleDarkMode = function() {
-document.querySelector('body').classList.toggle('theme-dark');
-document.querySelector('body').classList.toggle('theme-light');
-}
-</script>
+<div class="search-button align-icon" onclick="toggleSearch()">
+    <span class="search-icon">
+        <i icon-name="search" ></i>
+    </span>
+    <span class="search-text">
+        <span>Search</span>
+        <span style="font-size: 0.6rem; padding: 2px 2px 0 6px; text-align:center; transform: translateY(4px);" class="search-keys">
+            CTRL + K
+        </span>
+    </span>
 </div>
