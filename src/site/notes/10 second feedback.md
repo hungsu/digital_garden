@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback","updated":"2023-01-30T12:01:41.769-08:00"}
+{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback"}
 ---
 
 
@@ -14,23 +14,17 @@ For example:
 
 **Manager**: Can I give you some feedback?  
 **Direct**: Sure, boss.  
-**Manager**: When you tell my boss bad news before me, even with the best of intentions, I end up getting in a lot of trouble for not knowing before he did. Can you try to tell me first, going forward?[^1]
+**Manager**: When you tell my boss bad news before me, even with the best of intentions, I end up getting in a lot of trouble for not knowing before he did. Can you try to tell me first, going forward?
 
 This works because [[Public/A warning before stress, reduces the stress\|A warning before stress, reduces the stress]]
 
 Caveats:
-- If you are angry, do not give feedback
+- If you are angry, that will show, and undermine the intended effect.
 - Are you focused on the past instead of the future (i.e., reminding them about something they did wrong or punishing them)? If so, _don’t give the feedback_.
 - Are you able to let it go? If not, _don’t give the feedback_. In other words, if you can’t let it go in terms of how you feel, you _should_ let it go by not giving negative feedback. If you feel an urge to deliver feedback, you’re probably doing it for the wrong reasons.
-- You cannot use this for negative feedback until you've had at least few months of giving positive feedback. Ignoring this rule will cause fights[^3]
+- You cannot use this for negative feedback until you've had at least few months of giving positive feedback. Once you begin supplying negative feedback, you should give at least 3 times as much positive feedback. Ignoring this rule will build resentment and cause fights.
+- [Some](https://news.ycombinator.com/item?id=25226278) think step 3 *State the impact* may start an argument, and that it should be omitted. I think if there's a risk of an argument the entire process shouldn't go ahead.
 
-## Other people's thoughts
+I found this originally from [this blog post](https://critter.blog/2020/11/26/5-second-feedback/), which in turn found it from [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager).
 
-Some think step 3 *State the impact* may start an argument, and that it should be omitted.[^2] I think if there's a risk of an argument the entire process shouldn't go ahead.
-
-https://critter.blog/2020/11/26/5-second-feedback/
 https://news.ycombinator.com/item?id=25221812
-
-[^1]: Example from book [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager)
-[^2]: Hacker News [comment](https://news.ycombinator.com/item?id=25226278) 
-[^3]: Manager Tools https://news.ycombinator.com/item?id=25226891
