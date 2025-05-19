@@ -55,7 +55,6 @@
         "src/site/_includes/components/searchContainer.njk",
         "src/site/_includes/components/searchScript.njk",
         "src/site/_includes/components/calloutScript.njk",
-        "src/site/_includes/components/lucideIcons.njk",
         "src/site/_includes/components/timestamps.njk",
         "src/site/_data/meta.js",
         "src/site/_data/dynamics.js",
