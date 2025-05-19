@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ meta.mainLanguage }}">
   <head>
-    <title>{{ noteTitle }}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
@@ -20,7 +20,7 @@
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-    <main class="content cm-s-obsidian">
+    <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
@@ -52,9 +52,7 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {%- for garden in collections.gardenEntry -%}
-        {{garden.templateContent | hideDataview | link | taggify | highlight | safe }}
-      {%- endfor -%}
+      {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
@@ -64,7 +62,7 @@
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk" %}
+      {# {%include "components/sidebar.njk" %} #}
     {%endif%}
 
     {% if settings.dgLinkPreview === true %}
@@ -76,7 +74,7 @@
     {% for imp in dynamics.index.footer %}
       {% include imp %}
     {% endfor %}
-
-      {%include "components/footerScript.njk"%}
+    {% include "components/footer.njk" %}
+    {%include "components/lucideIcons.njk"%}
     </body>
   </html>
