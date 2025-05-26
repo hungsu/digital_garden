@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/credit-card-churning-is-a-bad-idea/","tags":["claim"]}
+{"dg-publish":true,"permalink":"/claims/credit-card-churning-is-a-bad-idea/","tags":["claim"],"updated":"2023-06-30T08:59:14.508-07:00"}
 ---
 
 # Credit card churning is a bad idea

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/if-you-need-more-than-6-levels-of-headings-you-might-want-an-outliner/","tags":["claim"]}
+{"dg-publish":true,"permalink":"/claims/if-you-need-more-than-6-levels-of-headings-you-might-want-an-outliner/","tags":["claim"],"updated":"2023-05-12T12:11:07.138-07:00"}
 ---
 
 

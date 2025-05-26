@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-05-26T16:21:34.481-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital garden\|digital garden]] 😀 They are of varying levels of quality, but they're all 100% written by me. Generative AI is never used at any part of the process of anything on this blog. You might be curious about [[Why publish notes\|why I publish notes]].
 
-I refer back to my own [[Advice/1. What is advice\|advice]] at times, and I make some potentially controversial [[Claims/1. What is a claim\|claims]].
+I refer back to my own [[Advice/1. What is advice\|advice]] at times, and I make some potentially controversial [[Claims/1. Claims I've made\|claims]].
 
 My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Necesse\|Necesse]] and [[Videogames/Red Dead Redemption 2\|Red Dead Redemption 2]]. My childhood playing videogames is directly responsible for my present day career in [[Unsorted/Software engineering\|software engineering]].
 
@@ -23,7 +23,7 @@ This site doesn’t use ads, cookies, or analytics and never will. I’m privacy
 
 | Date         | Stuff                                                                                                                                                                                                                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-May-4   | I learned a lot about [[Unsorted/loudspeaker\|loudspeaker]]s, [[Unsorted/AV receiver\|AV receiver]]s, in my journey: [[Unsorted/Linus Tech Tips told me to buy second hand audio, I wasted time and money\|Linus Tech Tips told me to buy second hand audio, I wasted time and money]].                                                                                                                             |
+| 2025-May-4   | I learned a lot about [[Unsorted/loudspeaker\|loudspeaker]]s, [[Unsorted/AV receiver\|AV receiver]]s, in my journey: [[Unsorted/Linus Tech Tips told me to build my own audio, it cost more than I thought\|Linus Tech Tips told me to build my own audio, it cost more than I thought]].                                                                                                                            |
 | 2025-Mar-6   | Some thoughts on [[Digital/Obsidian LiveSync\|Obsidian LiveSync]] after using it for a few months                                                                                                                                                                                                              |
 | 2024-July-15 | [[My favourite things of 2024\|My favourite things of 2024]]                                                                                                                                                                                                                                                     |
 | 2023-Nov-04  | I tried watching HDR content on a [[Unsorted/mini LED\|mini LED]], and gave up                                                                                                                                                                                                                         |

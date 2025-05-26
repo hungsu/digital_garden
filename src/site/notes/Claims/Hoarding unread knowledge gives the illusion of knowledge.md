@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/hoarding-unread-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"]}
+{"dg-publish":true,"permalink":"/claims/hoarding-unread-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"],"updated":"2025-05-26T00:32:37.660-07:00"}
 ---
 
 
