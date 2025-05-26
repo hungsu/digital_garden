@@ -7,7 +7,7 @@
 > [!info] Caveat
 > I am a software engineer by profession, and to use LiveSync you will likely need to be in a similar trade or at least be very computer savvy. I have never used Obsidian’s official paid Sync.
 
-LiveSync is an [[Private/Obsidian plugin\|Obsidian plugin]] which I am using to synchronise my Obsidian vault between my Android phone and two Windows computers. It replaced [[Digital/Resilio Sync\|Resilio Sync]] and [[Private/Syncthing\|Syncthing]] for me.
+LiveSync is an [[Unsorted/Obsidian plugin\|Obsidian plugin]] which I am using to synchronise my Obsidian vault between my Android phone and two Windows computers. It replaced [[Digital/Resilio Sync\|Resilio Sync]] and [[Unsorted/Syncthing\|Syncthing]] for me.
 
 Resilio and Syncthing worked for years, but with significant issues:
 
@@ -20,7 +20,7 @@ I have not had to resolve a conflict even once. I have lost content just once - 
 
 Since moving to LiveSync, I can simply write and think about writing instead of thinking about syncing.
 
-Obsidian LiveSync itself is free. It requires MongoDB set up somewhere such as Fly.io. Fly.io requires a credit card and may cost money. For small vaults under 1GB and small usage this should be free. Vaults that are over 1GB or sync many megabytes a day would probably incur a cost.
+Obsidian LiveSync itself is free. It requires CouchDB set up somewhere such as Fly.io. Fly.io requires a credit card and may cost money. For small vaults under 1GB and small usage this should be free. Vaults that are over 1GB or sync many megabytes a day would probably incur a cost.
 
 It was somewhat tricky to set up. I considered following the more manual instructions, but ultimately chose the [quick start method](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_flyio.md#a-very-automated-setup) in the readme using Fly.io. Again, I’m a software engineer and if this document looks scary then this is probably not the approach for you.
 

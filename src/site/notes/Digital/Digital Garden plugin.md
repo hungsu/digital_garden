@@ -16,14 +16,15 @@ An Obsidian plugin that creates a website (or [[Concepts/digital garden\|digital
 
 It has some disadvantages:
 
-- [[Private/WebP\|WebP]] images do not work.
+- [[Unsorted/WebP\|WebP]] images do not work.
 - Note titles are always from the filename. I often want to set my titles in the note, because filenames have character restrictions such as no question marks.
 - Tags are a bit weird. Clicking a tag takes you to the search window with the tag prepopulated. I'd prefer a tag page! Thankfully, this is very easy to do myself.  
 - No RSS - this is something I might make myself
 - The page templates have poor web performance. Their [[Digital/PageSpeed Insights\|PageSpeed Insights]] score is just [37/100](https://pagespeed.web.dev/report?url=https%3A%2F%2Fdg-docs.ole.dev%2Fadvanced%2Fadding-custom-components%2F) as a result of enormous CSS and JS files.
 
-## Technical details
+## Software engineering details
 
 - Setting up the plugin requires a Github repository to be created in an account you control
-- A Github Access token will need to be stored in your vault. If you have any [[Private/Cybersecurity\|Cybersecurity]] experience you should know this token should be treated with great care.
+- A Github Access token will need to be stored in your vault. If you have any [[Unsorted/Cybersecurity\|Cybersecurity]] experience you should know this token should be treated with great care.
 - Publishing or updating a published note causes the plugin to make a new commit in the repository.
+- The project uses [Lucide](https://lucide.dev/icons/) icons, which is the same package used by Obsidian.
