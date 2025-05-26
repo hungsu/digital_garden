@@ -5,14 +5,16 @@
 
 # Videogames
 
-Videogames are a special kind of experience. They can be artistic, social. They can be aggravating and toxic.
+Videogames are the reason I'm a [[Unsorted/Software engineering\|software engineer]] today. My first program was a new level in the ASCII art game: [ZZT](https://store.epicgames.com/en-US/p/zzt).
 
-Between videogames, [[TV show\|TV show]]s, [[movie\|movie]]s, [[Private/music\|music]], and [[Private/book\|book]]s, videogames are easily the most impactful pop culture medium in my life, for combining many of the best elements of all the others.
+![zzt.jpg](/img/user/zzt.jpg)
 
-The first videogame I ever played was likely a Pac-Man rip-off when I was around 4 years old, on the family [[Gear/my computer\|computer]].
+Between videogames, [[TV show\|TV show]]s, [[movie\|movie]]s, [[Unsorted/music\|music]], and [[Private/book\|book]]s, videogames are easily the most impactful pop culture medium in my life, for combining many of the best elements of all the others.
 
-The game I've spent the most hours on by far is DotA 2, which I can also partially thank for my move to the USA.
+The first videogame I ever played was likely a Pac-Man clone when I was around 4 years old, on the family [[Gear/my computer\|computer]].
 
-The most impactful games on my thinking are [[Videogames/Witcher 3\|Witcher 3]], [[Private/CP2077\|Cyberpunk 2077]].
+The game I've spent the most hours on by far is DotA 2, which I can also partially thank for my [[How I moved to the USA\|move to the USA]] from Australia.
 
-These days I'm playing indie games, notably [[Private/auto shooter\|auto shooter]]s. 
+I especially like videogames that tell memorable stories. For me these are [[Videogames/Witcher 3\|Witcher 3]], [[Unsorted/CP2077\|Cyberpunk 2077]], and [[Videogames/Baldur's Gate 3\|Baldur's Gate 3]].
+
+For games to play with friends, I generally like slower paced base building games like [[Videogames/Factorio\|Factorio]], [[Videogames/Necesse\|Necesse]], and [[Videogames/Stardew Valley\|Stardew Valley]].

@@ -5,22 +5,22 @@
 
 # Paikesi
 
-My first [[Private/Andrew Ritchie fold\|Andrew Ritchie fold]] [[Private/Bicycle\|bike]], bought from TryOn in [[Makati\|Makati]]
+My first [[Unsorted/Andrew Ritchie fold\|Andrew Ritchie fold]] [[Unsorted/Bicycle\|bike]], bought from TryOn in [[Makati\|Makati]]
 
 Is probably the Pikes Gen 4, but didn't come with a manual and the box mentions nothing
 
 ## Parts and specs
 
-Came with a [[Private/Brompton block\|Brompton block]] already.
+Came with a [[Unsorted/Brompton block\|Brompton block]] already.
 
 
 
 ### Drivetrain
 
-[[Private/chainring\|chainring]] is 5 bolts in a 130mm bolt circle diameter, or 130BCD. Originally came with 45T chainring, mine has since swapped to 38T
+[[Unsorted/chainring\|chainring]] is 5 bolts in a 130mm bolt circle diameter, or 130BCD. Originally came with 45T chainring, mine has since swapped to 38T
 
 [Photo of hub](https://photos.app.goo.gl/8X14f16KaWavsz1K7)
-Has a [[Private/Sturmey Archer SRF3\|Sturmey Archer SRF3]] internal gear hub , controlled by thumb shifter on right handle:
+Has a [[Unsorted/Sturmey Archer SRF3\|Sturmey Archer SRF3]] internal gear hub , controlled by thumb shifter on right handle:
 - Gear 1 75%
 - Gear 2 100%
 - Gear 3 133%
@@ -34,7 +34,7 @@ This [video](https://youtu.be/-Q9wd8Ewlec?si=knmxQ1P7XdnLpPU1) might be useful i
 
 ### Wheels
 
-[[Seeds/bike tube\|bike tube]] I use is a Schwalbe AV4 Tube Schrader (450 x 35A) - 16 × 1 1/8-1.35 Inches. It has a [[Private/schrader valve\|schrader valve]]. Tubes designed for [[Private/Brompton\|Brompton]] don't fit. I bought on Amazon. I think these ones from Schwalbe [website](https://www.schwalbetires.com/SCHWALBE-TUBE-ITEM-4-16-18-10410310) are the same, and cost less per unit, but they want $15 shipping. For this to be more cost effective I would have to buy 6 tubes, at which point I'd save only $2
+[[Unsorted/bike tube\|bike tube]] I use is a Schwalbe AV4 Tube Schrader (450 x 35A) - 16 × 1 1/8-1.35 Inches. It has a [[Unsorted/schrader valve\|schrader valve]]. Tubes designed for [[Unsorted/Brompton\|Brompton]] don't fit. I bought on Amazon. I think these ones from Schwalbe [website](https://www.schwalbetires.com/SCHWALBE-TUBE-ITEM-4-16-18-10410310) are the same, and cost less per unit, but they want $15 shipping. For this to be more cost effective I would have to buy 6 tubes, at which point I'd save only $2
 
 Brompton website recommends pressure between 65 and 100 PSI
 https://global.brompton.com/support/knowledge/what-is-the-recommended-tyre-pressure-for-my-brompton
@@ -69,7 +69,7 @@ https://www.reddit.com/r/Brompton/comments/r6agcs/i_need_some_perspective_on_the
 Wheel extender
 https://www.etsy.com/listing/1485912298/easy-wheel-extender-for-brompton-folding?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=brompton&ref=sr_gallery-2-19&frs=1&search_preloaded_img=1&organic_search_click=1
 
-Can be made into a [[Private/DIY ebike\|DIY ebike]], but this costs more than an entire ebike:
+Can be made into a [[Unsorted/DIY ebike\|DIY ebike]], but this costs more than an entire ebike:
 
 ![](https://ae01.alicdn.com/kf/Se011952f358744e2b6038a50cb62eab6s.jpg)
 

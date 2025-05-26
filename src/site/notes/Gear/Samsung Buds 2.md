@@ -5,7 +5,7 @@
 ![samsung-buds2.png](/img/user/Embeds/samsung-buds2.png)
 # Samsung Buds2
 
-The first pair of [[Private/True wireless earphones\|True wireless earphones]] I've owned. I paid $64 for them second hand from [[Private/Amazon shopping\|Amazon shopping]]. At that price they're one of the best value items I bought in 2022.
+The first pair of [[Unsorted/True wireless earphones\|True wireless earphones]] I've owned. I paid $64 for them second hand from [[Unsorted/Amazon shopping\|Amazon shopping]]. At that price they're one of the best value items I bought in 2022.
 
 > [!warning]
 > I bought this product 3 times. 2 of those had an identical defect: right earbud would fluctuate between giving loud and crackly audio, or quiet audio. If buying this yourself, opt for a store with an excellent return policy.

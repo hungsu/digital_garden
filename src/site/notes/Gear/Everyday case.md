@@ -8,9 +8,9 @@
 
 [Store page](https://www.peakdesign.com/products/everyday-case-samsung)
 
-A line of cases from [[Private/Peak design\|Peak design]], that I have installed on my [[Gear/Samsung Galaxy S22\|Samsung Galaxy S22]] so that I can use [[Private/MagSafe\|MagSafe]].
+A line of cases from [[Unsorted/Peak design\|Peak design]], that I have installed on my [[Gear/Samsung Galaxy S22\|Samsung Galaxy S22]] so that I can use [[Unsorted/MagSafe\|MagSafe]].
 
-Until [[Private/Smartphone\|Smartphone]]s adopt [[Private/Qi2\|Qi2]], I'll likely continue buying these cases
+Until [[Unsorted/Smartphone\|Smartphone]]s adopt [[Unsorted/Qi2\|Qi2]], I'll likely continue buying these cases
 
 ## Things I like
 

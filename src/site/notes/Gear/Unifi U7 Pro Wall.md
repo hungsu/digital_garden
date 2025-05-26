@@ -4,7 +4,7 @@
 
 # U7 Pro Wall
 
-My first [[Private/WiFi 7\|WiFi 7]] [[Private/WiFi Access Point\|access point]], from [[Private/Unifi\|Unifi]]. I paid $230.53USD for it including shipping, and $33.08 for a PoE+ adapter.
+My first [[Unsorted/WiFi 7\|WiFi 7]] [[Unsorted/WiFi Access Point\|access point]], from [[Unsorted/Unifi\|Unifi]]. I paid $230.53USD for it including shipping, and $33.08 for a PoE+ adapter.
 
 ![](https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F7dacb4f6-b703-4154-9264-784f2eb0dbda%2Fcc3f4b0a-bb39-4b6b-a5fb-8bda04d868d3.png&q=75&w=1920%201x,%20https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F7dacb4f6-b703-4154-9264-784f2eb0dbda%2Fcc3f4b0a-bb39-4b6b-a5fb-8bda04d868d3.png&q=75&w=3840%202x)
 
