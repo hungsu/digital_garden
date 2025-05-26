@@ -15,7 +15,7 @@ Instead, these approaches have better long term results
 
 - Design thinking
 
-This philosophy has a strong resemblance to [[Private/Stoicism\|Stoicism]]'s belief that things simply "are".
+This philosophy has a strong resemblance to [[Unsorted/Stoicism\|Stoicism]]'s belief that things simply "are".
 
 ## Counterpoints
 

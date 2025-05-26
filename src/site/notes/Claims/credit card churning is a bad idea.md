@@ -4,7 +4,7 @@
 
 # Credit card churning is a bad idea
 
-Credit card churning is the act of signing up for a [[Private/Credit card\|credit card]] for its rewards, then cancelling the card once the reward is claimed, ideally before the card's charges fees. Common in the USA, and mostly absent in Europe and Australia where credit card fees are lower. 
+Credit card churning is the act of signing up for a [[Unsorted/Credit card\|credit card]] for its rewards, then cancelling the card once the reward is claimed, ideally before the card's charges fees. Common in the USA, and mostly absent in Europe and Australia where credit card fees are lower. 
 
 I believe that anyone with [[ADHD\|ADHD]] should *never* do this. Credit cards typically require a phone call to be cancelled. Those with ADHD have trouble making phone calls, and are highly stressed by upsells and social savvy. What will typically happen is the credit card goes un-cancelled, incurring yearly fees that outweigh the benefits.
 

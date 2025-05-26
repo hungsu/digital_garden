@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/claims/hoarding-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"],"updated":"2024-08-05T01:54:55.671-07:00"}
+{"dg-publish":true,"permalink":"/claims/hoarding-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"]}
 ---
 
 
 # Hoarding knowledge gives the illusion of knowledge
 
-> [!quote] [[Private/Bhante Kassapa\|Bhante Kassapa]]
+> [!quote] [[Unsorted/Bhante Kassapa\|Bhante Kassapa]]
 > One good line put to use, is better than a thousand captured lines.
 
 People are frequently inclined to acquire more books, videos, articles and more than they can ever consume. The possession of these things gives the user the illusion of having already learned, without learning anything. This illusion can be so convincing it can fool others as well as yourself. This illusion is known also as *The Collector's Fallacy*.
@@ -60,7 +60,7 @@ There are two general ways to form the knowledge producing neurons:
 	- For simple forms of knowledge, you might want to *create flash cards*. This is well suited to simple information, such as translations of words.
 	- For everything else, you can begin by *paraphrasing your understanding*. 
 	- If you do not understand the material, *write down questions*. If you do not understand enough to form questions, at least *write down where you are getting stuck*.
-	- When your understanding feels more formed, *write your own notes and essays* on the topic (particularly the [[Private/Feynman Learning Technique\|Feynman Learning Technique]]), 
+	- When your understanding feels more formed, *write your own notes and essays* on the topic (particularly the [[Unsorted/Feynman Learning Technique\|Feynman Learning Technique]]), 
 	- When you have any number of questions, notes or essays, if you are using a Linked note system, [[Claims/You should link your notes\|you should link your notes]].
 
 

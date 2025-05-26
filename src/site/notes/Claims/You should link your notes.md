@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","tags":["🌱","claim"],"updated":"2023-06-02T19:42:21.504-07:00"}
+{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","tags":["🌱","claim"]}
 ---
 
 
 # You should link your notes
 
-> [!quote] [[Private/Howard Bloom\|Howard Bloom]] via [[Farnam Street\|Farnam Street]]
+> [!quote] [[Unsorted/Howard Bloom\|Howard Bloom]] via [[Farnam Street\|Farnam Street]]
 > It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness. #quote
 
-You probably write a lot of notes already, and already have [[Private/Reasons to write notes\|Reasons to write notes]]. What might not be so obvious is why you should link your notes together. Maybe you've seen a lot of hype about Roam Research, Zettelkasten, Obsidian and don't get why. Here are the reasons I link my notes, regardless of app.
+You probably write a lot of notes already, and already have [[Unsorted/Reasons to write notes\|Reasons to write notes]]. What might not be so obvious is why you should link your notes together. Maybe you've seen a lot of hype about Roam Research, Zettelkasten, Obsidian and don't get why. Here are the reasons I link my notes, regardless of app.
 
 ## Links multiply reuse, and *prevent abandonment*
 
@@ -22,13 +22,13 @@ With links, I can access a file in a single click instead of twenty, which means
 
 The reuse of my writing as a result of linking has meant I've been strongly encouraged to refine it in many ways. The simple act of linking by itself forces me to look at a note's title, encouraging me to carefully rewrite the title for better reuse. Reusing a note a few times encourages me to fix simple errors like spelling and poorly formed sentences. Some amount of more reuse encourages me to format lists, and add a hierarchy of headings. A great deal of re-use encourages me to find contrasting arguments, supporting links, images, diagrams, videos and more.
 
-This increased quality of writing has directly contributed to my professional success and personal development. When you are the one person on a team who can write, you can lead. [[Private/Poor writing blocks career progression\|Technical writing is required for Engineering Leadership]].
+This increased quality of writing has directly contributed to my professional success and personal development. When you are the one person on a team who can write, you can lead. [[Unsorted/Poor writing blocks career progression\|Technical writing is required for Engineering Leadership]].
 
 ## Links make writing fun again
 
 <iframe src="https://giphy.com/embed/Ulkzt8qd4nGHRI9DdV" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Someone described my writing app of choice, [[Software/Obsidian\|Obsidian]], as like *playing your mind like a videogame*. I have found this to be true. The activity of just creating links between documents I've written is incredibly satisfying, even without the visceral visuals and sound effects of a videogame. Creating a working link that clicks through to valuable content on the other side has no equal. 
+Someone described my writing app of choice, [[Digital/Obsidian\|Obsidian]], as like *playing your mind like a videogame*. I have found this to be true. The activity of just creating links between documents I've written is incredibly satisfying, even without the visceral visuals and sound effects of a videogame. Creating a working link that clicks through to valuable content on the other side has no equal. 
 
 Additionally, it allows exploring my writing through a bouncy graph visualisation, which is so much more fun than plain text.
 
@@ -38,7 +38,7 @@ Many of us have had the feeling of thinking of the perfect punchline long after 
 
 ## Links in journals give the illusion of superhuman memory
 
-In my [[Private/Daily Note\|Journal]], I would write about the daily goings on, and in each snippet I would link to things. That could be something totally mundane, like:
+In my [[Unsorted/Daily Note\|Journal]], I would write about the daily goings on, and in each snippet I would link to things. That could be something totally mundane, like:
 
 > [[Mr Smith\|Mr Smith]] helped [[Mr White\|Mr White]] with the  [[Deployment\|Deployment]] of [[Our secret app\|Our secret app]].
 

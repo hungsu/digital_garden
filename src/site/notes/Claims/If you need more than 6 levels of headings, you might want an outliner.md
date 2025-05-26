@@ -15,4 +15,4 @@ Some people have expressed that this does not give them enough levels of hierarc
 
 An Outliner is a different tool from a document writer entirely. Where a document is fixed at up to 6 levels of headings, an Outliner allows unlimited levels of indentation, at the expense of formatting options and also an arguably ugly publishing format.
 
-My outliner of choice is [[Software/Logseq\|Logseq]]. Some alternatives are [[Software/Roam Research\|Roam Research]] and [Tana](https://tana.inc/).
+My outliner of choice is [[Digital/Logseq\|Logseq]]. Some alternatives are [[Digital/Roam Research\|Roam Research]] and [Tana](https://tana.inc/).

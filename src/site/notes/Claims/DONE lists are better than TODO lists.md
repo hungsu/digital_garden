@@ -12,7 +12,7 @@ Humans enjoy creating lists. Humans particularly enjoy creating todo lists, beca
 
 Todo lists are inadequate for actually getting things done. One startup that began as a DONE list, *IDoneThis*, discovered that adding a todo list resulted in users completing fewer tasks.[^1]
 
-The long term outcome of a list that is emptied slower than it is filled, is that todo-lists become [[Private/doom pile\|doom pile]]s,  or even "lists of shame". As the name implies, this causes anxiety, even [[Private/Impostor syndrome\|Impostor syndrome]] from a growing belief that they are not productive.
+The long term outcome of a list that is emptied slower than it is filled, is that todo-lists become [[Unsorted/doom pile\|doom pile]]s,  or even "lists of shame". As the name implies, this causes anxiety, even [[Unsorted/Impostor syndrome\|Impostor syndrome]] from a growing belief that they are not productive.
 
 By contrast, a "done" list is a growing pile of accomplishment. It becomes a useful resource in future document writing, in performance reviews. In conjunction with another strategy such as a scratch pad or Time blocking, can avoid the drawbacks of todo lists while being just as or even more productive. 
 
@@ -24,7 +24,9 @@ Todo lists are still necessary - particularly for workers who are prone to distr
 
 ## Other alternatives
 
-[[Private/The Ivy Lee Method\|The Ivy Lee Method]], a prioritised to-do list with a maximum of 6 items
+[[Unsorted/The Ivy Lee Method\|The Ivy Lee Method]], a prioritised to-do list with a maximum of 6 items
+
+[[Unsorted/kanban\|Kanban]] sets limits on how many cards are allowed in a column
 
 [[Concepts/Interstitial journaling\|Interstitial journaling]], very similar to a DONE list in that you simply write what you've been doing every chance you get
 
