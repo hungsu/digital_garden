@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/"}
+{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/","updated":"2025-05-10T16:19:19.802-07:00"}
 ---
 
 # Obsidian LiveSync
