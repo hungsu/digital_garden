@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/you-work-20-more-than-you-can-safely-handle/","tags":["claim","🌲","🌱"],"updated":"2025-03-22T00:30:59.088-07:00"}
+{"dg-publish":true,"permalink":"/claims/you-work-20-more-than-you-can-safely-handle/","tags":["claim"],"updated":"2025-05-26T18:10:11.113-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ![Illustration of one near empty fuel meter labelled When we should take a break](/img/user/Embeds/liz-and-mollie-rest.jpg)
 
-By reading this blog, you are almost certainly a *Knowledge Worker*. Not someone who does physical labour, but a person whose work requires knowledge and generates knowledge.
+By reading this blog, you are almost certainly a *Knowledge Worker*. Not someone who does physical labour, but a person whose work requires knowledge, and generates knowledge.
 
 Knowledge workers tend to self regulate their workload, and they often default to a simple strategy: start saying “no” when they feel stressed. The problem with this strategy, is that they don’t start pulling back until _after_ they have too much going on: leading to the 20% overload that’s so consistently observed.
 
