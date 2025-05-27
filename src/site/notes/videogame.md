@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videogame/","title":"Videogame"}
+{"dg-publish":true,"permalink":"/videogame/","title":"Videogame","updated":"2025-05-26T14:37:38.253-07:00"}
 ---
 
 
