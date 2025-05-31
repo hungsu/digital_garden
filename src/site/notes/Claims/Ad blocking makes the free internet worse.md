@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/ad-blocking-makes-the-free-internet-worse/","title":"Ad blocking makes the free internet worse","tags":["claim"],"updated":"2025-01-22T15:54:06.696-08:00"}
+{"dg-publish":true,"permalink":"/claims/ad-blocking-makes-the-free-internet-worse/","title":"Ad blocking makes the free internet worse","tags":["claim","published"],"updated":"2025-05-30T18:03:34.197-07:00"}
 ---
 
 

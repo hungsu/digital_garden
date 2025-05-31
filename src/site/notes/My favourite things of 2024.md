@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/"}
+{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/","updated":"2025-05-26T13:11:21.004-07:00"}
 ---
 
 # My favourite things of 2024
