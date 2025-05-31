@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-movies/"}
+{"dg-publish":true,"permalink":"/my-favourite-movies/","updated":"2024-08-24T22:02:21.394-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/all-failure-is-systems-failure/","title":"All failure is systems failure","tags":["claim"],"updated":"2023-06-01T01:01:42.250-07:00"}
+{"dg-publish":true,"permalink":"/claims/all-failure-is-systems-failure/","title":"All failure is systems failure","tags":["claim","published"],"updated":"2025-05-30T19:01:48.256-07:00"}
 ---
 
 

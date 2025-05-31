@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-magazines/"}
+{"dg-publish":true,"permalink":"/my-favourite-magazines/","updated":"2025-05-04T09:22:58.244-07:00"}
 ---
 
 
