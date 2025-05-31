@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/claims/hoarding-unread-knowledge-gives-the-illusion-of-knowledge/","tags":["claim"],"updated":"2025-05-26T00:32:37.660-07:00"}
+{"dg-publish":true,"permalink":"/claims/hoarding-unread-knowledge-gives-the-illusion-of-knowledge/","tags":["claim","published"],"updated":"2025-05-30T21:58:24.337-07:00"}
 ---
 
 
 # Hoarding unread knowledge gives the illusion of knowledge
 
-> [!quote] [[Unsorted/Bhante Kassapa\|Bhante Kassapa]]
+> [!quote] Bhante Kassapa
 > One good line put to use, is better than a thousand captured lines.
 
 People are frequently inclined to acquire more books, videos, articles and more than they can ever consume. The possession of these things gives the user the illusion of having already learned, without learning anything. This illusion can be so convincing it can fool others as well as yourself. This illusion is known also as *The Collector's Fallacy*.

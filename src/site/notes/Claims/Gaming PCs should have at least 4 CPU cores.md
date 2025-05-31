@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/claims/gaming-p-cs-should-have-at-least-4-cpu-cores/","tags":["claim"],"updated":"2025-05-26T15:56:13.110-07:00"}
+{"dg-publish":true,"permalink":"/claims/gaming-p-cs-should-have-at-least-4-cpu-cores/","tags":["claim","published"],"updated":"2025-05-30T21:57:44.295-07:00"}
 ---
+
+# Gaming PCs should have at least 4 CPU cores
 
 Testing Games tested a variety of games with CPU cores disabled in their video [How Many Cores are Enough for Games?](https://youtu.be/A9e9wrnRCgk) in 2021. They observed substantial FPS drop in a variety of low core scenarios. 
 

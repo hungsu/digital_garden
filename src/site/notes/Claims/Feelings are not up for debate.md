@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claims/feelings-are-not-up-for-debate/","title":"Feelings are not up for debate","tags":["claim","🌱"],"updated":"2023-05-13T13:34:56.470-07:00"}
+{"dg-publish":true,"permalink":"/claims/feelings-are-not-up-for-debate/","title":"Feelings are not up for debate","tags":["claim","published"],"updated":"2025-05-30T21:57:25.210-07:00"}
 ---
 
 
