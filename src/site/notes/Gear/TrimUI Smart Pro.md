@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-06-03T11:20:16.893-07:00"}
+{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-06-18T17:51:38.194-07:00"}
 ---
 
 ![trimui-smart-pro.jpg](/img/user/Embeds/trimui-smart-pro.jpg)
@@ -7,7 +7,7 @@
 
 A teeny tiny [[Unsorted/ARM handheld\|handheld game console]] for nerds, that I bought for $51.52USD including shipping in 2024.
 
-It runs a slimmed down version of Linux, which can run many emulated console games, and a limited number of PC games.
+It runs a slimmed down version of Linux, which can run many emulated console games, and a limited number of PC games through an app called [[Digital/Portmaster\|Portmaster]].
 
 It's possible to install a variant of Android on this called [GammaOS](https://github.com/TheGammaSqueeze/GammaOSCore), but I have not tried.
 
@@ -30,3 +30,5 @@ I installed a custom layer over the base operating system, called Crossmix OS, w
 ## Notes for me and others who own it
 
 The [r/trimui subreddit](https://www.reddit.com/r/trimui/) has made a useful website, [TrimUI Hub](https://destructiveburn.com/TrimUIHub/).
+
+Another OS exists for the Smart Pro: [Next UI](https://github.com/LoveRetro/NextUI). As of 2025-06-18 it lacks the ability to customise the toggle switch on the bottom of the Smart Pro, so I have not tried this OS yet.
