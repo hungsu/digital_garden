@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-05-26T16:21:34.481-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-07-31T20:03:29.541-07:00"}
 ---
 
 
@@ -7,9 +7,7 @@
 
 G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital garden\|digital garden]] 😀 They are of varying levels of quality, but they're all 100% written by me. Generative AI is never used at any part of the process of anything on this blog. You might be curious about [[Why publish notes\|why I publish notes]].
 
-I refer back to my own [[Advice/1. What is advice\|advice]] at times, and I make some potentially controversial [[Claims/1. Claims I've made\|claims]].
-
-My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Necesse\|Necesse]] and [[Videogames/Red Dead Redemption 2\|Red Dead Redemption 2]]. My childhood playing videogames is directly responsible for my present day career in [[Unsorted/Software engineering\|software engineering]].
+My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Baldur's Gate 3\|Baldur's Gate 3]] and [[Videogames/PEAK (2025)\|PEAK]]. My childhood playing videogames is directly responsible for my present day career in [[UI engineering\|UI engineering]].
 
 I thoroughly enjoy note taking and [[Concepts/PKM\|Personal Knowledge Management]], using [[Digital/Obsidian\|Obsidian]]. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! This website you're reading was made with the [[Digital/Digital Garden plugin\|Digital Garden plugin]] by Ole Eskild, [[Unsorted/Github\|Github]], and [[Digital/Netlify\|Netlify]]. 
 
@@ -17,13 +15,18 @@ I enjoy UI and UX design, especially [[Unsorted/typography\|typography]]. This w
 
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
 
+## My best works
+
+- [[Concepts/easy mistake\|easy mistake]]
+- [[Slow news movement\|Slow news movement]]
+
 ## Blog of sorts
 
 <style>table tbody td:first-child{white-space:nowrap;vertical-align: baseline;}</style>
 
 | Date         | Stuff                                                                                                                                                                                                                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-May-4   | I learned a lot about [[Unsorted/loudspeaker\|loudspeaker]]s, [[Unsorted/AV receiver\|AV receiver]]s, in my journey: [[Unsorted/Linus Tech Tips told me to build my own audio, it cost more than I thought\|Linus Tech Tips told me to build my own audio, it cost more than I thought]].                                                                                                                            |
+| 2025-May-4   | I learned a lot about loudspeakers, AV receivers, in my journey: [[Unsorted/Linus Tech Tips told me to build my own audio, it cost more than I thought\|Linus Tech Tips told me to build my own audio, it cost more than I thought]].                                                                                                                                    |
 | 2025-Mar-6   | Some thoughts on [[Digital/Obsidian LiveSync\|Obsidian LiveSync]] after using it for a few months                                                                                                                                                                                                              |
 | 2024-July-15 | [[My favourite things of 2024\|My favourite things of 2024]]                                                                                                                                                                                                                                                     |
 | 2023-Nov-04  | I tried watching HDR content on a [[Unsorted/mini LED\|mini LED]], and gave up                                                                                                                                                                                                                         |
