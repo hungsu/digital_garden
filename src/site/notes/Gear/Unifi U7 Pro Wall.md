@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/unifi-u7-pro-wall/"}
+{"dg-publish":true,"permalink":"/gear/unifi-u7-pro-wall/","updated":"2024-12-21T09:36:08.000-08:00"}
 ---
 
 # U7 Pro Wall

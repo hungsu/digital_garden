@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/logitech-g305-mouse/"}
+{"dg-publish":true,"permalink":"/gear/logitech-g305-mouse/","updated":"2023-03-03T00:34:07.755-08:00"}
 ---
 
 ![](https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g305/g305-white-gallery-1.png?v=1%202x,%20https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g305/g305-white-gallery-1.png?v=1%201x)

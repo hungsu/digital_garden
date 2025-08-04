@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/beryl-ax-wi-fi-6-travel-router/","tags":["favourite"]}
+{"dg-publish":true,"permalink":"/gear/beryl-ax-wi-fi-6-travel-router/","tags":["favourite"],"updated":"2024-10-07T10:38:57.000-07:00"}
 ---
 
 

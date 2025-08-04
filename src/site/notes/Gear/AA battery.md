@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/aa-battery/"}
+{"dg-publish":true,"permalink":"/gear/aa-battery/","updated":"2023-02-14T23:28:29.521-08:00"}
 ---
 
 # AA battery

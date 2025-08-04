@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/7-hertz-timeless-earphones/"}
+{"dg-publish":true,"permalink":"/gear/7-hertz-timeless-earphones/","updated":"2025-07-29T12:28:45.652-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # 7Hertz Timeless earphones
 
-Quite possibly the best bang for buck audiophile earphones around.
+Quite possibly the best bang for buck audiophile [[Unsorted/Earphones\|earphones]] around.
 
 I bought mine from [Linsoul for $220](https://www.linsoul.com/collections/all-archived/products/7hz-timeless) with a 3.5mm termination.
 
@@ -18,3 +18,6 @@ Uses [[Unsorted/MMCX cable\|MMCX cable]], so these can be used over Bluetooth wi
 [[People/crinacle\|crinacle]] did a video review of these on Youtube:
 - Notes that some people find it fatigueing, because it has sharp treble
 - Gave them an A- grade on his [website](https://crinacle.com/rankings/iems/), which is astonishingly high, and are the cheapest earphones at that grade. The most expensive at that grade is $3200.
+
+Some people have felt disappointed by them:
+- This [Redditor](https://www.reddit.com/r/headphones/comments/yqox4q/7hz_timeless_what_a_weird_pair_of_iems_brief/) says they are great for well mastered music, but awful for "fun" things like EDM and heavy metal. Other redditors reply with mixed opinions

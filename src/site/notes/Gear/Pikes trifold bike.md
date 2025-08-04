@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"]}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-03-21T17:09:56.652-07:00"}
 ---
 
 

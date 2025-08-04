@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/hugh-leverpresso/"}
+{"dg-publish":true,"permalink":"/gear/hugh-leverpresso/","updated":"2024-07-17T19:59:32.156-07:00"}
 ---
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721271111/leverpresso_jgma4g.png)

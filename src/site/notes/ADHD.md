@@ -19,11 +19,11 @@ These downsides affect the person with ADHD as well as those around them.
 	- can manifest as important tasks being put aside for months or years
 
 
-- [[Private/emotional dysregulation\|Deficient emotional self-regulation]] - the inability to vent or process emotions, resulting in emotional outbursts which then have to be managed.
-- [[Private/Rejection Sensitive Dysphoria\|Rejection Sensitive Dysphoria]]
+- [[Unsorted/emotional dysregulation\|Deficient emotional self-regulation]] - the inability to vent or process emotions, resulting in emotional outbursts which then have to be managed.
+- [[Unsorted/Rejection Sensitive Dysphoria\|Rejection Sensitive Dysphoria]]
 	- can manifest as emotional outbursts when the ADHD person perceives themselves as being judged - whether or not the judgment is fair
-- [[Private/time blindness\|Time blindness]]
-- [[Private/Executive function\|Executive dysfunction]], which combined with time blindness can result in [[Concepts/ADHD procrastination\|ADHD procrastination]]
+- [[Unsorted/time blindness\|Time blindness]]
+- [[Unsorted/Executive function\|Executive dysfunction]], which combined with time blindness can result in [[Concepts/ADHD procrastination\|ADHD procrastination]]
 - Interrupting
 - Not paying attention https://adapthd.com/topics/symptoms/8-behaviors-related-to-adhd-that-annoy-other-people/
 - Fidgeting
@@ -37,7 +37,7 @@ Hyoerfocus permits the greatest levels of skill.
 
 ## Diagnosing ADHD
 
-Getting an [[Private/ADHD diagnosis\|ADHD diagnosis]] is required to get ADHD medication.
+Getting an [[Unsorted/ADHD diagnosis\|ADHD diagnosis]] is required to get ADHD medication.
 
 ADHD can be Inattentive, Hyperactive-impulsive, or Combined. This can be read up in more accurate detail on a more reliable source such as the [CDC page](https://www.cdc.gov/ncbddd/adhd/facts.html). ADHD is a serious condition and you shouldn't rely wholly on social media sources for this.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/","updated":"2025-05-10T16:19:19.802-07:00"}
+{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/","updated":"2025-07-23T09:43:03.700-07:00"}
 ---
 
 # Obsidian LiveSync
@@ -20,7 +20,7 @@ I have not had to resolve a conflict even once. I have lost content just once - 
 
 Since moving to LiveSync, I can simply write and think about writing instead of thinking about syncing.
 
-Obsidian LiveSync itself is free. It requires CouchDB set up somewhere such as Fly.io. Fly.io requires a credit card and may cost money. For small vaults under 1GB and small usage this should be free. Vaults that are over 1GB or sync many megabytes a day would probably incur a cost.
+Obsidian LiveSync itself is free. It requires [[Digital/CouchDB\|CouchDB]] set up somewhere such as Fly.io. Fly.io requires a credit card and may cost money. For small vaults under 1GB and small usage this should be free. Vaults that are over 1GB or sync many megabytes a day would probably incur a cost.
 
 It was somewhat tricky to set up. I considered following the more manual instructions, but ultimately chose the [quick start method](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_flyio.md#a-very-automated-setup) in the readme using Fly.io. Again, I’m a software engineer and if this document looks scary then this is probably not the approach for you.
 

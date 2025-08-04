@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/niu-kqi-3-scooter/","title":"NIU KQI3 Scooter"}
+{"dg-publish":true,"permalink":"/gear/niu-kqi-3-scooter/","title":"NIU KQI3 Scooter","updated":"2025-03-22T00:31:18.129-07:00"}
 ---
 
 

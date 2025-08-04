@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/edge-router-x/"}
+{"dg-publish":true,"permalink":"/gear/edge-router-x/","updated":"2024-07-04T15:33:44.956-07:00"}
 ---
 
 

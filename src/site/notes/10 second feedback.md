@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback"}
+{"dg-publish":true,"permalink":"/10-second-feedback/","title":"10 second feedback","updated":"2025-05-10T12:22:14.897-07:00"}
 ---
 
 
@@ -16,7 +16,7 @@ For example:
 **Direct**: Sure, boss.  
 **Manager**: When you tell my boss bad news before me, even with the best of intentions, I end up getting in a lot of trouble for not knowing before he did. Can you try to tell me first, going forward?
 
-This works because [[Public/A warning before stress, reduces the stress\|A warning before stress, reduces the stress]]
+This works because [[Unsorted/A warning before stress, reduces the stress\|A warning before stress, reduces the stress]]
 
 Caveats:
 - If you are angry, that will show, and undermine the intended effect.

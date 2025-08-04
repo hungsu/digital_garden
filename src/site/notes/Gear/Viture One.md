@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/viture-one/"}
+{"dg-publish":true,"permalink":"/gear/viture-one/","updated":"2024-10-09T21:15:48.494-07:00"}
 ---
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721716961/viture-one_oj8vvl.jpg)

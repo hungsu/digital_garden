@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/my-computer/"}
+{"dg-publish":true,"permalink":"/gear/my-computer/","updated":"2025-05-26T14:38:40.034-07:00"}
 ---
 
 # My computer

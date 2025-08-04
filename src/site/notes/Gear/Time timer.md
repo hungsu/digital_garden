@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/time-timer/"}
+{"dg-publish":true,"permalink":"/gear/time-timer/","updated":"2023-02-14T21:50:13.159-08:00"}
 ---
 
 ![](https://m.media-amazon.com/images/I/711vrQPS8eL._SL1500_.jpg)

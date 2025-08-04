@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/everyday-case/"}
+{"dg-publish":true,"permalink":"/gear/everyday-case/","updated":"2023-02-19T10:44:28.838-08:00"}
 ---
 
 ![](https://cdn.shopify.com/s/files/1/2986/1172/products/1-LIGHTBOX-Case-Samsung-S21-01_1024x1024.jpg?v=1643755734)

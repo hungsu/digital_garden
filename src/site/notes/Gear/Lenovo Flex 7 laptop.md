@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/lenovo-flex-7-laptop/"}
+{"dg-publish":true,"permalink":"/gear/lenovo-flex-7-laptop/","updated":"2025-03-31T20:38:43.236-07:00"}
 ---
 
 ![](https://psrefstuff.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_Flex_7_14IRU8/Lenovo_Flex_7_14IRU8_CT1_01.png)

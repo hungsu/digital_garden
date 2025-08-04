@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/samsung-buds-2/"}
+{"dg-publish":true,"permalink":"/gear/samsung-buds-2/","updated":"2023-07-01T21:28:27.878-07:00"}
 ---
 
 ![samsung-buds2.png](/img/user/Embeds/samsung-buds2.png)

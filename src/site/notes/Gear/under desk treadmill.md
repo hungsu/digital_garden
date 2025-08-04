@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/under-desk-treadmill/"}
+{"dg-publish":true,"permalink":"/gear/under-desk-treadmill/","updated":"2023-11-01T06:12:11.014-07:00"}
 ---
 
 # Desk treadmill
