@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/typewolf/"}
+{"dg-publish":true,"permalink":"/unsorted/typewolf/","updated":"2023-09-08T10:27:26.274-07:00"}
 ---
 
 # Typewolf
