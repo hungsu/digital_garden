@@ -3,7 +3,7 @@
 ---
 
 
-On 2020-November-10, I installed [[Private/Ubuntu\|Ubuntu]] 18.04 on my [[Gear/my computer\|my computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
+On 2020-November-10, I installed [[Unsorted/Ubuntu\|Ubuntu]] 18.04 on my [[Gear/my computer\|my computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
 
 ## Things I liked and will miss
 
@@ -37,7 +37,7 @@ On 2020-November-10, I installed [[Private/Ubuntu\|Ubuntu]] 18.04 on my [[Gear/m
      - EA Games, such as Star Wars Fallen Order
      - Epic Games exclusives, such as Fortnite and the Pathless
      - [Vermintide 2](https://www.protondb.com/app/552500)
-     - The Witcher 3, which I can still play with Geforce NOW, with lag. See my experience with [[Public/Game streaming\|Game streaming]]
+     - The Witcher 3, which I can still play with Geforce NOW, with lag. See my experience with [[Unsorted/Game streaming\|Game streaming]]
    - Popular benchmarking software, including
      - Cinebench
      - Crystaldiskmark

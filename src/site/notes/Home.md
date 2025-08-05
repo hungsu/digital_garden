@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-07-31T20:03:29.541-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-08-04T14:33:07.178-07:00"}
 ---
 
 
@@ -15,18 +15,13 @@ I enjoy UI and UX design, especially [[Unsorted/typography\|typography]]. This w
 
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
 
-## My best works
-
-- [[Concepts/easy mistake\|easy mistake]]
-- [[Slow news movement\|Slow news movement]]
-
 ## Blog of sorts
 
 <style>table tbody td:first-child{white-space:nowrap;vertical-align: baseline;}</style>
 
 | Date         | Stuff                                                                                                                                                                                                                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-May-4   | I learned a lot about loudspeakers, AV receivers, in my journey: [[Unsorted/Linus Tech Tips told me to build my own audio, it cost more than I thought\|Linus Tech Tips told me to build my own audio, it cost more than I thought]].                                                                                                                                    |
+| 2025-May-4   | I learned a lot about loudspeakers, AV receivers, in my journey: [[Unsorted/Linus Tech Tips said I should build my own home theatre\|Linus Tech Tips said I should build my own home theatre]].                                                                                                                                    |
 | 2025-Mar-6   | Some thoughts on [[Digital/Obsidian LiveSync\|Obsidian LiveSync]] after using it for a few months                                                                                                                                                                                                              |
 | 2024-July-15 | [[My favourite things of 2024\|My favourite things of 2024]]                                                                                                                                                                                                                                                     |
 | 2023-Nov-04  | I tried watching HDR content on a [[Unsorted/mini LED\|mini LED]], and gave up                                                                                                                                                                                                                         |
