@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-04T22:37:47.670-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-05T17:46:10.807-07:00"}
 ---
 
 # NHT M5 Monitor
@@ -43,7 +43,9 @@ I switched to searching for "center speaker" for a while, and tried looking for 
 
 This speaker had one vital task - play dialog in movies clearly enough to not require subtitles. In this regard, it passes with flying colours.
 
-The NHT M5 is so much better than my Left/Right Onkyo speakers that it has presented me with a problem. When listening to stereo sources such as music, audio only plays through the two Onkyo speakers, skipping the M5 speaker entirely. When this happens my setup appears to sound noticeably worse. For these situations I have to remember to use the upmixing feature on my [[Gear/Denon AV receiver\|Denon AV receiver]], which is a free and easy solution until I can spare the budget to buy two more M5s to replace the Onkyos.
+It's hard for me to describe why the NHT M5 sounds good. Many audio reviewers use a lot of words that also sound like meaningless gibberish to me. What I can say definitively, is that when I hear something from my nameless Onkyo speakers, then the NHT M5, *I always prefer the M5*.
+
+The M5 is so much better than my Onkyo speakers that it has presented me with a problem. When listening to stereo sources such as music, audio only plays through my Onkyo speakers, skipping the M5 speaker entirely. When this happens my setup appears to sound noticeably worse. For these situations I have to remember to use the upmixing feature on my [[Gear/Denon AV receiver\|Denon AV receiver]], which is a free and easy solution until I can spare the budget to buy two more M5s to replace the Onkyos.
 
 ## Other notes
 

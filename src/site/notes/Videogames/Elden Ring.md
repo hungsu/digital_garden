@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/videogames/elden-ring/","title":"Elden Ring"}
+{"dg-publish":true,"permalink":"/videogames/elden-ring/","title":"Elden Ring","updated":"2025-03-22T00:32:51.813-07:00"}
 ---
 
 
 # ![Elden Ring](https://c.neevacdn.net/image/fetch/s--dOUFa4O7--/https%3A//www.thathashtagshow.com/wp-content/uploads/2021/03/Elden-Ring-Cover-1024x512.jpg?savepath=Elden-Ring-Cover-1024x512.jpg)
 
-Possibly my favourite [videogame](videogame.md) of 2022. Also the first [[Private/Souls-like\|Souls-like]] game I ever played.
+Possibly my favourite [videogame](videogame.md) of 2022. Also the first [[Unsorted/Souls-like\|Souls-like]] game I ever played.
 
 <!--
 Things for me to do
@@ -18,7 +18,7 @@ Round table hold, Talisman pouch
 
 **It's popular**. By far my favourite part of this game is being able to talk about it with friends and colleagues of whom many are playing it.
 
-![](/img/user/Vaults/quartz/content/notes/images/EldenRing_Limgrave.jpg)
+![](/img/user/Embeds/EldenRing_Limgrave.jpg)
 
 **It's visually stunning**. The game is so beautiful it is worthwhile to simply explore even without killing a thing. The elaborate and immense scale of the creatures and structures take much inspiration from [Berserk](Berserk.md), which in turn is a hauntingly beautiful series with a [Bosch](Hieronymus%20Bosch.md)-ian art style. The game's art style is well captured in this dialog:
 
@@ -31,7 +31,7 @@ For more, this article is quite fantastic: [The Boschian Horror of ‘Elden Ring
 
 Writing on games made a 10 minute video talking more: [Why Exploring in Elden Ring Feels So Good](https://youtu.be/qJy8j64pTV4)
 
-**Rich lore**. The visuals of the world and its people are all tied together with some incredible lore and worldbuilding, aided by [[Private/George R R Martin\|George R R Martin]].[^1] This [Gamespot article](https://www.gamespot.com/articles/elden-ring-heres-the-lore-and-history-of-the-lands-between/1100-6502537/) explains it better. If you have the time, the Elden ring lore videos by [Vaatividya](https://www.youtube.com/watch?v=DYDs_Inzkz4) are so amazing they were reposted on Elden Ring's official channel.
+**Rich lore**. The visuals of the world and its people are all tied together with some incredible lore and worldbuilding, aided by [[Unsorted/George R R Martin\|George R R Martin]].[^1] This [Gamespot article](https://www.gamespot.com/articles/elden-ring-heres-the-lore-and-history-of-the-lands-between/1100-6502537/) explains it better. If you have the time, the Elden ring lore videos by [Vaatividya](https://www.youtube.com/watch?v=DYDs_Inzkz4) are so amazing they were reposted on Elden Ring's official channel.
 
 ### The soundtrack shapes mood perfectly
 
@@ -55,7 +55,7 @@ I'm playing it on PC, and am aware it runs better on Playstation 5 and looks far
 
 #### Videos
 
-[[Private/Carbot Animations\|Carbot Animations]] did some hilarious [spoofs](https://www.youtube.com/watch?v=LSyRf8rAjTs).
+[[Unsorted/Carbot Animations\|Carbot Animations]] did some hilarious [spoofs](https://www.youtube.com/watch?v=LSyRf8rAjTs).
 
 Blaidd voice actor Scott Arthur reads thirst tweets in a [4 minute video](https://youtu.be/PE6wLtf7Y_0)
 
@@ -73,19 +73,19 @@ For a much more fun experience,  those playing on PC can have a more traditional
 
 ![](https://c.neevacdn.net/image/fetch/s--FaHOKSN3--/https%3A//top-mmo.fr/wp-content/uploads/2022/05/fmini-the-raging-wolf-05b-1653511628832.jpg?savepath=fmini-the-raging-wolf-05b-1653511628832.jpg)
 
-There are two [[Private/Figuarts Minis\|Figuarts Minis]] for Elden Ring: [Raging Wolf](https://www.tamashiinations.com/product/details.php?detail=831) and [Melina](https://www.tamashiinations.com/product/details.php?detail=832).
+There are two [[Unsorted/Figuarts Minis\|Figuarts Minis]] for Elden Ring: [Raging Wolf](https://www.tamashiinations.com/product/details.php?detail=831) and [Melina](https://www.tamashiinations.com/product/details.php?detail=832).
 
 ![Photo of Soul Arts book](https://cdn.shopify.com/s/files/1/0117/3399/1490/products/KEEP-271A1325copy.jpg?v=1656584103&width=823)
 
 Vaatividya made an art book of all Souls games, including Elden Ring, called [Soul Arts](https://www.tuneandfairweather.com/products/soul-arts-presented-by-vaatividya). Vaatividya also made a [19 minute video walkthrough](https://youtu.be/PWKHO7DYIH8) of the book.
 
-![Tree Sentinel figure](/img/user/Vaults/quartz/content/notes/images/tree-sentinel.jpg)
+![Tree Sentinel figure](/img/user/Embeds/tree-sentinel.jpg)
 
 There is a beautiful Tree Sentinel sculpture, for about [€1700](https://www.ebay.com/itm/195170057924) from Sword & Wing x Acy Studio
 
 #### Glitches
 
-[[Private/Spiffing Brit\|Spiffing Brit]] found that immortality is possible by dying on purpose to the game's first boss then quitting the game. More in his [24 minute video](https://youtu.be/GwBc0ixfbzI)
+[[Unsorted/Spiffing Brit\|Spiffing Brit]] found that immortality is possible by dying on purpose to the game's first boss then quitting the game. More in his [24 minute video](https://youtu.be/GwBc0ixfbzI)
 
 #### Game Engine
 
@@ -148,6 +148,6 @@ I've heard there is a [Golden Parry](https://eldenring.wiki.fextralife.com/Golde
 
 ### Bosses
 
-There's so much to talk about, I've moved it all to its own page, [Elden Ring bosses](notes/Elden%20Ring%20bosses).
+There's so much to talk about, I've moved it all to its own page, [Elden Ring bosses](Elden%20Ring%20bosses.md).
 
 [^1]: Interview with George https://youtu.be/xHzJG1hHTdU

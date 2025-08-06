@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/hieronymus-bosch/","title":"Hieronymus Bosch"}
+{"dg-publish":true,"permalink":"/people/hieronymus-bosch/","title":"Hieronymus Bosch","updated":"2023-02-14T12:10:05.406-08:00"}
 ---
 
 ![](https://pbs.twimg.com/media/FXKbIdTXwAIPfzw?format=jpg&name=900x900)
@@ -12,6 +12,6 @@ There is an "official" [website](https://www.hieronymus-bosch.org/), and a proje
 
 Great Art Explained did a [50 minute video](https://www.youtube.com/watch?v=vBG621XEegk)
 
-His surviving works can mostly be found in Prado Museum in [[Private/Madrid\|Madrid]].
+His surviving works can mostly be found in Prado Museum in [[Unsorted/Madrid\|Madrid]].
 
 Personally I find his work disturbing to look at, and yet I feel compelled to keep looking.

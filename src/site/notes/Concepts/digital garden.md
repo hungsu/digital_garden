@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/digital-garden/","title":"Digital garden","tags":["🌱"]}
+{"dg-publish":true,"permalink":"/concepts/digital-garden/","title":"Digital garden","tags":["🌱"],"updated":"2023-11-21T05:49:10.154-08:00"}
 ---
 
 
@@ -9,7 +9,7 @@ A digital garden is a website, with content on multiple pages which link to each
 
 ## Differentiators from blogs
 
-A digital garden is very similar to a [[Private/blog\|blog]].
+A digital garden is very similar to a [[Unsorted/blog\|blog]].
 
 - Both are available on the public internet for anyone to see
 - Both are written by a single person (most of the time)
@@ -37,4 +37,4 @@ The earliest occurrence of the term "garden" for online notes may be this 1998 e
 
 [[My favourite blogs\|My favourite blogs and digital gardens]]
 
-My digital garden is made using [[Software/Obsidian\|Obsidian]] and Ole Eskild's [[Software/Digital Garden plugin\|Digital Garden plugin]]. I previously used something called Foam Research, then Jekyll, then [[Software/Quartz by Jacky\|Quartz by Jacky]]. 
+My digital garden is made using [[Digital/Obsidian\|Obsidian]] and Ole Eskild's [[Digital/Digital Garden plugin\|Digital Garden plugin]]. I previously used something called Foam Research, then Jekyll, then [[Digital/Quartz by Jacky\|Quartz by Jacky]]. 
