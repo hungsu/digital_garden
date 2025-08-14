@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videogames/return-of-the-obra-dinn/","tags":["finished","#given-to-me"],"updated":"2025-08-13T16:19:11.015-07:00"}
+{"dg-publish":true,"permalink":"/videogames/return-of-the-obra-dinn/","tags":["finished","#given-to-me"],"updated":"2025-08-13T18:58:21.896-07:00"}
 ---
 
 
@@ -7,6 +7,8 @@
 
 A totally unique mystery videogame, which was given to me on the [[Unsorted/Steam Store\|Steam Store]].
 
-On my first attempt, I gave up after a few scenes. On my second attempt, I created a new [[Digital/Obsidian\|Obsidian]] vault just for this game, and was able to complete it in full without using any cheats or walkthroughs, and felt very satisfied doing so.
+On my first attempt, I gave up after a few scenes, thinking the game impossibly hard and could not believe anyone could beat the game without a walkthrough.
+
+On my second attempt, I created a new [[Digital/Obsidian\|Obsidian]] vault just for this game, and was able to complete it in full without using any cheats or walkthroughs, and felt very satisfied doing so.
 
 If you enjoy [[Concepts/PKM\|Personal Knowledge Management]] and mysteries, I highly recommend this game.
