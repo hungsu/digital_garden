@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/digital-garden/","title":"Digital garden","tags":["🌱"],"updated":"2023-11-21T05:49:10.154-08:00"}
+{"dg-publish":true,"permalink":"/concepts/digital-garden/","title":"Digital garden","tags":["🌱"],"updated":"2025-08-19T14:56:22.250-07:00"}
 ---
 
 
@@ -9,7 +9,7 @@ A digital garden is a website, with content on multiple pages which link to each
 
 ## Differentiators from blogs
 
-A digital garden is very similar to a [[Unsorted/blog\|blog]].
+A digital garden is very similar to a [[My favourite blogs\|blog]].
 
 - Both are available on the public internet for anyone to see
 - Both are written by a single person (most of the time)

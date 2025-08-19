@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/","updated":"2025-07-23T09:43:03.700-07:00"}
+{"dg-publish":true,"permalink":"/digital/obsidian-live-sync/","updated":"2025-08-12T19:28:22.840-07:00"}
 ---
 
 # Obsidian LiveSync
@@ -26,5 +26,5 @@ It was somewhat tricky to set up. I considered following the more manual instruc
 
 My vault is around 12000 files, and LiveSync’s initial setup took a long time. I foolishly did this on a laptop that kept going to sleep during the process, and in retrospect I should have started this on my desktop PC, or started with a fresh empty vault and gradually moved files into it instead.  
   
-If any of you have been frustrated trying to synchronise Obsidian between multiple devices, this may be an option for you
+If any of you have been frustrated trying to synchronise Obsidian between multiple devices, this may be an option for you.
 
