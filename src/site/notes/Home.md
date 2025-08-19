@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-08-14T15:02:31.861-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-08-19T15:31:48.129-07:00"}
 ---
 
 
@@ -21,7 +21,6 @@ This site doesn’t use ads, cookies, or analytics and never will. I’m privacy
 
 | Date         | Stuff                                                                                                                                                                                                                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025         |                                                                                                                                                                                                                                                                                     |
 | 2025-May-4   | I learned a lot about loudspeakers, AV receivers, in my journey: [[Unsorted/Linus Tech Tips said I should build my own home theatre\|Linus Tech Tips said I should build my own home theatre]].                                                                                                                                                       |
 | 2025-Mar-6   | Some thoughts on [[Digital/Obsidian LiveSync\|Obsidian LiveSync]] after using it for a few months                                                                                                                                                                                                              |
 | 2024-July-15 | [[My favourite things of 2024\|My favourite things of 2024]]                                                                                                                                                                                                                                                     |

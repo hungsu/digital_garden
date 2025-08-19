@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-blogs/","updated":"2025-08-19T14:55:50.489-07:00"}
+{"dg-publish":true,"permalink":"/my-favourite-blogs/","updated":"2025-08-19T14:57:40.736-07:00"}
 ---
 
 
@@ -62,4 +62,6 @@ Chips and Cheese, a blog about [[Unsorted/semiconductor manufacturing\|semicondu
 If you hate ads and like reading long form and extremely well researched content, [[Slow news movement\|Slow journalism]] may be your jam.
 
 If you're okay with ads, you should check out [[my favourite magazines\|my favourite magazines]].
+
+
 
