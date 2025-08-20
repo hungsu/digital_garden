@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T15:48:48.993-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T15:57:14.712-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -17,7 +17,7 @@ This is the sound bar I had. It cost me $110USD including sales tax, and it suck
 
 So it felt serendipitous that Linus Tech Tips released the following video: *I Built an INSANE Surround Sound Setup for Under $250*.
 
-![](https://www.youtube.com/watch?v=u4LFDPbbSVk&pp=ygUcbGludXMgdGVjaCB0aXBzIGhvbWUgdGhlYXRlcg%3D%3D)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u4LFDPbbSVk?si=o3B-mEfXjgwf7QfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A promise of better audio for just a few hundred dollars? Or even just $40 for a noticeable improvement? I formulated a basic plan: find second hand speakers and an AV receiver nearby, for up to a few hundred dollars. Surely anything at all would be better than what I had now.
  ![Facebook Marketplace.jpg](/img/user/Embeds/Facebook%20Marketplace.jpg)
@@ -34,7 +34,9 @@ In Linus' video, every speaker and part he bought seems to work. For me, over th
 - a receiver that turned on but didn't make any sound
 - a receiver that worked great at first but failed soon after
 
-These kinds of failures are difficult or impossible to detect when buying. And 95% or more of the time, buyers won't refund you for defective items. 
+These kinds of failures are difficult or impossible to detect when buying. After my first failed purchase, I endeavoured to ask every seller to test every item. But 2 out of 3 refused, saying that the time is not worth it for such cheap items.
+
+Additionally, for 95% of defective items, sellers won't refund you. 
 
 Then there's the wasted time. Many many hours were wasted on:
 - communicating with the sellers of these devices about the initial purchase
@@ -47,7 +49,7 @@ Then there's the wasted time. Many many hours were wasted on:
 3 out of 12 items I bought were failures - a 25% failure rate is shockingly high and a legitimate reason for people to not want to deal with second hand goods. 
 
 
-### Second hand audio costs less than new, but more than you'd think
+## Second hand audio costs less than new, but more than you'd think
 
 Then there's the wasted money - the above is around $100 of gear that didn't work out for me. Also, Linus did not mention was the cost of buying wire and cables. It's not much, but at these price ranges, new speaker wire is a non-trivial fraction of the budget. My spending is broken down below:
 
@@ -65,7 +67,7 @@ Then there's the wasted money - the above is around $100 of gear that didn't wor
 
 Of all this, $146.51 was total waste. But even at $375.10, I'm still much happier with my final setup than an off-the-shelf soundbar - it just wasn't as cheap as I thought it would be.
 
-### Home theatres take a lot of space
+## Home theatres take a lot of space
 
 Space is a huge cost I didn't think about. The speakers and receiver and subwoofer alone take up quite a lot of space. In addition, I have a lot of leftover junk and parts from the ordeal consuming space in my garage:
 - Defective Onkyo receiver
