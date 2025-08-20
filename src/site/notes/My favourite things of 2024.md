@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/","updated":"2025-05-26T13:11:21.004-07:00"}
+{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/","updated":"2025-08-06T08:28:17.887-07:00"}
 ---
 
 # My favourite things of 2024
 
-Inspired by [What's in my now?](https://whatsinmynow.substack.com/), here are my favourite things of 2024! Note that these are things I *discovered* this year, so some of these things, such as movies, were made in previous years, but I discovered them this year.
+Inspired by [What's in my now?](https://whatsinmynow.substack.com/), here are my favourite things of 2024! Note that these are things I *discovered* or *bought* this year. So some of these things were made in previous years (such as movies), but I discovered them this year.
 
 ## Visible
 
@@ -23,12 +23,12 @@ These are physical items I bought or were given in 2024 that I've really enjoyed
 
 Musicians, writers, TV shows and movies I discovered and loved in 2024
 
-|                                                                                                             |                                                                                                                        |     |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --- |
-| ![](https://sundero-gallery.com/wp-content/uploads/2020/02/Heilung-17082019-46-1024x683.jpg) [[Unsorted/Heilung\|Heilung]]    | ![](https://artworks.thetvdb.com/banners/v4/series/411959/backgrounds/65f5db2f01670.jpg) [[TV/3 Body Problem by Netflix\|3 Body Problem by Netflix]] |     |
-| ![](https://artworks.thetvdb.com/banners/v4/series/416744/backgrounds/65f89b081cca7.jpg) [[TV/Fallout (2024)\|Fallout (2024)]] | ![](https://artworks.thetvdb.com/banners/v4/series/371572/backgrounds/664f365f080c5.jpg) [[Unsorted/House of the Dragon\|House of the Dragon]]       |     |
-| ![](https://image.tmdb.org/t/p/original/aqMeHlGYd3OafJVrSqSrhX5Nb2C.jpg) [[Movies/Dune Part 2 (2024)\|Dune Part 2 (2024)]]             | ![](https://artworks.thetvdb.com/banners/v4/series/403294/backgrounds/63445d674cc94.jpg) [[TV/The Bear\|The Bear]]                  |     |
-| [[TV/Planet Earth 3\|Planet Earth 3]]
+|                                                                                                             |                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ![](https://sundero-gallery.com/wp-content/uploads/2020/02/Heilung-17082019-46-1024x683.jpg) [[Unsorted/Heilung\|Heilung]]    | ![](https://artworks.thetvdb.com/banners/v4/series/411959/backgrounds/65f5db2f01670.jpg) [[TV/3 Body Problem by Netflix\|3 Body Problem by Netflix]] |
+| ![](https://artworks.thetvdb.com/banners/v4/series/416744/backgrounds/65f89b081cca7.jpg) [[TV/Fallout (2024)\|Fallout (2024)]] | ![](https://artworks.thetvdb.com/banners/v4/series/371572/backgrounds/664f365f080c5.jpg) [[Unsorted/House of the Dragon\|House of the Dragon]]       |
+| ![](https://image.tmdb.org/t/p/original/aqMeHlGYd3OafJVrSqSrhX5Nb2C.jpg) [[Movies/Dune Part 2 (2024)\|Dune Part 2 (2024)]]             | ![](https://artworks.thetvdb.com/banners/v4/series/403294/backgrounds/63445d674cc94.jpg) [[TV/The Bear\|The Bear]]                  |
+|                                                                                                             |                                                                                                                        |
 
 [[Unsorted/Beverly Hills Cop\|Beverly Hills Cop]] (excluding the third)
 

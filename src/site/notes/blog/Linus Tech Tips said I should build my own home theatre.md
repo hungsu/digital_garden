@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T13:02:51.994-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T15:48:48.993-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -63,8 +63,7 @@ Then there's the wasted money - the above is around $100 of gear that didn't wor
 | $50     | Denon receiver                        |
 | $375.10 | Total                                 |
 
-Of all this, $146.51 was essentially waste. That said, at $375.10, I'm still much happier with my final setup than an off-the-shelf soundbar - it just wasn't as cheap as I thought it would be.
-
+Of all this, $146.51 was total waste. But even at $375.10, I'm still much happier with my final setup than an off-the-shelf soundbar - it just wasn't as cheap as I thought it would be.
 
 ### Home theatres take a lot of space
 
@@ -76,18 +75,31 @@ Space is a huge cost I didn't think about. The speakers and receiver and subwoof
 - Defective Yamaha receiver
 - Way more speaker wire than I'll ever need
 
-## Fast forward to the end result - they sound great
-
-With just 2 front speakers and a centre, I had some unique experiences that I don't think I've had before:
-- In [[TV/Devil May Cry (2025)\|Devil May Cry]], a tentacle moved across the screen, making squishy wet sounds as it moved. I could hear the sound seemingly coming from the tentacle!
-- While watching Last of Us season 2, a character called out from another room asking if Pedro Pascal wanted a drink. I thought someone was in my house calling from the other room!
-
-![20250423_220006.jpg](/img/user/Embeds/20250423_220006.jpg)
+## The end result - they sound great
 
 
+The star of the show is the [[Gear/NHT M5 monitor\|NHT M5 monitor]], which I'm using as a [[Unsorted/center channel speaker\|center channel speaker]].
 
+![20250501 1757 NHT M5.jpg](/img/user/Embeds/20250501%201757%20NHT%20M5.jpg)
 
-## If you watch movies with a crappy sound bar, you should probably do this too
+The next star is the subwoofer, a [[Gear/NHT Verve subwoofer\|NHT Verve subwoofer]]
 
+![20250820 NHT Verve subwoofer.jpg](/img/user/20250820%20NHT%20Verve%20subwoofer.jpg)
 
-Some of the time spent on this project was enjoyable. I liked reading about [[Unsorted/center channel speaker\|center channel speaker]]s, response curves, and browsing reddit arguments I'd never participate in. And daily browsing of nearby classifieds was certainly better than doomscrolling US political news.
+Then there's the receiver, a [[Gear/Denon AV receiver\|Denon AV receiver]].
+
+![EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg](/img/user/EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg)
+
+Finally, I have two leftover mini towers from Onkyo.
+
+![20250820 Onkyo speaker.jpg](/img/user/20250820%20Onkyo%20speaker.jpg)
+
+All together, my setup looks like this:
+
+![20250820 my home theatre.jpg](/img/user/20250820%20my%20home%20theatre.jpg)
+
+With all this, I've had some unique audio experiences that I don't think I've had before:
+- In [[TV/Devil May Cry (2025)\|Devil May Cry]], a tentacle moved across the screen, making squishy wet sounds as it moved. I could hear the sound seemingly coming from the tentacle on screen! This wouldn't be possible on headphones!
+- While watching Last of Us season 2, the therapist character called out from another room, asking if Pedro Pascal wanted a drink. I thought someone was in my house calling from the other room!
+
+Would I do this all again? **YES**.

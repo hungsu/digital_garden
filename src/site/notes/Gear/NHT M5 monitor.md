@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-05T17:46:10.807-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-20T14:24:05.035-07:00"}
 ---
 
 # NHT M5 Monitor
 
-![20250501 1757 MHT M5.jpg](/img/user/Embeds/20250501%201757%20MHT%20M5.jpg)
+![20250501 1757 NHT M5.jpg](/img/user/Embeds/20250501%201757%20NHT%20M5.jpg)
 
-A passive 3 way [[Unsorted/loudspeaker\|loudspeaker]], which I bought for [[Unsorted/Linus Tech Tips said I should build my own home theatre\|my home theater system]]. It's possibly the best speaker I've ever owned. 
+A passive 3 way [[Unsorted/loudspeaker\|loudspeaker]], which I bought for [[blog/Linus Tech Tips said I should build my own home theatre\|my home theater system]]. It's possibly the best speaker I've ever owned. 
 
 ## Why I went looking for it
 
@@ -37,7 +37,7 @@ Doing a search for "3 way speaker"  on Facebook marketplace yields plenty of res
 
 These designs would surely sound excellent. 3-way designs seem common in older speakers - audio engineers of that age seemed wise. Unfortunately, I needed a much smaller design to use as a center channel.
 
-I switched to searching for "center speaker" for a while, and tried looking for designs that were 3 way. With patience and sheer luck, I spotted the NHT M5  unit, very nearby, for just $80USD. Not really knowing how good a deal this was, I still bought it. Also through sheer luck, the seller had his [[Unsorted/NHT Verve subwoofer\|NHT Verve subwoofer]] for sale, which I happily bought.
+I switched to searching for "center speaker" for a while, and tried looking for designs that were 3 way. With patience and sheer luck, I spotted the NHT M5  unit, very nearby, for just $80USD. Not really knowing how good a deal this was, I still bought it. Also through sheer luck, the seller had his [[Gear/NHT Verve subwoofer\|NHT Verve subwoofer]] for sale, which I happily bought.
 
 ## Why I like the NHT M5 so much
 
