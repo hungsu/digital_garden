@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T15:57:14.712-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T16:00:23.695-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -100,8 +100,9 @@ All together, my setup looks like this:
 
 ![20250820 my home theatre.jpg](/img/user/20250820%20my%20home%20theatre.jpg)
 
-With all this, I've had some unique audio experiences that I don't think I've had before:
+I've worn many headphones, and been to many movie theatres, including IMAX. Even so, with this home theatre, I've had some unique audio experiences that I don't think I've had before:
 - In [[TV/Devil May Cry (2025)\|Devil May Cry]], a tentacle moved across the screen, making squishy wet sounds as it moved. I could hear the sound seemingly coming from the tentacle on screen! This wouldn't be possible on headphones!
 - While watching Last of Us season 2, the therapist character called out from another room, asking if Pedro Pascal wanted a drink. I thought someone was in my house calling from the other room!
+- While watching Mr Holmes, during the night scenes I felt irritated by the sound of countryside buzzing insects. I thought they were real!
 
 Would I do this all again? **YES**.
