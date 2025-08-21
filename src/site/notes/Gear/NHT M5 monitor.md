@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-20T14:24:05.035-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-20T19:25:59.600-07:00"}
 ---
 
 # NHT M5 Monitor
@@ -10,7 +10,7 @@ A passive 3 way [[Unsorted/loudspeaker\|loudspeaker]], which I bought for [[blog
 
 ## Why I went looking for it
 
-Somewhere in my internet travels I came across the idea that the [[Unsorted/center channel speaker\|centre channel]] of a home audio system is the most important (aside from the [[Unsorted/subwoofer\|subwoofer]]) because it plays almost all the most important audio. I heard one recommendation that a centre channel should be effective across the 120–20000Hz range, but particularly in the 120–8000Hz range, which covers most human speech. 
+Somewhere in my internet travels I came across the idea that the [[Unsorted/centre channel speaker\|centre channel]] of a home audio system is the most important (aside from the [[Unsorted/subwoofer\|subwoofer]]) because it plays almost all the most important audio. I heard one recommendation that a centre channel should be effective across the 120–20000Hz range, but particularly in the 120–8000Hz range, which covers most human speech. 
 
 Doing this well requires a variety of drivers. For example, the NHT M5 covers a wide range like so:
 - A 5" woofer to handle 66Hz–380Hz
@@ -45,7 +45,7 @@ This speaker had one vital task - play dialog in movies clearly enough to not re
 
 It's hard for me to describe why the NHT M5 sounds good. Many audio reviewers use a lot of words that also sound like meaningless gibberish to me. What I can say definitively, is that when I hear something from my nameless Onkyo speakers, then the NHT M5, *I always prefer the M5*.
 
-The M5 is so much better than my Onkyo speakers that it has presented me with a problem. When listening to stereo sources such as music, audio only plays through my Onkyo speakers, skipping the M5 speaker entirely. When this happens my setup appears to sound noticeably worse. For these situations I have to remember to use the upmixing feature on my [[Gear/Denon AV receiver\|Denon AV receiver]], which is a free and easy solution until I can spare the budget to buy two more M5s to replace the Onkyos.
+The M5 is so much better than my Onkyo speakers that it has presented me with a problem. When listening to stereo sources such as music, audio only plays through my Onkyo speakers, skipping the M5 speaker entirely. When this happens my setup appears to sound noticeably worse. For these situations I have to remember to use the upmixing feature on my [[Gear/Denon AV receiver\|Denon AV receiver]], which is a free and easy solution until I can spare the budget to buy two more three-way speakers to replace the Onkyos.
 
 ## Other notes
 
