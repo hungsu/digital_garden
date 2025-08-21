@@ -1,11 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,400;0,800;1,400;1,800&family=Alegreya+Sans:ital,wght@0,400;0,800;1,400;1,800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.cm-s-obsidian h1 {
+  font-weight: 700;
+  color: var(--text-title-h1);
+  font-family: var(--font-title);
+  padding-bottom: 7px;
+}
+
+a,
+.external-link,
+.markdown-rendered .internal-link {
+  font-family: var(--font-links);
+  font-variant-ligatures: none;
+  text-decoration: none;
+}
+
+.theme-light a:hover,
+.theme-light .markdown-rendered .internal-link:hover {
+  filter: saturate(30%);
+  filter: brightness(0.6);
+}
+
+.external-link {
+  background-image: none;
+  position: relative;
+  padding-right: 0;
+}
+
+.callout-border-gradient .callout {
+  background-color: transparent !important;
+  border-style: solid;
+  border-width: 1px 1px 1px 0;
+  border-image: linear-gradient(90deg, transparent, rgba(var(--callout-color), 0.25)) 1;
+}
+.callout-border-gradient .callout .callout-icon {
+  padding-right: 10px;
+}
+.callout-border-gradient .callout svg {
+  transform: scale(1.25);
+}
+.callout-border-gradient .callout .callout-title {
+  padding-left: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.callout-border-gradient .callout .callout-content {
+  padding-left: 32px;
+}
+.callout-border-gradient .callout .callout-content p:first-child {
+  margin-top: 0;
+}
+
+.svg-icon.svg-icon.lucide-quote {
+  transform: rotate(180deg) scale(1.25);
+}
+
+.callout-quote-style [data-callout=quote].callout.callout {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 0;
+}
+.callout-quote-style [data-callout=quote].callout.callout .callout-icon {
+  display: none;
+}
+.callout-quote-style [data-callout=quote]::after {
+  font-family: "Times New Roman", "Playfair Display";
+  font-size: 3em;
+  text-align: center;
+  line-height: 1;
+  content: "“";
+  font-weight: 900;
+}
+.callout-quote-style [data-callout=quote] .callout-content.callout-content {
+  padding: 0;
+  font-size: 1.35em;
+  text-align: center;
+  font-weight: 300;
+  font-variant-ligatures: discretionary-ligatures;
+  font-feature-settings: "liga";
+}
+.callout-quote-style [data-callout=quote] .callout-title.callout-title {
+  padding-top: 0;
+  justify-content: center;
+  color: var(--text-normal);
+}
+.callout-quote-style [data-callout=quote] .callout-title.callout-title .callout-title-inner {
+  font-weight: 400;
+}
+.callout-quote-style [data-callout=quote] .callout-title.callout-title::before {
+  content: "―";
+}
+.callout-quote-style [data-callout=quote].is-collapsible .callout-title:hover {
+  cursor: pointer;
+}
+.callout-quote-style [data-callout=quote] .callout-fold {
+  margin-top: 0;
+  transform: scale(0.75);
+}
+.callout-quote-style [data-callout=quote] .callout-fold svg {
+  stroke: var(--text-accent);
+}
 
 body {
+  --table-column-first-border-width: 0;
+  --table-column-last-border-width: 0;
+  --table-header-border-width: 0;
+  --table-row-last-border-width: 0;
   --list-indent: 1em;
   --navbar-height: 69px;
   --font-text-size: 20px;
   --title-weight: 700;
   --font-default: Alegreya Sans;
+  --font-links: "Alegreya Sans SC", "Alegreya Sans", sans-serif;
   --heading-weight: 600;
+  --file-margins: 0; // Padding around the page
+  --link-external-color: #3f9bb7;
 
   .header-actions {
     display: flex;
@@ -78,17 +189,13 @@ body {
       padding: 0 1em;
     }
   }
-  .callout {
-    font-family: 'Spectral', 'Times New Roman', 'serif';
-  }
-  [data-callout="quote"] .callout-content .tag {display:none;}
 }
 
 // at 800px, nav.navbar height changes
 @media (max-width:800px) {
   body {
     --font-text-size: 18px;
-    --file-margins: var(--size-4-4);
+    // --file-margins: var(--size-4-4);
     --navbar-height: 3.3rem;
     .filetree-sidebar {
       padding: 0 0.3rem;
