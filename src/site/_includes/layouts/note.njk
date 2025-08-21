@@ -74,7 +74,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/linkPreview.njk"%}
     {% endif %}
     {% include "components/references.njk" %}
-    {% include "components/timestamps.njk" %}
     {% for imp in dynamics.common.footer %}
       {% include imp %}
     {% endfor %}
