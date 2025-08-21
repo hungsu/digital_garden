@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","tags":["🌱","claim"],"updated":"2023-06-02T19:42:21.504-07:00"}
+{"dg-publish":true,"permalink":"/claims/you-should-link-your-notes/","updated":"2025-08-21T01:57:05.114-07:00"}
 ---
 
 
 # You should link your notes
 
 > [!quote] [[Unsorted/Howard Bloom\|Howard Bloom]] via [[Farnam Street\|Farnam Street]]
-> It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness. #quote
+> It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness.
 
 You probably write a lot of notes already, and already have [[Unsorted/Reasons to write notes\|Reasons to write notes]]. What might not be so obvious is why you should link your notes together. Maybe you've seen a lot of hype about Roam Research, Zettelkasten, Obsidian and don't get why. Here are the reasons I link my notes, regardless of app.
 
@@ -40,6 +40,6 @@ Many of us have had the feeling of thinking of the perfect punchline long after 
 
 In my [[Unsorted/Daily Note\|Journal]], I would write about the daily goings on, and in each snippet I would link to things. That could be something totally mundane, like:
 
-> [[Mr Smith\|Mr Smith]] helped [[Mr White\|Mr White]] with the  [[Deployment\|Deployment]] of [[Our secret app\|Our secret app]].
+> *Mr Smith* helped *Mr White* with the  *deployment* of *Our secret app*.
 
 I have written thousands of these little notes, as they happen. Later, when asked about what a person had done, I could use these links to remember what had happened, even better than that person could themselves. This gives the impression of truly superhuman memory, memory that can't be reproduced by a flesh brain. 
