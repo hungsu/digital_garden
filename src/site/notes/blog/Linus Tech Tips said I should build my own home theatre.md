@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T19:23:10.279-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T22:53:08.316-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -78,17 +78,17 @@ Space is a huge cost I didn't think about. The speakers and receiver and subwoof
 - A huge spool of  speaker wire that in all likelihood, I will never use
 
 ## The end result - they sound great
-
+Even with all the extra challenges of buying second hand, I'm extremely please with the result.
 
 The star of the show is the [[Gear/NHT M5 monitor\|NHT M5 monitor]], which I'm using as a [[Unsorted/centre channel speaker\|centre channel speaker]].
 
 ![20250501 1757 NHT M5.jpg](/img/user/Embeds/20250501%201757%20NHT%20M5.jpg)
 
-The next star is the subwoofer, a [[Gear/NHT Verve subwoofer\|NHT Verve subwoofer]]
+The next star is the subwoofer, a [[Gear/NHT Verve subwoofer\|NHT Verve subwoofer]] with two 10 inch woofers.
 
 ![20250820 NHT Verve subwoofer.jpg](/img/user/20250820%20NHT%20Verve%20subwoofer.jpg)
 
-Then there's the receiver, a [[Gear/Denon AV receiver\|Denon AV receiver]].
+Then there's the receiver, a [[Gear/Denon AVR-S510BT receiver\|Denon AVR-S510BT receiver]].
 
 ![EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg](/img/user/EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg)
 
