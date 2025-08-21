@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/digital-garden-plugin/","updated":"2025-05-18T16:04:33.046-07:00"}
+{"dg-publish":true,"permalink":"/digital/digital-garden-plugin/","updated":"2025-08-20T23:52:51.498-07:00"}
 ---
 
 
@@ -19,7 +19,6 @@ It has some disadvantages:
 - [[Unsorted/WebP\|WebP]] images do not work.
 - Note titles are always from the filename. I often want to set my titles in the note, because filenames have character restrictions such as no question marks.
 - Tags are a bit weird. Clicking a tag takes you to the search window with the tag prepopulated. I'd prefer a tag page! Thankfully, this is very easy to do myself.  
-- No RSS - this is something I might make myself
 - The page templates have poor web performance. Their [[Digital/PageSpeed Insights\|PageSpeed Insights]] score is just [37/100](https://pagespeed.web.dev/report?url=https%3A%2F%2Fdg-docs.ole.dev%2Fadvanced%2Fadding-custom-components%2F) as a result of enormous CSS and JS files.
 
 ## Software engineering details
