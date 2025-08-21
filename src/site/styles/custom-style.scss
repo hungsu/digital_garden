@@ -228,6 +228,13 @@ body {
   top: 177px;
   @media (max-width: 1400px) {
     top: 0;
+    right: 0;
+  }
+}
+
+@media (max-width: 800px) {  
+  .cm-s-obsidian {
+    padding: 0 1rem;
   }
 }
 
