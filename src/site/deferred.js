@@ -1,5 +1,3 @@
-<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
-<script>
     // Create callout icons
     window.addEventListener("load", () => {
         document.querySelectorAll(".callout").forEach((elem) => {
@@ -34,4 +32,3 @@
             });
         });
     });
-</script>
