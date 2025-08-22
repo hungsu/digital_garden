@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-20T22:53:08.251-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-m5-monitor/","updated":"2025-08-21T02:14:24.714-07:00"}
 ---
 
 # NHT M5 Monitor
@@ -19,7 +19,7 @@ Doing this well requires a variety of drivers. For example, the NHT M5 covers a 
 
 If you were to make or buy a speaker without a variety of drivers, such as only 3" drivers, it would find itself utterly unable to represent all ranges. Unfortunately, many cheap speakers, and even some expensive ones, are guilty of this.
 
-![1-way design.jpg](/img/user/1-way%20design.jpg)
+![1-way design.jpg](/img/user/Embeds/1-way%20design.jpg)
 This promotional poster triumphantly shows a speaker design with 4 drivers that are all the same size. This speaker is marketed as having Dolby Atmos for movies. Without even hearing it myself, I know it would sound awful, being utterly unable to represent low notes and high notes.
 
 Thus I went hunting for a high quality 3 way speaker: one robust box with at least 3 different sized drivers.

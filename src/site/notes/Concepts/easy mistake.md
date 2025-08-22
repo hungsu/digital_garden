@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/easy-mistake/","updated":"2025-05-31T09:42:23.855-07:00"}
+{"dg-publish":true,"permalink":"/concepts/easy-mistake/","updated":"2025-08-21T11:08:35.602-07:00"}
 ---
 
 # Easy mistake
 
-> [!warning]
+> [!warning] Don't call them rookie mistakes or stupid mistakes
 > Calling people out for "stupid mistakes" or "rookie mistakes" tends to result in people getting defensive, then concealing their mistakes instead of fixing them. Thus it is advisable to use the term *Easy Mistake*.
 
 Unlike the many other kinds of mistake, a *easy mistake* is one that is:
@@ -34,7 +34,7 @@ Some people refuse to do drills that could improve their easy mistakes because t
 
 ## Fixing easy mistakes improves skill dramatically
 
-Easy mistakes are frequent amongst almost all skill practitioners, usually even up to 90th percentile. Thus, identifying and fixing stupid mistakes is among the simplest and most important methods for [[Unsorted/becoming top percentile\|becoming top percentile]]. Some examples of rapid skill ascent from fixing easy mistakes:
+Easy mistakes are frequent amongst almost all skill practitioners, usually even up to 90th percentile. Thus, identifying and fixing stupid mistakes is among the simplest and most important methods for becoming [[Unsorted/top percentile\|top percentile]]. Some examples of rapid skill ascent from fixing easy mistakes:
 
 - In [[Unsorted/Chess\|chess]], using a blunder trainer can typically improve [[Unsorted/skill ranking\|ELO]] by a few hundred in a few months
 - In [[Videogames/Brotato\|Brotato]], identifying my game-losing item choices took me from frustratedly losing Danger 5 to winning easily.

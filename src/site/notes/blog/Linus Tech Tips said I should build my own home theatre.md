@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-20T22:53:08.316-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-21T13:24:15.316-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
-<p style="text-align:center">So I did. It cost more than I thought.</p>
+<p style="text-align:center"><i>So I did. It cost more than I thought.</i></p>
 
 Movie nights at our place were frequently troublesome. Without fail people would say:
 - Can we turn on subtitles?
