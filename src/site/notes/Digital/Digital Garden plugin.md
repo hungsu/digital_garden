@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/digital-garden-plugin/","updated":"2025-08-20T23:52:51.498-07:00"}
+{"dg-publish":true,"permalink":"/digital/digital-garden-plugin/","updated":"2025-08-21T00:03:42.978-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Official [website](https://dg-docs.ole.dev/) and [Github](https://github.com/oleeskild/obsidian-digital-garden)
 
-An Obsidian plugin that creates a website (or [[Concepts/digital garden\|digital garden]]) from your Obsidian notes. Has many advantages:
+An Obsidian plugin that creates a website (or [[Concepts/digital garden\|digital garden]]) from your [[Digital/Obsidian\|Obsidian]] notes. Has many advantages:
 
 - No additional files needed in your vault
 - Very few changes needed in your Obsidian files
