@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-09-18T23:09:43.282-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-09-18T23:12:19.514-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -105,3 +105,5 @@ I've worn many headphones, and been to many movie theatres, including IMAX. Even
 - While watching Mr Holmes, during the night scenes I felt irritated by the sound of countryside buzzing insects. I thought they were real!
 
 Would I do this all again? **YES**.
+
+That said, I still clamour for more. The Onkyo left and right speakers sound far worse than the centre, so I'm already hungering for potential replacements...

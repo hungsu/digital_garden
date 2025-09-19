@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/gear/denon-avr-s510-bt-receiver/","updated":"2025-08-20T23:07:59.452-07:00"}
+{"dg-publish":true,"permalink":"/gear/denon-avr-s510-bt-receiver/","updated":"2025-09-09T12:16:28.789-07:00"}
 ---
 
 ![EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg](/img/user/EL_avrs510bt_e3_bk_fr_DNTXILrzxcrpcc.jpg)
 # Denon AVR-S510BT receiver
 
 My third [[Unsorted/AV receiver\|AV receiver]], and the first that works.
+
+I have it connected to these sources: [[Gear/Nvidia Shield Pro\|Nvidia Shield Pro]] and [[Gear/6700XT\|6700XT]]
+
+And these outputs: [[Gear/NHT Verve subwoofer\|NHT Verve subwoofer]]
 
 A few key features motivated me to choose this:
 - Supports 4K@60Hz! On only 3 ports (3, 4, 5), but that's more than I need

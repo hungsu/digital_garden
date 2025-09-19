@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-verve-subwoofer/","updated":"2025-08-20T23:48:22.695-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-verve-subwoofer/","updated":"2025-09-18T23:11:37.419-07:00"}
 ---
 
 
@@ -19,8 +19,8 @@ It has these curious specifications:
 
 I have generally been impressed by this subwoofer. Most subwoofers people show me are too loud, and sound like mud to me. This is the first subwoofer I've owned where I've sought out a variety of bass sounds to see what it could reproduce, such as:
 
-- the MANY bass sounds in [[Movies/Dune Part 2 (2024)\|Dune Part 2 (2024)]]
-- the helicopters in Michael Bay's [[Movies/Transformers (2007)\|Transformers (2007)]]
+- the MANY bass sounds in [[Movies/Dune Part 2 (2024)\|Dune Part 2 (2024)]].
+- the helicopters in Michael Bay's [[Movies/Transformers (2007)\|Transformers (2007)]].
 
 For those who like audiophile jargon, the following snippets from Sound & Vision might be of interest:
 
