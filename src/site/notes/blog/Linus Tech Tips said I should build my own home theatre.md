@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-08-31T08:22:35.227-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-09-18T23:09:43.282-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -65,22 +65,17 @@ Then there's the wasted money - the above is around $100 of gear that didn't wor
 | $50     | Denon receiver                        |
 | $375.10 | Total                                 |
 
-Of all this, $146.51 was total waste. But even at $375.10, I'm still much happier with my final setup than an off-the-shelf soundbar - it just wasn't as cheap as I thought it would be.
+Of all this, around $126 was total waste. But even at $375.10, I'm still much happier with my final setup than an off-the-shelf soundbar - it just wasn't as cheap as I thought it would be.
 
 ## Home theatres take a lot of space
 
-Space is a huge cost I didn't think about. The speakers, receiver, and subwoofer take up quite a lot of space. I had enough room, but my wife did comment on the floor space she lost to the subwoofer, and space she lost on the entertainment unit to the receiver and speakers.
+Space is a huge cost I didn't think about. The speakers, receiver, and subwoofer take up quite a lot of space. I had enough room, but my wife did comment on the floor space she lost to the subwoofer, and space she lost on the entertainment unit to the receiver and speakers, so she can no longer place her pretty plants there.
 
-In addition, I have a lot of leftover junk and parts from the ordeal consuming space in my garage:
-- Defective Onkyo receiver
-- Onkyo center channel
-- Onkyo surrounds
-- Defective Onkyo subwoofer
-- Defective Yamaha receiver
-- A huge spool of  speaker wire that in all likelihood, I will never use
+I also have a huge spool of  speaker wire that in all likelihood, I will never use, just taking up space in the garage.
 
 ## The end result - they sound great and cost less than new
-Even with all the extra challenges of buying second hand, I'm extremely please with the result.
+
+Even with all the extra challenges of buying second hand, I'm extremely pleased with the result.
 
 The star of the show is the [[Gear/NHT M5 monitor\|NHT M5 monitor]], which I'm using as a [[Unsorted/centre channel speaker\|centre channel speaker]].
 
