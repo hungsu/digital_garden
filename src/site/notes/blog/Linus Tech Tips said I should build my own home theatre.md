@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-09-18T23:12:19.514-07:00"}
+{"dg-publish":true,"permalink":"/blog/linus-tech-tips-said-i-should-build-my-own-home-theatre/","updated":"2025-09-18T23:33:25.659-07:00"}
 ---
 
 # Linus Tech Tips said I should build my own home theatre
@@ -77,7 +77,7 @@ I also have a huge spool of  speaker wire that in all likelihood, I will never u
 
 Even with all the extra challenges of buying second hand, I'm extremely pleased with the result.
 
-The star of the show is the [[Gear/NHT M5 monitor\|NHT M5 monitor]], which I'm using as a [[Unsorted/centre channel speaker\|centre channel speaker]].
+The star of the show is the [[Gear/NHT M5 monitor\|NHT M5 monitor]], which I'm using as a centre channel speaker.
 
 ![20250501 1757 NHT M5.jpg](/img/user/Embeds/20250501%201757%20NHT%20M5.jpg)
 
