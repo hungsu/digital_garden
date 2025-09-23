@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-07-02T21:32:45.213-07:00"}
+{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-09-22T20:13:20.711-07:00"}
 ---
 
 ![trimui-smart-pro.jpg](/img/user/Embeds/trimui-smart-pro.jpg)
@@ -15,10 +15,9 @@ It's a little smaller than [[Gear/Nintendo Switch\|Nintendo Switch]] and a littl
 
 Of all the cheap handhelds of 2024, this has the biggest and best screen: 4.96" 1280 × 720p. This is perhaps a bit of a waste since this device is intended to play classic games that have a 4:3 ratio, but I have also enjoyed playing some newer widescreen games on it such as [[Videogames/Dust an Elysian Tale\|Dust: An Elysian Tale]] and [[Videogames/Balatro (2024)\|Balatro (2024)]].
 
-The *Allwinner A133P 1.8GHz CPU* is a bit of a problem. This unusual CPU is so odd that the company Allwinner has not provided 32bit binaries for it. This means many Portmaster games do not work on it.
+The *Allwinner A133P 1.8GHz CPU* is a bit of a problem. This unusual [[Unsorted/ARM architecture\|ARM architecture]] CPU is so odd that the company Allwinner has not provided 32bit binaries for it. This means many Portmaster games do not work on it.
 
 Has quite meagre specifications:
-- 
 - 1GB DDR4 RAM. Together these have prevented me from running more demanding emulators and games, such as Hyper Light Drifter and a lot of Nintendo 64 games like Super Smash Bros 64.
 - 5000mAh battery, which lasts me around 2 hours
 
