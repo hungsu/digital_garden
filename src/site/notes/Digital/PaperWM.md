@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital/paper-wm/","updated":"2025-09-24T23:01:07.812-07:00"}
+{"dg-publish":true,"permalink":"/digital/paper-wm/","updated":"2025-09-25T09:54:43.315-07:00"}
 ---
 
 <iframe
@@ -11,6 +11,7 @@
   allowfullscreen
   frameborder="0"
 ></iframe>
+
 # Paper WM
 
 A [[Concepts/scrollable tiling window manager\|scrollable tiling window manager]] layer on top of [[Digital/GNOME\|GNOME]]. Every app you open takes the full height of your screen, and is placed in a single row without overlapping any other apps. If your screen runs out of room, apps go off the edge of the screen, and can still be reached by scrolling or with keyboard shortcuts.
@@ -23,9 +24,8 @@ PaperWM is written using [[Unsorted/JavaScript\|JavaScript]]. Its open source an
 
 ## Other people's thoughts
 
-[2020-Nov](https://itsfoss.com/paperwm/) It's Foss
+[[People/Julia Evans\|Julia Evans]] wrote a [piece](https://jvns.ca/blog/2020/01/05/paperwm/) in 2020: "I’ve been using PaperWM for 6 months on a laptop and I really like it! I also really appreciate that even though it’s configurable (by writing a Javascript configuration file), it does the things I want out of the box without me having to research how to configure it."
 
-[[Julia Evans\|Julia Evans]] wrote a [piece](https://jvns.ca/blog/2020/01/05/paperwm/) in 2020: "I’ve been using PaperWM for 6 months on a laptop and I really like it! I also really appreciate that even though it’s configurable (by writing a Javascript configuration file), it does the things I want out of the box without me having to research how to configure it."
+In [2020-Nov](https://itsfoss.com/paperwm/),  It's Foss compared it to Material Shell and [Regolith](https://regolith-linux.org/).
 
-[[Unsorted/CardboardWM\|CardboardWM]] and EndlessWM are similar
-https://news.ycombinator.com/item?id=30402358#30447391
+[CardboardWM](https://www.ctrl.blog/entry/cardboardwm.html) and [EndlessWM](https://github.com/peterfajdiga/EndlessWM) are similar, but both are abandoned.
