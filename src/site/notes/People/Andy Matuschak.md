@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/andy-matuschak/","title":"Andy Matuschak","tags":["🌲"],"updated":"2023-02-20T12:44:12.186-08:00"}
+{"dg-publish":true,"permalink":"/people/andy-matuschak/","title":"Andy Matuschak","tags":["🌲"],"updated":"2023-02-20T12:44:12.187-08:00"}
 ---
 
 
