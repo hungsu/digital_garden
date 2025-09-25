@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital/gnome/","updated":"2025-09-22T18:38:55.815-07:00"}
+{"dg-publish":true,"permalink":"/digital/gnome/","updated":"2025-09-23T21:22:41.433-07:00"}
 ---
+
+# GNOME
 
 A [[linux desktop environment\|linux desktop environment]] that seems to gather strong opinions.
 
