@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020","updated":"2025-09-24T22:52:21.347-07:00"}
+{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020","updated":"2025-09-25T09:55:20.302-07:00"}
 ---
 
+
+# My experience with Ubuntu in 2020
 
 On 2020-November-10, I installed Ubuntu 18.04 on my [[Gear/my computer\|my computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
 
 ## Things I liked and will miss
 
-1. Linux window management is excellent, marvelous even. By combining GNOME with [PaperWM](https://github.com/paperwm/PaperWM), I've no need for multiple monitors at all. MacOS and Windows application management that floats and overlaps windows by default feels prehistoric and wrong. I miss this so much that I will be looking into writing something similar for Windows.
+1. Linux window management is excellent, marvelous even. By combining [[Digital/GNOME\|GNOME]] with [[Digital/PaperWM\|PaperWM]], I've no need for multiple monitors at all. MacOS and Windows application management that floats and overlaps windows by default feels prehistoric and wrong. I miss this so much that I will be looking into writing something similar for Windows.
 2. It runs entirely off a USB drive! Windows absolutely refused to be installed on a USB drive.
 3. No forced updates. Windows is notorious for forcing updates even during user activity. Under Linux I can rest well knowing that updates are fully under my control.
 4. I like the lack of bloatware. I really don't appreciate the default installation of Cortana, Candy Crush and many other rubbish apps in Windows.
