@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020","updated":"2024-10-18T12:06:32.000-07:00"}
+{"dg-publish":true,"permalink":"/blog/my-experience-with-ubuntu-in-2020/","title":"My experience with Ubuntu in 2020","updated":"2025-09-24T22:52:21.347-07:00"}
 ---
 
 
-On 2020-November-10, I installed [[Unsorted/Ubuntu\|Ubuntu]] 18.04 on my [[Gear/my computer\|my computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
+On 2020-November-10, I installed Ubuntu 18.04 on my [[Gear/my computer\|my computer]]. As of 2021-January-01, I've decided to retire it, though I did enjoy the experiment.
 
 ## Things I liked and will miss
 
