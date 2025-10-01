@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/videogames/the-spell-brigade/","updated":"2025-09-30T11:40:05.082-07:00"}
+{"dg-publish":true,"permalink":"/videogames/the-spell-brigade/","updated":"2025-09-30T13:59:37.708-07:00"}
 ---
 
 # The Spell Brigade
+
+One of [[My favourite things of 2025\|My favourite things of 2025]]!
 
 In their words:
 
