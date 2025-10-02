@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T15:45:15.158-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T17:18:42.604-07:00"}
 ---
 
 ![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg)
 # Paikesi
 
-My first folding [[Unsorted/Bicycle\|bike]], bought from a bike store in Makati, Philippines for a mere $503.92USD in 2024.
+My first folding bike, bought from a bike store in Makati, Philippines for a mere $503.92USD in 2024.
 
 ![20241107_1506 Pikes bike shopping cart mode.jpg](/img/user/Embeds/20241107_1506%20Pikes%20bike%20shopping%20cart%20mode.jpg)
 
@@ -17,13 +17,13 @@ The company is Indonesian, but their [website](https://www.elementbike.id/) does
 
 ## Parts and specs
 
-Came with a [[Unsorted/Brompton block\|Brompton block]] on the front already.
+
 
 ### Drivetrain
 
-[[Unsorted/chainring\|chainring]] is 5 bolts in a 130mm bolt circle diameter, or 130BCD. Originally came with 45T chainring, mine has since swapped to 38T.
+The chainring is 5 bolts in a 130mm bolt circle diameter, or 130BCD. Originally came with 45T chainring, which I've since swapped to 38T to make hill climbing easier, but also reduces my top speed.
 
-Has a [[Unsorted/Sturmey Archer SRF3\|Sturmey Archer SRF3]] internal gear hub , controlled by thumb shifter on right handle:
+Has a [[Gear/Sturmey Archer SRF3\|Sturmey Archer SRF3]] internal gear hub , controlled by thumb shifter on right handle:
 - Gear 1 75%
 - Gear 2 100%
 - Gear 3 133%
