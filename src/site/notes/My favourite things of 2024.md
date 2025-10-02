@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/","updated":"2025-08-31T19:19:18.974-07:00"}
+{"dg-publish":true,"permalink":"/my-favourite-things-of-2024/","updated":"2025-10-01T18:19:05.573-07:00"}
 ---
 
 # My favourite things of 2024
@@ -14,7 +14,7 @@ These are physical items I bought or were given in 2024 that I've really enjoyed
 |                                                                                                                                                      |                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | ![beryl-travel-router.png](/img/user/Embeds/beryl-travel-router.png) [[Gear/Beryl AX WiFi 6 Travel Router\|Beryl AX WiFi 6 Travel Router]]                                                                                       | ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721716961/viture-one_oj8vvl.jpg) [[Gear/Viture One\|Viture One wearable display]] |
-| [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                                                                                                               | [[Gear/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                |
+| ![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg) <br> [[Gear/Pikes trifold bike\|Pikes trifold bike]]                                                                                        | [[Gear/DJI Osmo Pocket 3\|DJI Osmo Pocket 3]]                                                                                                                |
 | ![Hugh Leverpresso, held in one hand](https://res.cloudinary.com/didjqvf50/image/upload/v1721271111/leverpresso_jgma4g.png)<br> [[Gear/Hugh Leverpresso\|Hugh Leverpresso]] | ![minisforum-bd790i.png](/img/user/Embeds/minisforum-bd790i.png) [[Gear/MINISFORUM BD790i SE Mini-ITX motherboard\|MINISFORUM BD790i SE Mini-ITX motherboard]]                                                             |
 | [[Gear/Bellroy totepack\|Bellroy totepack]]                                                                                                                                 | [[Gear/TrimUI Smart Pro\|TrimUI Smart Pro]]                                                                                                                 |
 
