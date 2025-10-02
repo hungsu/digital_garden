@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T18:07:53.381-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T18:11:07.058-07:00"}
 ---
 
 ![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg)
@@ -49,7 +49,7 @@ Removing the rear wheel is complex because of the internal gear hub. My local bi
 
 Bromptons and Brompton-clones have a thriving and active community of aftermarket parts.
 
-![](https://youtu.be/oGDUWOPtujs?si=01MYim8yXMlTAHSZ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGDUWOPtujs?si=A0buQhC7nqjCi2Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%;height: auto;aspect-ratio: 16 / 9"></iframe>
 This person heavily modified their Pikes Gen 4, with many titanium and leather parts.
 
 I have 64mm [rollerblade wheels](https://www.amazon.com/dp/B0B6ZYXW2C) installed on the back of mine. They were extremely affordable and easy to install.
