@@ -1,15 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/gear/minisforum-bd-790i-se-mini-itx-motherboard/","updated":"2025-09-09T17:01:58.573-07:00"}
+{"dg-publish":true,"permalink":"/gear/minisforum-bd-790i-se-mini-itx-motherboard/","updated":"2025-10-01T18:32:41.847-07:00"}
 ---
 
 # MINISFORUM mini-ITX motherboard
 ![minisforum-bd790i.png](/img/user/Embeds/minisforum-bd790i.png)
 
+A mini-ITX motherboard + CPU + cooler combo that is installed in [[Gear/my computer\|my computer]]. 
+
+## It is the most powerful CPU I've ever owned
+
+It has the most power x86 CPU I've ever owned, the [Ryzen 9 7940HX](https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hx.html). Has sixteen [Zen 4]() CPU cores, 32 threads on a 5nm process. In [benchmarks](https://www.cpubenchmark.net/compare/5317vs5882vs6598/Intel-i7-1355U-vs-AMD-Ryzen-9-7940HX-vs-AMD-RYZEN-AI-MAX-390-w-Radeon-8050S), it holds up very well against my other CPU, the Intel 1355U, and even against a loved and newer CPU, the Ryzen AI Max 390. 
+
+## It's wonderfully convenient
+
 This motherboard, and this category of motherboards, has totally changed how I think of [[Unsorted/How to build a computer\|PC building]]. It combines what is usually 3 separate components into one:
 - CPU
-	- Mine is [Ryzen 9 7940HX](https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hx.html). Has sixteen [Zen 4]() CPU cores, 32 threads on a 5nm process.
 - motherboard
 - CPU heatsink
+
+Combining those three steps into one removes a common failure point I have in PC builds - sometimes CPU and heatsink installation can fail in subtle or not so subtle ways.
 
 This leaves just a few steps to finish a PC build:
 - case - usually an easy choice, just pick one you happen to like and will fit your GPU of choice. Mine is a [[Unsorted/Louqe Ghost S1\|Louqe Ghost S1]].
@@ -19,7 +28,7 @@ This leaves just a few steps to finish a PC build:
 - An SSD. There are many "best SSD" guides, such as [this one from Tom's Hardware](https://www.tomshardware.com/reviews/best-ssds,3891.html), that make this easy.
 - optionally a video card. Unfortunately a fairly difficult choice you will still have to make. You can go without, which may give the advantage of making it simpler to connect this to an external dock. But the onboard 610M is awful for any games.
 
-I will very likely be using only this type of motherboard for my gaming PCs in future. The CPU performance is excellent and I greatly appreciated the ease of building.
+I will very likely be using only this type of motherboard for my gaming PCs in future. The CPU performance is excellent and I greatly appreciated the ease of building. Minisforum have since released an [X3D version](https://store.minisforum.com/products/minisforum-bd790i-x3d) that I look forward to try if this one should die on me.
 
 ## Technical things of note
 
