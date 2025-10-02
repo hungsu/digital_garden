@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T17:18:42.604-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T17:31:50.254-07:00"}
 ---
 
 ![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg)
@@ -13,7 +13,7 @@ I bought it primarily for this "shopping cart" mode. I regularly ride mine to th
 
 This bike is a clone of a popular folding bike, the Brompton. It has a number of difference from Bromptons, including one advantage you can see in the above photo - the "shopping cart" mode can be done with one fold or two. Bromptons require two folds.
 
-The company is Indonesian, but their [website](https://www.elementbike.id/) doesn't seem to have this bike listed anymore.
+The company is Indonesian, but their [website](https://www.elementbike.id/) doesn't seem to have this bike listed anymore. It appears to be a popular bike in the Philippines, where there are [many](https://www.youtube.com/watch?v=D9ZE9XZM94U) reviews, and a [Facebook group](https://www.facebook.com/groups/2852663824947714).
 
 ## Parts and specs
 
@@ -43,30 +43,15 @@ Unlike Brompton, I have to use [bike tubes with long valves](https://www.schwalb
 
 The rear wheel fork has a space for a plastic pump, but I've removed this pump because it doesn't work very well.
 
-Removing the rear wheel is complex because of the internal gear hub. My local bike shop charges me $40USD to remove the wheel and replace the tube, and that's with me supplying the tube.
+Removing the rear wheel is complex because of the internal gear hub. My local bike shop charges me $40USD to remove the wheel and replace the tube, not including the cost of the tube.
 
-## Other thoughts
+## Upgrade culture
+
+Bromptons and Brompton-clones have a thriving and active community of aftermarket parts.
 
 ![](https://youtu.be/oGDUWOPtujs?si=01MYim8yXMlTAHSZ)
-This person heavily modified their Pikes Gen 4, with many titanium and Aceoffix parts.
+This person heavily modified their Pikes Gen 4, with many titanium and leather parts.
 
-same person did initial impression 2022 june, but it appears to already have some modifications https://youtu.be/cNItTkfxBqo?si=OlSY4zpLLiz1VQAO 
+I have [rollerblade wheels](https://www.amazon.com/dp/B0B6ZYXW2C) installed on the back of mine. They were extremely affordable and easy to install.
 
 This [2019 forum thread](https://www.bikeforums.net/folding-bikes/1186639-brompton-style-indonesia-united-trifold-element-pikes.html ) seems to have lots of info
-
-https://www.reddit.com/r/Brompton/comments/r6agcs/i_need_some_perspective_on_the_clones/
-
-
-
-
-
-Wheel extender
-https://www.etsy.com/listing/1485912298/easy-wheel-extender-for-brompton-folding?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=brompton&ref=sr_gallery-2-19&frs=1&search_preloaded_img=1&organic_search_click=1
-
-Can be made into a [[Unsorted/DIY ebike\|DIY ebike]], but this costs more than an entire ebike:
-
-
-
-This filipino guy did a review in tagalog https://www.youtube.com/watch?v=D9ZE9XZM94U
-
-[yearBought::2024]
