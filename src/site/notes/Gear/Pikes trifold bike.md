@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T17:31:50.254-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T18:07:53.381-07:00"}
 ---
 
 ![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg)
 # Paikesi
 
-My first folding bike, bought from a bike store in Makati, Philippines for a mere $503.92USD in 2024.
+My first folding bike, bought new from a bike store in Makati, Philippines for a mere $503.92USD in 2024. It's a clone of a popular folding bike, the Brompton, which sells for around $1800 to $3500 new.
 
 ![20241107_1506 Pikes bike shopping cart mode.jpg](/img/user/Embeds/20241107_1506%20Pikes%20bike%20shopping%20cart%20mode.jpg)
 
 I bought it primarily for this "shopping cart" mode. I regularly ride mine to the nearby supermarket, with a basket mounted to the front to carry groceries. It turns heads almost every single time I go there.
 
-This bike is a clone of a popular folding bike, the Brompton. It has a number of difference from Bromptons, including one advantage you can see in the above photo - the "shopping cart" mode can be done with one fold or two. Bromptons require two folds.
+It has a number of difference from Bromptons, including one advantage you can see in the above photo - the "shopping cart" mode can be done by folding just the rear wheel inward.. Bromptons require an additional fold of the front wheel, because the unfolded front wheel collides with the rear wheel.
 
 The company is Indonesian, but their [website](https://www.elementbike.id/) doesn't seem to have this bike listed anymore. It appears to be a popular bike in the Philippines, where there are [many](https://www.youtube.com/watch?v=D9ZE9XZM94U) reviews, and a [Facebook group](https://www.facebook.com/groups/2852663824947714).
 
@@ -52,6 +52,6 @@ Bromptons and Brompton-clones have a thriving and active community of aftermarke
 ![](https://youtu.be/oGDUWOPtujs?si=01MYim8yXMlTAHSZ)
 This person heavily modified their Pikes Gen 4, with many titanium and leather parts.
 
-I have [rollerblade wheels](https://www.amazon.com/dp/B0B6ZYXW2C) installed on the back of mine. They were extremely affordable and easy to install.
+I have 64mm [rollerblade wheels](https://www.amazon.com/dp/B0B6ZYXW2C) installed on the back of mine. They were extremely affordable and easy to install.
 
 This [2019 forum thread](https://www.bikeforums.net/folding-bikes/1186639-brompton-style-indonesia-united-trifold-element-pikes.html ) seems to have lots of info
