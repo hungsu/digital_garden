@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/viture-one/","updated":"2025-09-02T23:49:02.455-07:00"}
+{"dg-publish":true,"permalink":"/gear/viture-one/","updated":"2025-10-01T18:23:49.651-07:00"}
 ---
 
 ![](https://res.cloudinary.com/didjqvf50/image/upload/v1721716961/viture-one_oj8vvl.jpg)
@@ -7,8 +7,6 @@
 # Viture One
 
 A wearable 1080P display with built in speakers, in the form of a large pair of eyeglasses. I used to own a laptop-sized portable monitor, but the Viture works so well, I gave the monitor away.
-
-It plugs into a [[0.NoScreenShare/Lenovo Flex 7\|laptop]] or some Android smartphones, such as my [[Gear/Samsung Galaxy S22\|Samsung Galaxy S22]]. It can work with a Nintendo Switch when using a dongle. Alas, it doesn't work with my wife's Pixel 7, or any phone that can't display video over USB-C.
 
 ## Unbeatable private and portable movie experience for planes
 
@@ -34,10 +32,17 @@ In some situations the little speakers can be annoying. For instance, in my quie
 
 When using it in its standard mode, where it displays a screen all the time, moving my head while focusing on the display can give me noticeable motion sickness. I've learned to focus on the real world when moving my head.
 
-## It's not so good for heavy writing or coding.
+## It works on many, but not all devices with USB-C
 
-I have had mixed success using this for productive activity like coding. Unfortunately, something about the mirrors/lenses of this device mean it can be difficult to display text clearly, particularly towards the edges. Sometimes I am able to wear the device at just the right angle where I can read everything, but this is very fussy.
+It plugs into many [[0.NoScreenShare/Lenovo Flex 7\|laptops]], gaming handhelds, and some some Android smartphones, such as my [[Gear/Samsung Galaxy S22\|Samsung Galaxy S22]]. It can work with a Nintendo Switch when using a dongle. Alas, it doesn't work with my wife's Pixel 7, or any phone that can't display video over USB-C.
 
+## It lacks HDR and is only 60Hz
+
+This is unfortunate, as the blacks are quite excellent, and using it's clear enough for most games.
+
+## It's not so good for heavy read, writing, or coding.
+
+I have had mixed success using this for productive activity like coding. Unfortunately, something about the mirrors/lenses of this device mean it can be difficult to display fine text clearly, particularly towards the edges. For example, in the bottom right corner of Obsidian is very small text "20 backlinks" or "525 words", which can be hard to read. Sometimes I am able to wear the device at just the right angle where I can read everything, but this is very fussy.
 
 
 This thing is one of my near essentials, and I bring it with me on all flights, and most coffee-shop trips.
