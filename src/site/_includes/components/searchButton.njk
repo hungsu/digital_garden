@@ -1,49 +1,46 @@
 <div class="header-actions">
-
-<button class="search-button" onclick="toggleSearch()">
-    <i icon-name="search" ></i>
-</button>
-
-
-<button id="theme-toggle" class="button-dark-mode" aria-label="Toggle dark mode">
-        <div class="icon"></div>
-</button>
+	<button class="search-button" onclick="toggleSearch()">
+		<i icon-name="search" ></i>
+	</button>
+	<button id="theme-toggle" class="button-dark-mode" aria-label="Toggle dark mode">
+		<div class="icon"></div>
+	</button>
 </div>
 <script>
 function applyTheme(theme) {
-    const body = document.body;
-    if (theme === 'dark') {
-        body.classList.add('theme-dark');
-        body.classList.remove('theme-light');
-    } else {
-        body.classList.add('theme-light');
-        body.classList.remove('theme-dark');
-    }
+	const body = document.body;
+	if (theme === 'dark') {
+		body.classList.add('theme-dark');
+		body.classList.remove('theme-light');
+	} else {
+		body.classList.add('theme-light');
+		body.classList.remove('theme-dark');
+	}
 }
 
 function getSystemTheme() {
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+	return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 }
 
 function getSavedTheme() {
-    return localStorage.getItem('theme');
+	return localStorage.getItem('theme');
 }
 
 function saveTheme(theme) {
-    localStorage.setItem('theme', theme);
+	localStorage.setItem('theme', theme);
 }
 
 function initTheme() {
-    const saved = getSavedTheme();
-    const theme = saved || getSystemTheme();
-    applyTheme(theme);
+	const saved = getSavedTheme();
+	const theme = saved || getSystemTheme();
+	applyTheme(theme);
 }
 
 document.getElementById('theme-toggle').addEventListener('click', function() {
-    const current = document.body.classList.contains('theme-dark') ? 'dark' : 'light';
-    const next = current === 'dark' ? 'light' : 'dark';
-    applyTheme(next);
-    saveTheme(next);
+	const current = document.body.classList.contains('theme-dark') ? 'dark' : 'light';
+	const next = current === 'dark' ? 'light' : 'dark';
+	applyTheme(next);
+	saveTheme(next);
 });
 
 initTheme();
