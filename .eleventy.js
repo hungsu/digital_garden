@@ -97,6 +97,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+  // Custom date format: YYYY MMMM D
+  function dateYMDShort(dateInput) {
+    if (!dateInput) return "";
+    const date = new Date(dateInput);
+    if (isNaN(date)) return dateInput;
+    const year = date.getFullYear();
+    const month = date.toLocaleString('en-US', { month: 'long' });
+    const day = date.getDate();
+    return `${year} ${month} ${day}`;
+  }
+  eleventyConfig.addFilter("dateYMDShort", dateYMDShort);
   let markdownLib = markdownIt({
     breaks: true,
     html: true,

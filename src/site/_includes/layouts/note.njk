@@ -64,6 +64,20 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
+      {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+      <div class="timestamps">
+        {%- if meta.timestampSettings.showCreated and created -%}
+        <span>
+          Created on <span class="human-date" data-date="{{created}}">{{ created | dateYMDShort }}</span>.
+        </span>
+        {%- endif -%}
+        {%- if meta.timestampSettings.showUpdated and updated -%}
+        <span>
+          Updated on <span class="human-date" data-date="{{updated}}">{{ updated | dateYMDShort }}</span>.
+        </span>
+        {%- endif -%}
+      </div>
+      {%- endif -%}
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}

@@ -271,7 +271,7 @@ ul.task-list {
         border-radius: 4px;
         margin-top: 50px;
         max-width: 700px;
-        margin: auto;
+        margin: 1em auto; // Changed
         border-radius: 0;
         border-top: 2px solid var(--background-secondary);
         justify-content: space-between;
@@ -729,20 +729,13 @@ body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
     background-image: var(--note-icon-3);
 }
 
+// This has been changed from the original
 .timestamps {
-    display: flex;
-    flex-direction: row;
-    font-size: 0.8em;
-    color: var(--text-muted);
-    gap: 10px;
     margin-top: 20px;
 
-    div {
-        display: flex;
-        flex-direction: row;
-        gap: 3px;
-        align-items: center;
-    }
+    font-size: 0.8em;
+    color: var(--text-muted);
+    text-align: center;
 }
 
 .align-icon {
