@@ -4,14 +4,47 @@
     <i icon-name="search" ></i>
 </button>
 
-<button class="button-dark-mode" onclick="toggleDarkMode()" aria-label="Toggle dark mode">
-    <div class="icon"></div>
+
+<button id="theme-toggle" class="button-dark-mode" aria-label="Toggle dark mode">
+        <div class="icon"></div>
 </button>
 </div>
 <script>
-window.toggleDarkMode = function() {
-document.querySelector('body').classList.toggle('theme-dark');
-document.querySelector('body').classList.toggle('theme-light');
+function applyTheme(theme) {
+    const body = document.body;
+    if (theme === 'dark') {
+        body.classList.add('theme-dark');
+        body.classList.remove('theme-light');
+    } else {
+        body.classList.add('theme-light');
+        body.classList.remove('theme-dark');
+    }
 }
+
+function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function getSavedTheme() {
+    return localStorage.getItem('theme');
+}
+
+function saveTheme(theme) {
+    localStorage.setItem('theme', theme);
+}
+
+function initTheme() {
+    const saved = getSavedTheme();
+    const theme = saved || getSystemTheme();
+    applyTheme(theme);
+}
+
+document.getElementById('theme-toggle').addEventListener('click', function() {
+    const current = document.body.classList.contains('theme-dark') ? 'dark' : 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    saveTheme(next);
+});
+
+initTheme();
 </script>
-</div>
