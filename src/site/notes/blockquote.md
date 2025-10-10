@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blockquote/","title":"Blockquote","updated":"2025-10-09T17:06:27.538-07:00"}
+{"dg-publish":true,"permalink":"/blockquote/","title":"Blockquote","updated":"2025-10-09T18:36:59.377-07:00"}
 ---
 
 
@@ -35,7 +35,7 @@ The Verge floats to the side, with lines reminiscent of a ruled school notebook.
 
 ![](/img/user/Embeds/theverge_blockquote.jpg)
 
-I find the Verge's old blockquote design with all caps, pink italics to be garish.
+I find the Verge's old blockquote design with all caps, pink italics to be a bit garish.
 
 
 ![bustle_blockquote.jpg](/img/user/Embeds/bustle_blockquote.jpg)
@@ -48,7 +48,7 @@ I find the Verge's old blockquote design with all caps, pink italics to be garis
 
 ![maggie_appleton_blockquote.png](/img/user/Embeds/maggie_appleton_blockquote.png)
 
-[[People/Maggie Appleton\|Maggie Appleton]] has some beautiful blockquotes on her notes. Centre aligned, with small decorative bars above and below:
+[[People/Maggie Appleton\|Maggie Appleton]] has some beautiful blockquotes on her notes. Centre aligned, with small decorative bars above and below.
 
 ![Wired_magazine_blockquote.png](/img/user/Embeds/Wired_magazine_blockquote.png)
 
