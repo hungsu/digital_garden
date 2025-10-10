@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-09T16:56:02.636-07:00"}
+{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-09T18:38:50.156-07:00"}
 ---
 
 
@@ -33,7 +33,7 @@ Envato Tuts has a free [39m video](https://youtu.be/yAuUDyUC-GM) with some inter
 
 - If you're a complete beginner, I think doing exercises is the fastest way to learn the basics. This [interactive type tutorial](https://www.learnui.design/tools/typography-tutorial.html) is the best I've found.
 - Matthew Butterick's [Practical Typography](https://practicaltypography.com/) is one of the best free online manuals on typography. I re-read it and refer to it often. 
-- Typewolf's [guides](https://www.typewolf.com/guides) are precise and effective. If you have money, he has a $399USD [[Unsorted/Flawless Typography Checklist\|Flawless Typography Checklist]] which I have purchased.
+- Typewolf's [guides](https://www.typewolf.com/guides) are precise and effective. If you have money, he has a $399USD [Flawless Typography Checklist](https://www.typewolf.com/checklist) which I have purchased.
 - Donny Truong's [Pro Web Type](https://prowebtype.com/) is a quick and practical guide to improving Typography for total beginners
 - [[People/Gwern Branwen\|Gwern Branwen]] has a very [long article](https://www.gwern.net/Design) talking about the design of his website.
 - [The Elements of Typographic Style](https://readings.design/PDF/the_elements_of_typographic_style.pdf). A well-known classic in the industry. If a book seems too old fashioned, someone reinterpreted it in [The Elements of Typographic Style applied to the web](http://webtypography.net/toc/)
@@ -44,6 +44,6 @@ Envato Tuts has a free [39m video](https://youtu.be/yAuUDyUC-GM) with some inter
 
 Typography is improved greatly with [[Unsorted/colour selection for UI\|colour selection for UI]].
 
-A core skill for [[Unsorted/UI design\|Unsorted/UI design]], and in my opinion, a crucial but underrated skill of [UI engineering](UI%20engineering.md).
+A core skill for [[Concepts/UI design\|UI design]], and in my opinion, a crucial but underrated skill of [[UI engineering\|UI engineering]].
 
-Is somewhat related to, but different from Penmanship and [[Unsorted/calligraphy\|calligraphy]].
+Knowing about Penmanship and [[Unsorted/calligraphy\|calligraphy]] would probably help - though I wouldn't know as I'm bad at both!
