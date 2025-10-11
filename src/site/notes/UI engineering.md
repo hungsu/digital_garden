@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ui-engineering/","title":"UI engineering","updated":"2025-07-31T20:14:17.800-07:00"}
+{"dg-publish":true,"permalink":"/ui-engineering/","title":"UI engineering","updated":"2025-07-31T20:14:17.801-07:00"}
 ---
 
 # UI engineering
@@ -37,7 +37,7 @@ It is generally agreed this split exists, but it is not universally agreed what 
 
 | Front                               | Either way                        | Back                        |
 | ----------------------------------- | --------------------------------- | --------------------------- |
-| [[Unsorted/Accessibility\|Accessibility]], [[Unsorted/CSS\|CSS]], [[Unsorted/SVG\|SVG]] | [[Unsorted/CORS\|CORS]], routing, [[Unsorted/TypeScript\|TypeScript]] | [[Unsorted/CORS\|CORS]], [[Unsorted/UI data model\|UI data model]] |
+| [[Unsorted/Accessibility\|Accessibility]], [[Unsorted/CSS\|CSS]], [[Unsorted/SVG\|SVG]] | [[Unsorted/CORS\|CORS]], routing, [[Digital/Coding/TypeScript\|TypeScript]] | [[Unsorted/CORS\|CORS]], [[Unsorted/UI data model\|UI data model]] |
 For those as the Front, [[UI pattern\|UI pattern]]
 
 

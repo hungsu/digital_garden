@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-09T18:38:50.156-07:00"}
+{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-10T18:14:48.517-07:00"}
 ---
 
 
