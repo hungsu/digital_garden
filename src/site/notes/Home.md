@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-10-09T17:01:40.546-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-10-12T11:46:12.230-07:00"}
 ---
 
 
@@ -9,7 +9,7 @@ G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital g
 
 My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Baldur's Gate 3\|Baldur's Gate 3]] , [[Videogames/PEAK (2025)\|PEAK]], and [[Videogames/The Spell Brigade\|The Spell Brigade]]. My childhood playing videogames is directly responsible for my present day career in [[UI engineering\|UI engineering]].
 
-I thoroughly enjoy note taking and [[Concepts/PKM\|Personal Knowledge Management]], using [[Digital/Obsidian\|Obsidian]]. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! This website you're reading was made with the [[Digital/Digital Garden plugin\|Digital Garden plugin]] by Ole Eskild, [[Unsorted/Github\|Github]], and [[Digital/Netlify\|Netlify]]. 
+I thoroughly enjoy note taking and [[Concepts/PKM\|Personal Knowledge Management]], using [[Digital/Obsidian\|Obsidian]]. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! This website you're reading was made with the [[Digital/Digital Garden plugin\|Digital Garden plugin]] by Ole Eskild. 
 
 I enjoy UI and UX design, especially [[Concepts/typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
 
