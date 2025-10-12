@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-10T18:14:48.517-07:00"}
+{"dg-publish":true,"permalink":"/concepts/typography/","title":"Typography","updated":"2025-10-12T00:55:19.109-07:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 Typography is the art of choosing typefaces and arranging type to make written language legible and beautiful. 
 
-Made up of some smaller skills including:
+Made up of some smaller skills, including:
 
 - [[Unsorted/Font selection\|Font selection]], particularly how to choose readable fonts for body and titles.
 - [[Unsorted/Typesetting\|Typesetting]], including font size, leading, justification, and line length.

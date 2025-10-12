@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-09-30T11:39:01.495-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-10-09T17:01:40.546-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@ My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my compu
 
 I thoroughly enjoy note taking and [[Concepts/PKM\|Personal Knowledge Management]], using [[Digital/Obsidian\|Obsidian]]. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! This website you're reading was made with the [[Digital/Digital Garden plugin\|Digital Garden plugin]] by Ole Eskild, [[Unsorted/Github\|Github]], and [[Digital/Netlify\|Netlify]]. 
 
-I enjoy UI and UX design, especially [[Unsorted/typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
+I enjoy UI and UX design, especially [[Concepts/typography\|typography]]. This website is using an Obsidian theme I designed and made myself, called [Typomagical](https://github.com/hungsu/typomagical-obsidian).
 
 This site doesn’t use ads, cookies, or analytics and never will. I’m privacy first.
 
@@ -31,7 +31,7 @@ This site doesn’t use ads, cookies, or analytics and never will. I’m privacy
 | 2023-Feb-26  | Discovered a helpful new term, [[Concepts/ADHD procrastination\|ADHD procrastination]].                                                                                                                                                                                                                            |
 | 2023-Feb-20  | I spent around three hours replacing my old Font Awesome icon in my nav ![old-fa-nav.jpg](/img/user/Embeds/old-fa-nav.jpg) with an SVG from Noun Project. ![new-noun-nav.jpg](/img/user/Embeds/new-noun-nav.jpg)                                                                                                                                    |
 | 2023-Feb-19  | I'm thinking a bit about [[Digital/PageSpeed Insights\|PageSpeed Insights]]. This website is based on [[Digital/Digital Garden plugin\|Digital Garden plugin]] which gets a Performance score of only `48/100`, on a page with no images. By comparison, my website fared better at `69/100`, and with some quick tweaks from me got `74/100`. |
-| 2022-Aug-30  | I've been thinking a lot about [[Unsorted/Blockquote\|Blockquote]]s, and [[Digital/Software Design document\|Software Design document]]                                                                                                                                                                                                    |
+| 2022-Aug-30  | I've been thinking a lot about [[blockquote\|blockquote]]s, and [[Digital/Software Design document\|Software Design document]]                                                                                                                                                                                                    |
 | 2022-Jul-27  | I was alarmed by a comment on Hacker News of a person who didn't see the point of linking their notes. So I started writing some reasons why [[Claims/You should link your notes\|You should link your notes]].                                                                                                        |
 | 2022-Jul-22  | My [[Gear/6700XT\|6700XT]] arrived, and I watched [[Movies/Thor Love and Thunder\|Thor Love and Thunder]]                                                                                                                                                                                                                      |
 | 2022-Jul-17  | [[Gear/Time timer\|Time timer]]                                                                                                                                                                                                                                                                      |
