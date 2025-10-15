@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-10-12T11:46:12.230-07:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Hung-Su's clues","tags":["gardenEntry"],"updated":"2025-10-15T11:21:34.494-07:00"}
 ---
 
 
 ![Venice-beach-with-ebike.jpg](/img/user/Embeds/Venice-beach-with-ebike.jpg)
 
-G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital garden\|digital garden]] 😀 They are of varying levels of quality, but they're all 100% written by me. Generative AI is never used at any part of the process of anything on this blog. You might be curious about [[Why publish notes\|why I publish notes]].
+G'day! I'm Hung-Su and these are my notes, in the form of a [[Concepts/digital garden\|digital garden]] 😀 They are of varying levels of quality, but they're all 100% written by me. You might be curious about [[Why publish notes\|why I publish notes]].
 
 My oldest hobby is playing [[videogame\|videogames]], usually on [[Gear/my computer\|my computer]]. I'm currently playing [[Videogames/Baldur's Gate 3\|Baldur's Gate 3]] , [[Videogames/PEAK (2025)\|PEAK]], and [[Videogames/The Spell Brigade\|The Spell Brigade]]. My childhood playing videogames is directly responsible for my present day career in [[UI engineering\|UI engineering]].
 
