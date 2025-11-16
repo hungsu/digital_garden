@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-09-22T20:13:20.711-07:00"}
+{"dg-publish":true,"permalink":"/gear/trim-ui-smart-pro/","updated":"2025-11-15T20:07:16.814-08:00"}
 ---
 
 ![trimui-smart-pro.jpg](/img/user/Embeds/trimui-smart-pro.jpg)
@@ -23,11 +23,14 @@ Has quite meagre specifications:
 
 I installed a custom layer over the base operating system, called [Crossmix OS](https://github.com/cizia64/CrossMix-OS), which adds a variety of neat features:
 - [[Unsorted/Moonlight\|Moonlight]] for streaming games from [[Gear/my computer\|my computer]], which works well on the device but I've found that the device's weak CPU and RAM seem only able to handle a bitrate of 2.5Mbps. I've observed [one person](https://www.reddit.com/r/trimui/comments/1frgl0u/testing_moonlight_crossmix_os/) say that Moonlight works better at 30FPS on the device, but I'd rather keep the high framerate.
-- Function switch remapping - there's a 2-mod switch on the bottom of the device, and its purpose can be defined to do all kinds of things. I set mine to put my console in Turbo mode for more CPU intensive tasks. Note that this seems to make the back of the device quite warm.
+- Function switch remapping - there's a 2-mode switch on the bottom of the device, and its purpose can be defined to do all kinds of things. I set mine to put my console in Turbo mode for more CPU intensive tasks. Note that this seems to make the back of the device quite warm.
 - SMB hosting, so when the device connects to WiFi, I can see it as a network drive from my desktop PC. This lets me easily copy game files to it
 - Saving state on power off, and booting into saved state on power on
 
 It has one major downside - this OS seems to introduce problems to Portmaster. For example, Death Road To Canada does not work on CrossmixOS, but [allegedly](https://discord.com/channels/1122861252088172575/1122882437291188345/1368701470790123631) does work on Knulli.
+
+As of 2025, you should probably not buy this, and look at the [Mangmi Air X](https://mangmi.com/products/mangmi-air-x?sca_ref=9678106.O1xxMQR1Hxb).
+
 ## Notes for me and others who own it
 
 The [r/trimui subreddit](https://www.reddit.com/r/trimui/) has made a useful website, [TrimUI Hub](https://destructiveburn.com/TrimUIHub/).
