@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gear/minisforum-bd-790i-se-mini-itx-motherboard/","updated":"2025-10-01T18:32:41.847-07:00"}
+{"dg-publish":true,"permalink":"/gear/minisforum-bd-790i-se-mini-itx-motherboard/","updated":"2025-12-12T19:39:39.498-08:00"}
 ---
 
 # MINISFORUM mini-ITX motherboard
@@ -13,7 +13,7 @@ It has the most power x86 CPU I've ever owned, the [Ryzen 9 7940HX](https://www.
 
 ## It's wonderfully convenient
 
-This motherboard, and this category of motherboards, has totally changed how I think of [[Unsorted/How to build a computer\|PC building]]. It combines what is usually 3 separate components into one:
+This motherboard, and this category of motherboards, has totally changed how I think of PC building. It combines what is usually 3 separate components into one:
 - CPU
 - motherboard
 - CPU heatsink
@@ -34,7 +34,7 @@ I will very likely be using only this type of motherboard for my gaming PCs in f
 
 Mine does NOT have wi-fi or bluetooth.
 
-The motherboard has a single [[Unsorted/2.5Gb ethernet\|2.5Gbe]] port, which supports [[wake on LAN\|wake on LAN]].
+The motherboard has a single [[Unsorted/2.5Gb ethernet\|2.5Gbe]] port, which supports wake on LAN.
 
 Its 2 m.2 2280 slots have built in heatsink and fan. Note these are [[Unsorted/PCIe 4.0\|PCIE Gen 4]], not 5.
 
