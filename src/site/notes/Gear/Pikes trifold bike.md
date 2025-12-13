@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite"],"updated":"2025-10-01T18:11:07.058-07:00"}
+{"dg-publish":true,"permalink":"/gear/pikes-trifold-bike/","tags":["favourite/2024"],"updated":"2025-12-12T19:01:17.821-08:00"}
 ---
 
-![20250914_1227 Pikes bike.jpg](/img/user/20250914_1227%20Pikes%20bike.jpg)
+![20250914_1227 Pikes bike.jpg](/img/user/Embeds/20250914_1227%20Pikes%20bike.jpg)
 # Paikesi
 
 My first folding bike, bought new from a bike store in Makati, Philippines for a mere $503.92USD in 2024. It's a clone of a popular folding bike, the Brompton, which sells for around $1800 to $3500 new.
