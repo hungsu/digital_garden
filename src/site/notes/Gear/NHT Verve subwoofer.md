@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/gear/nht-verve-subwoofer/","updated":"2025-09-18T23:11:37.419-07:00"}
+{"dg-publish":true,"permalink":"/gear/nht-verve-subwoofer/","updated":"2025-12-12T19:03:07.072-08:00"}
 ---
 
 
 
 # NHT V Woofer
 
-![20250820 NHT Verve subwoofer.jpg](/img/user/20250820%20NHT%20Verve%20subwoofer.jpg)
+![20250820 NHT Verve subwoofer.jpg](/img/user/Embeds/20250820%20NHT%20Verve%20subwoofer.jpg)
 
-A [[Unsorted/subwoofer\|subwoofer]] I bought from FB Marketplace. I wasn't expecting to buy it - I was meeting the seller for the [[Gear/NHT M5 monitor\|NHT M5 monitor]], who offered me this while I was with him.
+A subwoofer I bought from FB Marketplace. I wasn't expecting to buy it - I was meeting the seller for the [[Gear/NHT M5 monitor\|NHT M5 monitor]], who offered me this while I was with him.
 
 It has these curious specifications:
-- 2 × 10-in aluminium cones - I have never seen another subwoofer with two big cones like this.
+- 2 × 10″ aluminium cones - I have never seen a subwoofer with two big cones like this.
 - 200-watt amplifier
 - 16.9″ × 23.3″ × 6″ (7.8″ incl. base)
  - 29 lb
